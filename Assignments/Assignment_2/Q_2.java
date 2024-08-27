@@ -14,7 +14,7 @@ public class Q_2 {
         System.out.println("1: Monday /n 2: Tuesday /n 3: Wednesday /n 4: Thursday /n 5: Friday /n 6: Saturday /n 7: Sunday");
 
         switch (choice) {
-            case 1:switch (dayNumber) {wh
+            case 1:switch (dayNumber) {
                 case 6:
                     System.out.println("It's a weekend");
                     break;
