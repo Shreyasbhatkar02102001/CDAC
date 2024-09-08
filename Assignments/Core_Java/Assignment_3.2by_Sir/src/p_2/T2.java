@@ -13,6 +13,7 @@ class CompoundInterestCalculator{
 	Scanner sc = new Scanner(System.in);
 	
 	void acceptRecord() {
+		System.out.println("Enter : ");
 		this.amount = sc.nextInt();
 		this.annualInterestRate = sc.nextFloat()/100;
 		this.numberOfCompounds = sc.nextInt();
