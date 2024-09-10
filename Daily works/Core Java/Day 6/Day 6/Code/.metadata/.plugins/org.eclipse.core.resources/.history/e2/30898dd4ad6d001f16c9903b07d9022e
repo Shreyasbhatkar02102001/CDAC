@@ -1,0 +1,17 @@
+package org.example;
+
+class Employee{
+	private String name;
+	private int empid;
+	private float salary;
+	
+	public Employee( String name, int empid, float salary ) {
+		//TODO
+	}
+}
+
+public class Program {
+	public static void main(String[] args)  {
+		
+	}
+}

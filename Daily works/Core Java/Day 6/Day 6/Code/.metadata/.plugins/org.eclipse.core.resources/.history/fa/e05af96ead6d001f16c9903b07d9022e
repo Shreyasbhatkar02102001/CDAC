@@ -1,0 +1,21 @@
+package org.example;
+
+class Employee{
+	private String name;
+	private int empid;
+	private float salary;
+	
+	public Employee( String name, int empid, float salary ) {
+		//TODO
+	}
+}
+
+public class Program {
+	public static void main(String[] args)  {
+		//Integer i1 = new Integer( );	//Not OK
+		
+		Integer i2 = new Integer( 123 );	// OK
+		
+		Integer i3 = new Integer( "1000" );	//Not OK
+	}
+}

@@ -1,0 +1,32 @@
+package org.example;
+
+class Singleton{
+	private int number;
+	private Singleton() {
+		System.out.println("Inside ctor");
+		this.number = -1;
+	}
+	public int getNumber() {
+		return number;
+	}
+	public void setNumber(int number) {
+		this.number = number;
+	}
+	private static Singleton reference = null;
+	public static Singleton getReference( ) {
+		if( reference == null )
+			reference = new Singleton();
+		return reference;
+	}
+}
+public class Program {
+	public static void main(String[] args) {
+		Singleton s1 = Singleton.getReference();
+		s1.setNumber(10);
+		System.out.println("Number	:	"+s1.getNumber());
+		
+		Singleton s2 = Singleton.getReference();
+		Singleton s3 = Singleton.getReference();
+		Singleton s4 = Singleton.getReference();
+	}
+}

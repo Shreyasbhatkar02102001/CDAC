@@ -1,0 +1,11 @@
+package org.example;
+
+class Employee{
+	
+}
+
+public class Program {
+	public static void main(String[] args)  {
+		
+	}
+}

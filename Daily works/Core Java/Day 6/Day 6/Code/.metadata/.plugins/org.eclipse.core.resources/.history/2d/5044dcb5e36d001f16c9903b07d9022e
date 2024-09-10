@@ -1,0 +1,12 @@
+package org.example;
+
+class Test{
+	public Test( ) {
+		System.out.println("Inside ctor");
+	}
+}
+public class Program {
+	public static void main(String[] args) {
+		Test t = new Test( );
+	}
+}

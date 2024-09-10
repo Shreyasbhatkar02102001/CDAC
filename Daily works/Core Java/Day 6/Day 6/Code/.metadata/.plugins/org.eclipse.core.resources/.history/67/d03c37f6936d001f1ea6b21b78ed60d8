@@ -1,0 +1,32 @@
+package org.example;
+
+class Employee {
+    private String name;
+    private int empId;
+    private String department;
+    private String designation;
+    private double salary;
+
+    public Employee() {
+    	this( "", 0, "", "", 0.0 );
+	}
+    public Employee(String name, int empId, String department, String designation, double salary) {
+        this.name = name;
+        this.empId = empId;
+        this.department = department;
+        this.designation = designation;
+        this.salary = salary;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s %d %s %s %f", name, empId, department, designation, salary);
+    }
+}
+
+
+public class Program {
+	public static void main(String[] args) {
+		
+	}
+}

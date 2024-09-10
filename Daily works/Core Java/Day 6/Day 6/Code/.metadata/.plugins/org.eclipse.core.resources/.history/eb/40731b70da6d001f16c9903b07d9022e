@@ -1,0 +1,26 @@
+package org.example;
+
+class Test{
+	private int num1;
+	private int num2;
+	static int num3;
+	
+	public Test( ){
+		this.num1 = 0;
+		this.num2 = 0;
+	}
+	public void printRecord( ) {
+		this.num1 = 100;
+		this.num2 = 200;
+	}
+}
+
+public class Program {
+	public static void main(String[] args) {
+		Test t = new Test( );
+		this.num1 = 10;
+		this.num2 = 20;
+		
+		t.printRecord();//t.printRecord( t );
+	}
+}

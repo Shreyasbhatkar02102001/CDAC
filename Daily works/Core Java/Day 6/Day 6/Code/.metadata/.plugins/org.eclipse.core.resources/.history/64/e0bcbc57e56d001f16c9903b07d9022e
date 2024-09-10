@@ -1,0 +1,31 @@
+package org.example;
+
+class Singleton{
+	private int num1;
+	private int num2;
+	private Singleton() {
+		this.num1 = -1;
+		this.num2 = -1;
+	}
+	public int getNumber() {
+		return number;
+	}
+	public void setNumber(int number) {
+		this.number = number;
+	}
+	private static Singleton reference = null;
+	public static Singleton getReference( ) {
+		if( reference == null )
+			reference = new Singleton();
+		return reference;
+	}
+}
+public class Program {
+	public static void main(String[] args) {
+		Singleton s1 = Singleton.getReference();
+		s1.setNumber(10);
+		System.out.println("Number	:	"+s1.getNumber());
+		
+		Singleton s2 = Singleton.getReference();
+	}
+}

@@ -1,0 +1,13 @@
+package org.example;
+
+class Test{
+	private int num1;
+	private int num2;
+	private int static num3;
+}
+
+public class Program {
+	public static void main(String[] args) {
+		
+	}
+}

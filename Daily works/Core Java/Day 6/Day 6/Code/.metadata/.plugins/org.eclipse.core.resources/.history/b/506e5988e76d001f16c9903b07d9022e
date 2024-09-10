@@ -1,0 +1,10 @@
+package org.example;
+
+class Test{
+	public int num1 = 10;
+}
+public class Program {
+	public static void main(String[] args) {
+		System.out.println("Num1	:	"+num1);	//Not OK
+	}
+}

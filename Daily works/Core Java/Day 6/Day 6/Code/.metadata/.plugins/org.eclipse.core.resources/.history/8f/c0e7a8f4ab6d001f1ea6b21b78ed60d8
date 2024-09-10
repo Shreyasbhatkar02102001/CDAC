@@ -1,0 +1,13 @@
+package org.example;
+
+class Employee{
+	
+}
+
+public class Program {
+	public static void main(String[] args)  {
+		int[] arr = new int[ 3 ];
+		String name =  arr.getClass().getSuperclass().getSimpleName();
+		System.out.println(name);
+	}
+}

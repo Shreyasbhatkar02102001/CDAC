@@ -1,0 +1,15 @@
+package org.example;
+
+class Employee{
+	private String name;
+	private int empid;
+	private String department;
+	private String designation;
+	private float salary;
+}
+
+public class Program {
+	public static void main(String[] args)  {
+		
+	}
+}
