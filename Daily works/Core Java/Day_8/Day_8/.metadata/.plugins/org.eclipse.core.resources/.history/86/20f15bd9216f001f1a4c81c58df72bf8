@@ -1,0 +1,12 @@
+int menu_list( void ){
+	int choice;
+	printf("Enter choice	:	");
+	scanf("%d", &choice);
+	return choice;
+}
+int main( void ){
+	return 0;
+}
+
+
+

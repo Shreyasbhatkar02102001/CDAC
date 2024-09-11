@@ -1,0 +1,12 @@
+package org.example.association.lib;
+
+public class Address {
+	private String cityName;
+	private String stateName;
+	private int pinCode;
+	public Address() {
+		this.cityName = "";
+		this.stateName = "";
+		this.pinCode = 0;
+	}
+}

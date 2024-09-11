@@ -1,0 +1,16 @@
+package org.example.util;
+
+import java.util.Scanner;
+
+import org.example.domain.Employee;
+
+public class EmployeeUtil {
+	private Employee emp;
+	public EmployeeUtil() {
+		this.emp = new Employee();
+	}
+	private static Scanner sc;
+	static {
+		 = new Scanner(System.in);
+	}
+}

@@ -1,0 +1,12 @@
+package org.example.util;
+
+import org.example.domain.Employee;
+
+public class EmployeeUtil {
+	private Employee emp;
+	public public EmployeeUtil() {
+		// TODO Auto-generated constructor stub
+	}( ) {
+		this.emp = new Employee();
+	}
+}

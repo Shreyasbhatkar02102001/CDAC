@@ -1,0 +1,22 @@
+08:46:28 **** Incremental Build of configuration Debug for project Day_8.3 ****
+make all 
+Building file: ../src/Main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.c"
+../src/Main.c:35:11: warning: enumeration value 'EXIT' not handled in switch [-Wswitch]
+                switch( choice ){
+                        ^~~~~~
+../src/Main.c:35:11: note: add missing switch cases
+                switch( choice ){
+                        ^
+1 warning generated.
+Finished building: ../src/Main.c
+ 
+Building target: Day_8.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_8.3"  ./src/Main.o   
+Finished building target: Day_8.3
+ 
+
+08:46:30 Build Finished. 0 errors, 1 warnings. (took 1s.143ms)
+

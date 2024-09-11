@@ -1,0 +1,6 @@
+package org.example.association.test;
+public class Program {
+	public static void main(String[] args) {
+		
+	}
+}

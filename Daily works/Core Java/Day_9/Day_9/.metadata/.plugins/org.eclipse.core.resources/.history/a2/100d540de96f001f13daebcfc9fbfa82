@@ -1,0 +1,10 @@
+package org.example.association.test;
+
+import org.example.association.lib.Date;
+
+public class Program {
+	public static void main(String[] args) {
+		Date date = new Date();
+		System.out.println( date.toString());
+	}
+}

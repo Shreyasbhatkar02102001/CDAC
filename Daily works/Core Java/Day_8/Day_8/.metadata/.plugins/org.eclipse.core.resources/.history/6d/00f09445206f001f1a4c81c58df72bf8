@@ -1,0 +1,38 @@
+package org.example.demo1;
+
+import java.util.Arrays;
+
+public class Program {
+	public static int[][] getInstance( ){
+		int[][] arr = new int[ 4 ][ ];
+		arr[ 0 ] = new int[ 4 ];
+		arr[ 1 ] = new int[ 3 ];
+		arr[ 2 ] = new int[ 2 ];
+		arr[ 3 ] = new int[ 5 ];
+		return arr;
+	}
+	public static void main(String[] args) {
+		int[][] arr = Program.getInstance();
+		System.out.println( Arrays.deepToString(arr));	//[[0, 0, 0, 0], [0, 0, 0], [0, 0], [0, 0, 0, 0, 0]]
+	}
+	public static void main3(String[] args) {
+		int[][] arr = new int[ 4 ][ ];
+		arr[ 0 ] = new int[ 4 ];
+		arr[ 1 ] = new int[ 3 ];
+		arr[ 2 ] = new int[ 2 ];
+		arr[ 3 ] = new int[ 5 ];
+		
+		System.out.println( Arrays.deepToString(arr));	//[[0, 0, 0, 0], [0, 0, 0], [0, 0], [0, 0, 0, 0, 0]]
+	}
+	public static void main2(String[] args) {
+		int[][] arr = new int[ 4 ][ ];
+		System.out.println( Arrays.deepToString(arr));	//[null, null, null, null]
+	}
+	public static void main1(String[] args) {
+		int arr1[][] = null;
+		
+		int[] arr2[] = null;
+		
+		int[][] arr3 = null;
+	}
+}

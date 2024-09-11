@@ -1,0 +1,13 @@
+package org.example.demo1;
+
+enum Color{
+	RED,	//public static final Color RED 
+	GREEN, 	//public static final Color GREEN
+	BLUE	//public static final Color BLUE
+}
+
+public class Program {
+	public static void main(String[] args) {
+		System.out.println( Color.RED );
+	}
+}

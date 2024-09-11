@@ -1,0 +1,10 @@
+package org.example.demo1;
+public class Program {
+	public static void main(String[] args) {
+		int arr1[][] = null;
+		
+		int[] arr2[] = null;
+		
+		int[][] arr3 = null;
+	}
+}

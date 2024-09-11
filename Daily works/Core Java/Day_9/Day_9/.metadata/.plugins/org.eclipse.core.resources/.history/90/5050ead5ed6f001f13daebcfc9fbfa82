@@ -1,0 +1,14 @@
+package org.example.demo2;
+
+class Employee{
+	String name;
+	int age;
+	int empid;
+	float salary;
+	
+}
+public class Program {
+	public static void main(String[] args) {
+		
+	}
+}

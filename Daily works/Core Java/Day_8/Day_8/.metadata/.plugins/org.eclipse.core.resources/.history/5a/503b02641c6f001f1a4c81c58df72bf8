@@ -1,0 +1,11 @@
+package org.example.demo1;
+
+public class Program {
+	public static void main(String[] args) {
+		//int arr[][] = null;	//OK
+		
+		//int[] arr[] = null;	//OK
+		
+		int[][] arr = null;	//OK
+	}
+}

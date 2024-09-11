@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="org.example.association.lib.Date"/>
+    <fullyQualifiedTypeName name="org.example.association.lib.Person"/>
+    <fullyQualifiedTypeName name="org.example.association.lib.Address"/>
+    <fullyQualifiedTypeName name="org.example.main.Person"/>
+    <fullyQualifiedTypeName name="org.example.demo2.Employee"/>
+    <fullyQualifiedTypeName name="org.example.demo3.Person"/>
+    <fullyQualifiedTypeName name="org.example.demo3.Employee"/>
+    <fullyQualifiedTypeName name="org.example.demo4.Employee"/>
+    <fullyQualifiedTypeName name="org.example.demo5.Person"/>
+    <fullyQualifiedTypeName name="org.example.demo5.Employee"/>
+    <fullyQualifiedTypeName name="org.example.demo6.Person.Date"/>
+    <fullyQualifiedTypeName name="org.example.demo6.Employee"/>
+</qualifiedTypeNameHistroy>

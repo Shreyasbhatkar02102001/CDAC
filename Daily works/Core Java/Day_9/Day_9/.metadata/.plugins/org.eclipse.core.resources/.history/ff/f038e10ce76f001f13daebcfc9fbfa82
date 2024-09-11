@@ -1,0 +1,8 @@
+package org.example.association.lib;
+
+public class Person {
+	private String name;					//Association
+	private Date birthDate = new Date( );	//Association( Composition )
+	private Address currentAddress;			//Association( Aggregation )
+	
+}

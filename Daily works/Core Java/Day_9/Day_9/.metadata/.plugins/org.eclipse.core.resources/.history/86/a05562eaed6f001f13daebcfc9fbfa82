@@ -1,0 +1,21 @@
+package org.example.demo2;
+
+class Employee{
+	String name;
+	int age;
+	int empid;
+	float salary;
+	
+	public Employee() {
+		this.name = "";
+		this.age = 0;
+		this.empid = 0;
+		this.salary = 0.0f;
+	}
+	
+}
+public class Program {
+	public static void main(String[] args) {
+		
+	}
+}

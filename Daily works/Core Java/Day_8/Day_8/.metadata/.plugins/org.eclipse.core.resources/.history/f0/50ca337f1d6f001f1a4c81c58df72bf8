@@ -1,0 +1,60 @@
+package org.example.demo1;
+
+import java.util.Scanner;
+
+public class Program {
+	private static Scanner sc = new Scanner(System.in);
+	private static void acceptRecord(int[][] arr) {
+		for( int row = 0; row < arr.length; ++ row ) {
+			for( int col = 0; col < arr[ row ].length; ++ col ) {
+				System.out.print("Enter arr["+ row +"]["+ col +"]	:	");
+				arr[ row ][ col ] = sc.nextInt();
+			}
+		
+		}
+	}
+
+	private static void printRecord(int[][] arr) {
+		for( int row = 0; row < arr.length; ++ row ) {
+			for( int col = 0; col < arr[ row ].length; ++ col ) {
+				System.out.print(arr[ row ][ col ]+"	");
+			}
+			System.out.println();
+		}
+	}
+	public static void main(String[] args) {
+		int[][] arr = new int[ 4 ][ 4 ];
+		
+		Program.acceptRecord( arr );
+		
+		Program.printRecord( arr );
+	}
+
+
+	public static void main2(String[] args) {
+		int[][] arr = new int[ 4 ][ 4 ];
+		
+		for( int row = 0; row < arr.length; ++ row ) {
+			for( int col = 0; col < arr[ row ].length; ++ col ) {
+				System.out.print("Enter arr["+ row +"]["+ col +"]	:	");
+				arr[ row ][ col ] = sc.nextInt();
+			}
+		
+		}
+		
+		for( int row = 0; row < arr.length; ++ row ) {
+			for( int col = 0; col < arr[ row ].length; ++ col ) {
+				System.out.print(arr[ row ][ col ]+"	");
+			}
+			System.out.println();
+		}
+	}
+	
+	public static void main1(String[] args) {
+		int arr1[][] = null;	//OK
+		
+		int[] arr2[] = null;	//OK
+		
+		int[][] arr3 = null;	//OK
+	}
+}

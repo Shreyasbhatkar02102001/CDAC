@@ -1,0 +1,29 @@
+package org.example.association.lib;
+
+public class Person {
+	private String name;					//Association
+	private Date birthDate = new Date( );	//Association( Composition )
+	private Address currentAddress;			//Association( Aggregation )
+	
+	public Person() {	
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public Date getBirthDate() {
+		return birthDate;
+	}
+	public void setBirthDate(Date birthDate) {
+		this.birthDate = birthDate;
+	}
+	public Address getCurrentAddress() {
+		return currentAddress;
+	}
+	public void setCurrentAddress(Address currentAddress) {
+		this.currentAddress = currentAddress;
+	}
+	
+}

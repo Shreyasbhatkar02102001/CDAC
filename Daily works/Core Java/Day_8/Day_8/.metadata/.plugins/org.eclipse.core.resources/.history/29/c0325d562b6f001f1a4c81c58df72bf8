@@ -1,0 +1,10 @@
+package org.example.util;
+
+import org.example.domain.Employee;
+
+public class EmployeeUtil {
+	private Employee emp;
+	public EmployeeUtil() {
+		this.emp = new Employee();
+	}
+}

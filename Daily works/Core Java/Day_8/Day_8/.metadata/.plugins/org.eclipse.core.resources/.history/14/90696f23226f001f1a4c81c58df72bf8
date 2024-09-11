@@ -1,0 +1,45 @@
+#include<stdio.h>
+int sum( int num1, int num2 ){
+	return num1 + num2;
+}
+int sub( int num1, int num2 ){
+	return num1 - num2;
+}
+int multiplication( int num1, int num2 ){
+	return num1 * num2;
+}
+int division( int num1, int num2 ){
+	return num1 / num2;
+}
+int menu_list( void ){
+	int choice;
+	printf("0.Exit\n");
+	printf("1.Sum\n");
+	printf("2.Sub\n");
+	printf("3.Multiplication\n");
+	printf("4.Division\n");
+	printf("Enter choice	:	");
+	scanf("%d", &choice);
+	return choice;
+}
+int main( void ){
+	int choice;
+	while( ( choice = menu_list( ) ) != 0 ){
+		int result = 0;
+		switch( choice ){
+		case 1:
+			break;
+		case 2:
+			break;
+		case 3:
+			break;
+		case 4:
+			break;
+		}
+		printf("Result	:	%d"+result);
+	}
+	return 0;
+}
+
+
+
