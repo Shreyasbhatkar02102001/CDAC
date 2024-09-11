@@ -6,7 +6,6 @@ class Airplane{
 	
 	private int arr[][];
 	int  r,c;
-	int sn ;
 	
 	
 	
