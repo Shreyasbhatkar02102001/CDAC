@@ -1,0 +1,30 @@
+package org.example.demo2;
+
+import org.example.demo1.Person;
+
+public class Employee extends Person{
+	private int empid;
+	private float salary;
+	
+	public Employee() {
+		this.empid = 0;
+		this.salary = 0.0f;
+	}
+	
+	public Employee(String name, int age , int empid, float salary) {
+		super( name, age );
+		this.empid = empid;
+		this.salary = salary;
+	}
+	
+	@Override
+	public void printRecord( ) {
+		super.printRecord();
+		System.out.println("Empid	:	"+this.empid);
+		System.out.println("Salary	:	"+this.salary);
+	}
+	@Override
+	public String toString() {
+		return  super.toString()+"	"+this.empid+"	"+this.salary;
+	}
+}

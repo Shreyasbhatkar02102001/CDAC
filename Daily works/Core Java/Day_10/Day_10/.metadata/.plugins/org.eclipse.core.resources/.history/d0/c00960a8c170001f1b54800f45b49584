@@ -1,0 +1,35 @@
+package org.example.demo2;
+
+class Rectangle{
+	private float area;
+	private float length;
+	private float breadth;
+	
+	public Rectangle() {
+		// TODO Auto-generated constructor stub
+	}
+	public void setLength(float length) {
+		this.length = length;
+	}
+	public void setBreadth(float breadth) {
+		this.breadth = breadth;
+	}
+	public void calculateArea( ) {
+		this.area = this.length * this.breadth;
+	}
+}
+public class Program {
+	public static void main(String[] args) {
+		float radius = 10.5f;
+		float area = (float) (Math.PI * Math.pow(radius,2));
+		System.out.println("Area	:	"+area);	
+	}
+	
+	public static void main1(String[] args) {
+		Rectangle rect = new Rectangle();
+		rect.setLength(10);
+		rect.setBreadth(5);
+		rect.calculateArea();
+		System.out.println("Area	:	"+area);
+	}
+}
