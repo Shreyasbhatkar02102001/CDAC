@@ -1,0 +1,83 @@
+Collections
+-------------
+
+Collection framework provides various classes/interfaces.
+Each collection class is known as container class.
+We can create object of container class i.e. container object
+That container object will contain a no. of data in terms of objects.
+Collection can store only objects and not primitive data.
+
+All the collection classes/interfaces are available in java.util package.
+Collection class container stores references of the object.
+
+ArrayList
+----------
+interface A;
+class B implements A;
+
+A ref = new B();
+
+List -- interface
+ArrayList implements List
+
+List<String> strList1 = new ArrayList<String>();		//OK
+List<String> strList1 = new ArrayList<>();			//OK
+
+
+------------------------------------
+
+List  
+- Stores data in ordered way. Indexed based operation is possible. It can contain duplicate values. It can contain multiple null values.
+
+Queue
+- First In First Out
+
+Set
+- It can not contain duplicate values.
+- It can have maximum one null value.
+
+Map
+- It stores data in key-value pair
+
+Collections
+- An utility class which is used for Collection classes (ArrayList, LinkedList etc.)
+
+Arrays
+- An utility class which is used for normal array.
+
+
+Iterator can be used for the classes which implements Iterable interface.,
+
+for-each, Iterator, Enumeration these are used to iterate only Collection objects and not for Map.
+
+Set - HashSet
+Collection interface - methods
+List interface - methods
+
+Input => String str = "abxayya";
+Output => a b x y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
