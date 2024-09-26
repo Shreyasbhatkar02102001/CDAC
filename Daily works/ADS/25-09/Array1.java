@@ -28,7 +28,6 @@ class Array{
 		arr[] = {12,23,34,45,56,67,78,89,90,100};
 		
 		for ( int i = 0; i < arr.length(); i++){
-		
 			System.out.print(arr[i] + " ");
 		}
 		
