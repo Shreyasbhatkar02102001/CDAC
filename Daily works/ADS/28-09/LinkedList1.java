@@ -30,7 +30,6 @@ class LinkedList1{
 	}
 	
 	// for insertion in-between 
-	
 	void insertafter(Node prev_node, int new_data)
 	{
 		Node new_node = new Node(new_date);
