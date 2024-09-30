@@ -30,6 +30,7 @@ class Stack{
 	
 		if (top < 0){
 			System.out.println("Underflow");
+			return -1;
 		}
 		return a[top--];
 	}
