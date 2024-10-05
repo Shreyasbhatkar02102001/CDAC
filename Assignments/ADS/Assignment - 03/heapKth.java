@@ -15,11 +15,11 @@ class heapKth{
 		l = (2 * i) + 1;
 		r = (2 * i) + 2;
 		
-		if (l < n && arr[l] < smallest){
-			smallest = i;
+		if (l < n && arr[l] < arr[smallest]){
+			smallest = l;
 		}
-		if (r < n && arr[r] < smallest){
-			smallest = i;
+		if (r < n && arr[r] < arr[smallest]){
+			smallest = r;
 		}
 		
 		if (smallest != i){
@@ -42,19 +42,25 @@ class heapKth{
 			arr[0] = arr[i];
 			arr[i] = temp;
 			
+			
 			heapify(arr, i, 0);
 		}
-		
-		//heapify(arr, i, 0);
 	}
-	
+	/*
 	void display(int arr[]){
 		
 		for(int i = n-1; i >= 0; i--){
 			System.out.print(arr[i]+" ");
 		}
 		System.out.println();
-	}
+	}*/
+	
+	void display(int[] arr) {
+        for (int value : arr) {
+            System.out.print(value + " ");
+        }
+        System.out.println();
+    }
 	
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
@@ -62,11 +68,21 @@ class heapKth{
 		int k = sc.nextInt();
 		heapKth h1 = new heapKth();
 		
-		h1.display(h1.arr);
-		h1.heapsort(h1.arr);
+		System.out.print("Original array: ");
 		h1.display(h1.arr);
 		
-		System.out.print("Kth element : "+ h1.arr[]);
+		h1.heapsort(h1.arr);
+		
+		System.out.print("Sorted array: ");
+		h1.display(h1.arr);
+		//System.out.print("Kth element : "+ h1.arr[k]);
+		
+		
+		if (k >= 0 && k < h1.arr.length) {
+            System.out.print("Kth element: " + h1.arr[k]);
+        } else {
+            System.out.print("Index out of bounds.");
+        }
 	}
 
 }

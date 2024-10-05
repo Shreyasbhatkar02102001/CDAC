@@ -15,11 +15,11 @@ class heapMin{
 		l = (2 * i) + 1;
 		r = (2 * i) + 2;
 		
-		if (l < n && arr[l] < smallest){
-			smallest = i;
+		if (l < n && arr[l] < arr[smallest]){
+			smallest = l;
 		}
-		if (r < n && arr[r] < smallest){
-			smallest = i;
+		if (r < n && arr[r] < arr[smallest]){
+			smallest = r;
 		}
 		
 		if (smallest != i){
