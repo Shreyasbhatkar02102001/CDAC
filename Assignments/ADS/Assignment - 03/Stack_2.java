@@ -50,15 +50,16 @@ public class Stack_2 {
         for (int i = 0; i < s.length(); i++) {
 
             // Check if the character is an opening bracket
-            if (s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[') {
-                stk.push(s.charAt(i));
+			char cur = s.charAt(i);
+            if (cur== '(' || cur == '{' || cur == '[') {
+                stk.push(cur);
             } else {
                 // If it's a closing bracket, check if the stack is non-empty
                 // and if the top of the stack is a matching opening bracket
                 if (!stk.isEmpty() && 
-                    ((stk.peek() == '(' && s.charAt(i) == ')') ||
-                     (stk.peek() == '{' && s.charAt(i) == '}') ||
-                     (stk.peek() == '[' && s.charAt(i) == ']'))) {
+                    ((stk.peek() == '(' && cur == ')') ||
+                     (stk.peek() == '{' && cur == '}') ||
+                     (stk.peek() == '[' && cur == ']'))) {
                     stk.pop();
                 } else {
                     return false; // Unmatched closing bracket
@@ -72,10 +73,10 @@ public class Stack_2 {
     }
 
     public static void main(String[] args) {
-        String s = "([)]";
+        String s = "({[()]})";
         if (ispar(s))
-            System.out.println("true");
+            System.out.println("Balanced");
         else
-            System.out.println("false");
+            System.out.println("Unbalanced");
     }
 }
