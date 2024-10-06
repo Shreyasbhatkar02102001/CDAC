@@ -21,9 +21,9 @@ class DLL{
 			Node new_node = new Node(new_data);
 			new_node.next = head;
 			new_node.prev = null;
-			if(head != null)
-			head.prev = new_node;
-	 
+			if(head != null){
+				head.prev = new_node;
+			}
 			head = new_node;
 	 
 		}
