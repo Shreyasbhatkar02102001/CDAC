@@ -59,7 +59,7 @@ class BST{
 		if (root == null){
 			return root;
 		}
-		if (key < root.data){
+		if (key > root.data){
 			root.left = delete(root.left, key);
 		}
 		else if (key < root.data){

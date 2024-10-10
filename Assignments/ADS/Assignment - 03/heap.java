@@ -14,9 +14,9 @@ class heap{
 		r = (2 * i) + 2;
 		
 		if ( l < n && arr[l] > arr[largest]){
-			largest = 1;
+			largest = l;
 		}
-		if ( r < n && arr[2] > arr[largest]){
+		if ( r < n && arr[r] > arr[largest]){
 			largest = r;
 		}
 		

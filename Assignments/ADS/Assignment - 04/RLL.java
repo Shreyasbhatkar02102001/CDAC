@@ -53,7 +53,7 @@ class RLL{
 		while(trav.next != null && trav.next.data != key){
 			trav = trav.next;
 		}
-		if (trav == null){
+		if (trav.next == null){
 			return;
 		}
 		newNode.next = trav.next;
