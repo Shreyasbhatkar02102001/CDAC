@@ -1,0 +1,326 @@
+Date and Time datatypes:
+
+
+Time 
+*  'hh:mm:ss' or 'HH:MM:SS'
+*   time values may range from '-838:59:59' to '838:59:59'
+*   time1-time2
+
+
+Datetime
+*  date and time is stored together.
+*  'YYYY-MM-DD hh:mm:ss' is default datetime format in MySQl
+*  '1000-01-01 00:00:00' to '9999-12-31 23:59:59'(range)
+*  datetime1 - datetime2 -> return number of days, remainder hours,
+   minutes, and seconds between the two
+
+
+Year
+*    YYYY
+*    1901 to 2155
+
+
+In MySQL:-
+*   you can have max 4096 per table provided
+    the row size<=65,535 Bytes
+*   no limit on the number of rows per table,
+    provided the table size<=64 TB
+
+Largest table in the world ->
+ORDERS table of amazon.com -> 100's of TB daily
+
+Q.Create table
+------------------ 
+EMP
+Empno char(4)
+Ename varchar(25)
+Sal float
+City varchar(15)
+Dob date
+ 
+-->Command to create table 
+Create table EMP
+(
+Empno char(4),
+Ename varchar(25),
+Sal float,
+City varchar(15),
+Dob date
+);
+
+*  ; is known as delimiter(also known as terminator)
+*  it indicates end of command
+*  SQL commands are case-insensitive 
+*  Table name and column are case-sensitive in linux/Mac
+
+
+INSERT the rows
+-----------------
+insert into emp 
+values('1', 'Amit', 5000, 'Mumbai', '1995-01-15');
+
+*  order is important, when you are inserting the data is case sensitive
+*  for char, varchar, data, time, datetime use ' '
+*  'YYYY-MM-DD' is the default date format in MySQL
+   '1995-01-15' or '95-01-15'
+
+other order data insertion:
+--------------------------------------
+Recommended:-
+1. Flexible
+2. Readable
+3. In future if you alter the table and add a column
+   then this insert statement will continue to work
+insert into emp (empno, sal, enmae, city, dob)
+values('2', 6000, 'King', 'Delhi', '1990-02-20');
+----------------------------------------
+insert into emp (empno, sal)
+values('3', 7000);
+
+
+Null value:-
+
+*  Null means Nothing
+*  Null value is having ASCII value 0
+*  Special treatment given to null value in all RDBMS
+*  Null value is independent of datatype
+*  Null value occupies only 1 Byte of storage
+*  if you enter null values for the last column of the row is 
+   ending with null, values then all those won't occupy any space
+*  Those columns that are likely to have a large number of nulls,
+   its recommended that preferably they should be specified at the 
+   end of the table structure, to conserve on HD space.
+
+
+PROJECT GUIDELINES:-
+*  Those columns that are likely to have a large number of nulls,
+   its recommended that preferably they should be specified at the 
+   end of the table structure, to conserve on HD space.
+
+
+insert into emp 
+values('4', 'Atul');    <- ERROR(not enough value)
+
+insert into emp 
+values('4', 'Atul', null, null, null); 
+
+
+insert into emp 
+values('5', null, 5000, null, null);   
+            1Byte       0Byte 0Byte
+
+To multiple rows in table using a single Insert Statement:
+insert into emp values
+('1', 'Amit', 5000, 'Mumbai', '1995-01-15'),
+('2', 'King', 6000, 'Delhi', '1990-04-20'),
+('3', 'null', 7000, 'Mumbai', '1994-03-21'),
+('4', 'Atul', null, null, null);
+
+insert into emp(empno, sal) values 
+('1', 5000),
+('2', 6000),
+('3', 7000),
+('4', 8000);
+
+
+SELECT(View data):-
+------------------------
+
+select * from emp;
+select * from dept;
+
+
+working of select statement:
+
+1.read
+2.compile
+3.plan
+4.execute
+
+*    '*'  metacharacter (all columns)
+
+To restrict the columns:-
+
+select empno, ename from emp;
+
+select deptno, job, ename, sal, hiredate from emp;
+*  the position of column in select statement will
+   will determine the position of columns in the output
+   this you will write as per Client requirements
+
+-------------------------------------------------------
+To restrict the rows:-
+WHERE clause:-
+
+select * from emp
+where deptno = 10;
+
+*  WHERE clause is used for searching
+*  Searching takes place in DB Server
+*  WHERE clause is used to restrict the rows
+*  WHERE clause is used to retrive the rows
+   from DB Server HD to Server RAM
+
+select * from emp
+where sal>2000;
+
+Relational Operators:-  
+1.>
+2.>=
+3.<
+4.<=
+5.!=    or    <>
+6.= 
+
+select * from emp
+where sal>2000 and sal<3000;
+
+Logical Operator:-
+1.NOT
+2.AND
+3.OR
+
+select * from emp
+where deptno=10 or sal>2000 and sal<3000;
+						
+select * from emp
+where (deptno=10 or sal>2000) and sal<3000;
+
+------------------------------------------------
+
+select * from emp
+where sal>2000 or sal<3000;
+
+select * from emp
+where job='MANAGER';
+
+select * from emp
+where job='manager';
+
+* for char, varchar, date, time and datetime
+  use ' '
+
+In MySQL:-
+*  when you are searching, queries are case-insensitive
+*  more user-friendly
+
+In other RDMS:-
+*  when you are searching, queries are case-sensitive
+*  more secure
+
+------------------------------------------------------
+
+select * from emp
+where job='MANAGER' or job='CLERK';
+
+select * from emp
+where job='MANAGER' and job='CLERK';
+
+
+select ename, sal, sal*12 
+from emp;
+
+* '*' is multiplication shows yearly sal
+
+sal*12 -> computed column, calculated column, virtual 
+          column, fake column, Pseudo column they are 
+          not saved in table.
+*    computed columns are not saved in table
+     e.g. yearly sal. are not saved in the table because
+     that would be a wastage of HD space as and when required
+     you can select 
+
+Arithematic operators:-
+1.()
+2./
+3.*
+4.+
+5.- 
+
+Alias:-
+
+select ename, sal, sal*12 as "ANNUAL"
+from emp;
+
+select ename, sal, sal*12 "ANNUAL"
+from emp;
+
+as-> optional in MySQL
+as-> ANSI SQL
+
+*  its recommended that you should always use
+   double quotes, the select statement becomes more Readable
+
+select ename, sal, sal*12 "ANNUAL"
+from emp where ANNUAL>300000;   ->ERROR(invalid column)
+
+* you cannot use alias in the WHERE clause
+
+select ename, sal, sal*12 "ANNUAL"
+from emp where sal*12>300000; 
+
+select ename "EMPNAME", sal "SALARY", sal*12 "ANNUAL"
+from emp; 
+
+*  you can specify alias for column of table
+   also.
+
+select ename "EMPBANE", 
+sal "SALARY", 
+sal*12 "ANNUAL"
+sal*12*0.4 "HRA",
+sal*12*0.2 "DA",
+sal*12+sal*12*0.4+sal*12*0.2 "NET"
+from emp; 
+
+* you cannot use alias in an expression
+
+
+**Create a new User in sql 
+------------------------------
+1. Login wit "root" user
+2. To see which databases are available:-
+mysql> show databases;
+3. To connect to a database:-
+use <dbname>
+
+e.g. mysql> use mysql;
+
+When you install MySQl, few users are automatically created:
+
+1.root
+*  DBA(Database administrator) privilages
+*  create, drop, alter, configure, create users, 
+   assign privilages take backup etc
+2.mysql.sys
+
+*  most important user
+*  owner of database
+*  startup database, shutdown database, perform recovery
+
+4. to see which users are created;
+
+mysql>select user from user;
+
+5. Create new user:-
+create user <username> identified by <password>
+
+mysql> create user prithviraj@localhost identified by 'student';
+
+6. create database for new user:-
+create database <dbname>;
+or
+create schema <schemaname>;
+*  schema is a Synonym for database;
+
+mysql>create database cdacmumbai;
+
+7. Give all permissions to the new user on the new database:- 
+
+mysql> grant all privileges on cdacmumbai.* to prithviraj@localhost;
+
+mysql> flush privileges;  <- will apply the privileges instantly; else it requires a database restart;
+
+mysql> exit;
+
+8. login with new user and password 

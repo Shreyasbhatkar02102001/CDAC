@@ -1,0 +1,359 @@
+Select * 
+Select col1, col2, col3.....<- to view specific columns
+
+Selection-> when you select individual columns from the table; it is known as selection.
+
+WHERE clause  <- to view specifiv rows
+
+Projection-> when you SELECT specific rows; it is known as projection
+
+*  when you perform SELECTION or PROJECTION, you are viewing a subset of the data
+
+To see which tables are created:-
+mysql> show tables;
+
+To see structure of the table:-
+mysql> desc <tblname>;  (describe)
+
+MySQL Documentation
+https://dev.mysql.com/doc/refman/8.4/en/
+
+Oracle Documentation
+https://docs.oracle.com
+
+SQL:
+
+mysql>select job from emp;
+
+To suppress the duplicates:-
+mysql>select distinct job from emp;
+
+*  whenever you use DISTTINCT sorting takes place internally in the Server RAM
+*  if you LARGE number of rows in the table, this SELECT statement will be slow
+
+select distinct job, ename from emp;
+
+*  DISTINCT will work on combnination of all the column
+taht are in present in SELECT statement
+
+(*) ERROR
+select (distinct job), ename from emp;
+
+select deptno, job, ename, sal, hiredate, from emp;
+
+*  In a DBMS, data is stored inside a file
+*  inside a file, rows are stored sequentially
+*  In DBMS, there is concept of the row numbering
+*  In RDBMS table, is not a like that every row is a file
+*  In RDBMS, rows of the table are not stored sequentially; they are stored in any specific order
+*  Rows of the table are scattered (fragmentated) all over the DB
+*  The reason why RDBMS does this to speed up the INSERT statement
+*   In a multi-user environment, when multiple users are inserting rows in the same table simultaneously, if MySQL were to store the roes sequentially, then the INSERT operations would be very slow
+* When you INSERT a table , wherever MySQL finds the free space in the DB Server HD, it will store row there
+* When you select from a table, the order of the rows in the output depends on the row address; it will be in ascending order of row address
+* Once you INSERT a row, the row address is constant
+* When you update a row, if the row length is increasing and the free space is not available, then the entire row is moved to some other address on the D Server HD
+* Later when you SELECT from the table, you may see that row at some other location
+* Its only in the case of VARCHAR that the row length may increase or decrease
+* Hence it is not possible to see the first 'N' rows of table, or the last 'N' rows of a table
+* this is common for all RDBMS
+* There is a system table which stores all the tablenames and their respective row addresses
+* When you select from a table, MySQL will not search the entire DB Server HD; rather it will go to that system table, and retrieve the rows of the SELECTED table accordingly 
+
+
+MySQL - SQL - ORDER BY clause:-
+*  used for sorting 
+*  used for presentation/repoting purposes.
+select deptno, job, ename, sal, hiredate from emp ORDER BY ename; 
+
+select deptno, job, ename, sal, hiredate from emp ORDER BY ename desc;
+
+asc(ascending)  <- by default 
+desc(desending)
+
+select deptno, job, ename, sal, hiredate from emp ORDER BY deptno;
+
+select deptno, job, ename, sal, hiredate from emp ORDER BY hiredate;
+
+* BUSINESS INTELLIGENCE/ DATA SCIENCE, AI all of them have their base in MySQL
+
+select deptno, job, ename, sal, hiredate from emp ORDER BY deptno, job;
+
+select deptno, job, ename, sal, hiredate from emp ORDER BY deptno, desc, job desc;
+
+select..............
+order by country, state, city;
+*  no upper limit on the number of columns in ORDER BY clause
+* if you have a large no. of rows in the table and a large number of columns in ORDER BY clause then the select statement will be slow, because that much sorting has to take place in Server RAM
+
+select deptno, job, ename, sal, hiredate from emp
+where deptno=10 ORDER BY ename;
+*  SELECT statement executes from top to bottom and left to right, WHERE clause has to specified BEFORE the ORDER BY clause
+* WHERE clause is for searching; Searching takes place in the DB Server HD
+* WHERE clause is used to restrict the rows
+* WHERE clause is used to retrieve the rows from DB Server HD to Server RAM
+* ORDER BY clause sorting takes place in Server RAM
+* ORDER BY clause is the LAST clause in SELECT statement
+
+select ename, sal*12 from emp;
+
+select ename, sal*12 from emp
+order by sal*12;
+
+select ename, sal*12 annual from emp
+order by annual;
+
+select ename, sal*12 "Annual Salary" from emp
+order by "Annual Salary";
+
+select ename, sal*12 "Annual Salary" from emp
+order by 2;
+
+select * from emp
+order by 2;
+
+select * from emp
+order by 1;
+
+select * from emp 
+where ename >'A' and ename < 'B';
+
+Blank-padded comparision semantics:-
+
+When you compare 2 string of different lenghts, the shorter of the two strings is temporarily padded with blank spaces on right hand spaces such that their lengths become equal; then it will start the comparison character by character based on ASCII value.
+
+select * from emp 
+where ename >='A' and ename < 'B';
+
+select * from emp 
+where ename >='A' and ename < 'C';
+
+MySQL - SQL- Special Operators(Like):
+Wildcards(used for pattern matching)
+%    any character and any number of characters
+_    any one character
+select * from emp
+where ename like 'A%';(First 'A')
+
+select * from emp
+where ename = 'A%';  <-
+
+select * from emp
+where ename like '%A';(last 'A')
+
+select * from emp
+where ename like '%A%'; (contain 'A' )
+
+select * from emp
+where ename not like 'A%';(not starting with'A')
+
+select * from emp
+where ename like '_ _A%';
+
+select * from emp
+where ename like '_ _ _ _';(names with four letters)
+
+select * from emp
+where ename like '_ I _ _';(name where I is second letter)
+
+select * from emp 
+where sal>=2000 and sal<=3000;
+
+select * from emp 
+where sal between 2000 and 3000; <-(inclusive)
+
+between - Special Operator
+*  faster
+---------------------------
+select * from emp 
+where sal not between 2000 and 3000; (below 2000, and above 3000)(exclusive)
+
+select * from emp
+where hiredate >='2023-01-01' and hiredate<='2023-12-31';
+
+select * from emp
+where between hiredate '2023-01-01' and '2023-12-31';
+
+----------------------------------------------------------------
+ 
+
+select * from emp
+where ename>='A' and ename<='F';
+
+select * from emp
+where between ename 'A' and 'F';
+
+select * from emp
+where ename like 'A%' or ename like 'B%' or ename like 'C%'....;
+---------------------------------------------------------------------------
+select * from emp 
+where deptno = 10 or deptno=20 or deptno=30;   <- MOST POWERFUl
+
+select * from emp 
+where deptno =any(10, 20, 30);                 <-FASTER
+
+select * from emp 
+where deptno in(10, 20, 30);                   <-FASTEST
+
+any-special operator-> logical OR
+in-special operator->logical OR(fastest)
+---------------------------------------------
+select * from emp 
+where deptno in(10, 20, 30);
+
+select * from emp 
+where deptno not in(10, 20, 30);
+
+select * from emp 
+where deptno =any(10, 20, 30);
+
+select * from emp 
+where deptno >=any(10, 20, 30);
+
+select * from emp 
+where deptno <=any(10, 20, 30);
+
+select * from emp 
+where deptno !=any(10, 20, 30);
+
+select * from emp 
+where deptno >any(10, 20, 30);
+
+select * from emp 
+where deptno <any(10, 20, 30);
+
+*  ANY operator is overloaded(operator overloading)
+*  IN operator is faster than ANY operator
+*  ANY operator is more powerful than IN operator
+*  with IN operator, you can only check for IN and NOT IN
+*  with ANY operator, you can check =ANY, !=ANY, <ANY, >ANY.....
+*  if you want to check for equality ot inequaility then use the IN operator
+*  if you want to check for >, >=, < or <=, then use the ANY operator
+*  if your requireents are more complex, then use the Relational and Logical operators
+
+*  IN Operator is supported by MySQL
+*  ANY Operator is supported by MySQL only when it is used with sub-query
+
+select * from emp
+city in('Mumbai', 'Delhi');
+
+DDL -> Create, Drop
+DML -> Insert, Update, Delete
+DQL -> Select
+
+UPDATE 
+------------------------------------
+update emp set sal= 10000 
+where empno=1;
+
+update emp set sal= sal+sal*0.4
+where empno=1;    (can use expression)
+
+update emp set sal= 10000, city='Pune' 
+where empno=1; (multiple columns)
+
+update emp set sal= 10000 
+where city='Mumbai';
+
+update emp set sal= 10000, city='Pune'
+where city='Mumbai';
+
+*  you can UPDATE multiple rows and multiple columns simulteneously using a single UPDATE command only one table can be updated at a time.
+*  if you want to UPDATE 2 or more tables , then a separeate UPDATE command is needed for each table
+
+update emp set sal= 10000;(updates whole column)
+
+update emp set sal= 10000 
+where city like 'A';
+
+DELETE
+----------------
+delete from emp 
+where empno=1;
+
+delete from emp 
+where city='Mumbai';
+
+delete from emp; (all rows will be deleted) 
+
+DROP
+-----------------
+drop table emp;
+
+drop table emp, dept;(multiple tables get deleted)
+
+*  you cannot have WHERE clause with DROP table because DROP table is a DDL command
+
+MySQL -SQL - TRANSACTION PROCESSING:
+
+*  Commit will save all the DML changes since the last commited state
+
+mysql>commit work;
+or
+mysql>commit;
+
+*  WORK is optional in MySQL
+*  When the user issues a commit it is known as End of transaction
+*  Commit will make the Transaction permanent
+
+Total Work done = T1+T2+T3+......+Tn;
+
+*  Total work done = sum of work done in individual transactions
+*  when to issue the commit is decided by the end user, and it depends on the logical scope of work.
+*  Roll back will undo all the DML change since the last committed state.
+*  What is commited cannot be rolled back
+
+rollback work;
+or
+rollback;
+
+*  work is optional in MySQL
+*  Only the DML commands are affected by Rollback and Commit
+*  Any DDL command automatically commits; not only will it commit itself, it will commit all the DML changes before it
+*  When you EXIT from SQL, the system automatically Commits
+*  Any kind of power failure, network failure, system failure, PC failure, reboot, window close, improper exit from SQL; your last uncommited transaction is automatically Rolled back
+
+*  Savepoint is a point within your Work
+*  Savepoint is similar to a bookmark
+*  Savepoint is similar to a Milestone within you Transaction 
+*  You can Rollback to a Savepoint
+*  YOU CANNOT COMMIT TO A SAVEPOINT
+*  Commit will save all the DML changes since the last commited state.
+*  When you Rollback or Commit, the intermediate Savepoints are cleared; if you want to use them again then you will have to reissue them in some new work
+
+mysql>rollback work to pqr;
+or
+mysql>rollback to pqr;
+*  work is optional keyword in MySQL
+*  You can only Rollback sequentially
+
+* Within a transaction, you can have 2 savepoints with the same name
+* the latest savepoint supercedes the previous one
+* the older savepoint no longer exists
+
+Environment Setting:-
+mysql> set autocommit = 1;(no need commit keyword at end)
+mysql> set autocommit = 0;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
