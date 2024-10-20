@@ -1,0 +1,136 @@
+				Exercise_3_PL 
+
+1. Write a program containing a loop that iterates from 1 to 1000 using a variable I, 
+which is incremented each time around the loop. The program should output the 
+value of I every hundred iterations (i.e., the output should be 100, 200, etc.). 
+
+delimiter //
+create procedure pr(x int)
+begin	
+	while x < 1001 do
+		if (x mod 100 = 0) then
+			select x;
+		end if;
+		set x = x + 1;
+	end while;
+end; //
+
+delimiter ;
+
+call pr(1);
+
+2. Write a program that examines all the numbers from 1 to 999, displaying all those 
+for which the sum of the cubes of the digits equal the number itself.
+
+delimiter //
+create procedure checkA()
+begin 
+	declare x int default 1;
+	declare d1 int;
+	declare d2 int;
+	declare d3 int;
+	declare sumC int;
+
+	while x < 1000 do
+		set d1 = x div 100;
+		set d2 = (x div 10) mod 10;
+		set d3 = x mod 10;
+
+		set sumC = pow(d1, 3) + pow(d2, 3) + pow(d3, 3);
+
+		if sumC = x then
+			select x as armstrong_Num;	
+		end if;
+		
+		set x = x + 1;
+	end while;
+end ; //
+
+delimiter ;
+call checkA();
+
+
+3. Write a program that Selects from any table a minimum and maximum value for a 
+radius, along with an increment factor, and generates a series of radii by repeatedly 
+adding the increment to the minimum until the maximum is reached. For each value 
+of the radius, compute and display the circumference, area, and volume of the 
+sphere. (Be sure to include both the maximum and the minimum values.). 
+
+
+
+DELIMITER //
+
+CREATE PROCEDURE generateSphereMetrics()
+BEGIN
+    DECLARE minRadius DECIMAL(10,2);
+    DECLARE maxRadius DECIMAL(10,2);
+    DECLARE increment DECIMAL(10,2);
+    DECLARE currentRadius DECIMAL(10,2);
+
+    -- Set these values as needed or select them from a table
+    SET minRadius = 1.00;
+    SET maxRadius = 5.00;
+    SET increment = 1.00;
+
+    SET currentRadius = minRadius;
+
+    WHILE currentRadius <= maxRadius DO
+        SELECT 
+            currentRadius AS Radius,
+            (2 * 3.14159 * currentRadius) AS Circumference,
+            (3.14159 * POWER(currentRadius, 2)) AS Area,
+            ((4/3) * 3.14159 * POWER(currentRadius, 3)) AS Volume;
+        
+        SET currentRadius = currentRadius + increment;
+    END WHILE;
+END //
+
+DELIMITER ;
+
+4. A palindrome is a word that is spelled the same forward and backward, such as 
+level, radar, etc. Write a program to Selects from any table a five letter word and 
+determine whether it is a palindrome.
+
+delimiter //
+create procedure rev(in word varchar(15))
+begin
+	declare reversed varchar(15);
+	set reversed = REVERSE(word);
+	
+	if (word = reversed) then
+		select concat(word, ' is a palindrome') as result;
+	else
+		select concat(word, ' is not a palindrome') as result;
+	end if;
+	select result;
+end ; //
+
+delimiter ;
+call rev("radar");
+	
+
+5. Modify the above program to Select from any table a variable length word. This 
+requires determining how many characters are read in.
+
+
+delimiter //
+create procedure rev2()
+begin
+	declare wordlength int;
+	declare word varchar(5);
+	declare reversed varchar(15);
+	select sec into word from tempp where fir = 66;
+	set wordlength = char_length(word);
+	set reversed = REVERSE(word);
+	
+	if (word = reversed) then
+		select concat(word, ' is a palindrome') as result;
+	else
+		select concat(word, ' is not a palindrome') as result;
+	end if;
+	select result;
+end ; //
+
+delimiter ;
+call rev2();
+		
