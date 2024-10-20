@@ -1,0 +1,122 @@
+						Exercise_1_PL 
+
+
+1. Write a program that computes the perimeter and the area of a rectangle. Define 
+your own values for the length and width. (Assuming that L and W are the length 
+and width of the rectangle, Perimeter = 2*(L+W) and Area = L*W.
+
+delimiter //
+create procedure peri(l int, w int)
+begin
+	declare p int;
+	declare a int;
+	set p = 2 * ( l + w );
+	set a = l * w;
+	insert into table_name values(p, a);
+end; //
+delimiter ;
+
+call peri(5, 4);
+
+
+2. Write a program that declares an integer variable called num, assigns a value to it, 
+and computes and inserts into the tempp table the value of the variable itself, its 
+square, and its cube.
+
+delimiter //
+create procedure trial()
+begin
+	declare num int default 10;
+	set num = 5;
+	insert into tempp(num, num*num, num*num*num );
+end; //
+delimiter ;
+call trial();
+	
+
+
+3. Convert a temperature in Fahrenheit (F) to its equivalent in Celsius (C) and vice 
+versa. The required formulae are:- C= (F-32)*5/9 
+F= 9/5*C + 32 
+
+
+delimiter //
+create procedure try()
+begin
+	declare f int default 10;
+	declare c int;
+	declare new_f int;
+	set c = (f - 32) * 5/9;
+	set new_f = 9/5 * c + 32;
+	insert into tempp(c, f);
+end; //
+delimiter ;
+call try();
+
+
+
+4. Convert a number of inches into yards, feet, and inches. For example, 124 inches 
+equals 3 yards, 1 foot, and 4 inches.
+
+DELIMITER //
+
+CREATE PROCEDURE convert_inches_to_yards_feet()
+BEGIN
+    DECLARE x INT DEFAULT 124;
+    DECLARE ya INT;
+    DECLARE fe INT;
+    DECLARE re INT;
+    DECLARE il INT;
+    SET ya = x DIV 36;
+    SET re = x MOD 36;
+    SET fe = re DIV 12;
+    SET il = re MOD 12;
+    INSERT INTO tem VALUES (ya, fe, il);
+END //
+
+DELIMITER ;
+
+CALL PROCEDURE convert_inches_to_yards_feet;
+
+
+ 
+5. Write a program that enables a user to input an integer. The program should then 
+state whether the integer is evenly divisible by 5. 
+
+delimiter //
+create procedure see(x int)
+begin
+	declare y int;
+	set y = x MOD 5;
+	if y = 0 then
+		insert into tempp values(x, "yes");
+	else 
+		insert into tempp values(x, "no");
+	end if;
+end; //
+
+delimiter ;
+call see(25);
+
+
+6. Your block should read in two real numbers and tell whether the product of the two 
+numbers is equal to or greater than 100.
+
+delimiter //
+create procedure pro(x int, y int)
+begin
+	declare ans int;
+	set ans = x * y;
+	if ans >= 100 then
+		insert into tempp values(ans, "yes");
+	else
+		insert into tempp values(ans, "no");
+	end if;
+end; //
+
+delimiter //
+
+call pro(5,5);
+call pro(6,8);
+
+select * from tempp;

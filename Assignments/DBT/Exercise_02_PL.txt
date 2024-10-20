@@ -1,0 +1,98 @@
+						Exercise_02_PL
+ 
+
+1. Select from any table a number and determine whether it is within a given range (for 
+example, between 1 and 10).
+
+delimiter //
+create procedure see(x int)
+begin
+	if x between 1 and 10 then
+		insert into tempp values(x, "yes bw");
+	else
+		insert into tempp values(x, "no bw");
+	end if;
+end; //
+
+delimiter ;
+
+call see(5);
+call see(13);
+
+select * from tempp;
+
+2. Select from any table three positive integers representing the sides of a triangle, and 
+determine whether they form a valid triangle. Hint: In a triangle, the sum of any two 
+sides must always be greater than the third side.
+
+delimiter //
+create procedure see()
+begin
+	declare x int;
+	declare y int;
+	declare z int;
+	declare sum int;
+	select yards into x from tem where inches = 4; 
+	select feet into y from tem where inches = 4; 
+	select inches into z from tem where inches = 4;
+	set sum = x + y;
+	if sum > z then
+		insert into tempp values(sum, "yes t");
+	else
+		insert into tempp values(sum, "no t");
+	end if;
+end; //
+
+delimiter ;
+
+call see();
+
+select * from tempp;
+
+
+3. Check if a given a year is a leap year. The condition is:- year should be (divisible by 4 
+and not divisible by 100) or (divisible by 4 and divisible by 400.). The year should be 
+Selected from some table.
+
+delimiter //
+create procedure seeLeap(x int)
+begin
+	declare result varchar(10);
+	if ((x mod 4 = 0 and x mod 100 != 0) or x mod 400 = 0) then
+		set result = 'Leap year';
+	else
+		set result = 'Not Leap year';
+	end if;
+	
+	select result;
+end; //
+
+delimiter ;
+
+call seeLeap(2024);
+
+
+4. Write a program that Selects from any table two character strings. Your program should 
+then determine if one character string exists inside another character string.
+
+delimiter //
+create procedure checkS()
+begin
+	declare result varchar(20);
+	declare str1 varchar(20);
+	declare str2 varchar(20);
+	select s1 into str1 from temS where s2 = "shrey";
+	select s1 into str2 from temS where s1 = "shreyas";
+	if locate(str1, str2) > 0 then
+		set result = "Exists";
+	else
+		set result = "Not Exists";
+	end if;
+	
+	select result;
+end //
+
+delimiter ;
+
+call checkS();
+	
