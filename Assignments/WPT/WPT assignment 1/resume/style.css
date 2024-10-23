@@ -1,0 +1,84 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(227, 238, 241);
+    text-align: justify;
+}
+
+aside {
+    width: 25%;
+    padding-left: 15px;
+    padding-right: 10px;
+    margin-left: 15px;
+    float: right;
+    background-color: lightgray;
+}
+
+span{
+    font: weight 10px;
+    font-weight: bold;
+}
+
+section{
+    padding-left: 20px;
+}
+
+#name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#roleh{
+    font-size: medium;
+}
+
+#header{
+    text-align: center;
+    background-color: lightblue;
+    padding: 1px;
+}
+
+#Sum{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+
+#About{
+    padding: 12px;
+}
+
+
+
+#ex{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+
+#work{
+    padding-left: 36px;
+    padding-right: 10px;
+}
+
+#eddiv{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#ed1{
+    padding-left: 17px;
+    text-decoration: underline;
+}
+
+#ed11{
+    padding-left: 30px;
+    padding-top: 4px;
+    padding-bottom: 6px;
+}
+
+#ed2{
+    padding-left: 17px;
+}
+
+

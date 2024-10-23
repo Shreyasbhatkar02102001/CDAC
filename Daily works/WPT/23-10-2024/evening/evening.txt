@@ -1,0 +1,41 @@
+colors
+
+color: rgb(255,55,255);
+
+255 -? lightest
+0 -> darkest
+
+div -> by default a div is not having its own fixed dimensions (width & height )
+
+
+managing spaces for any html element:
+1. inner : padding top, right, bottom, left
+    padding-left
+    padding-right
+    padding-top
+    padding-bottom
+
+    padding : padding top, right, bottom, left
+
+    padding : 10px;
+2. outer:  margin top, right, bottom, left
+
+    margin-left
+    margin-right
+    margin-top
+    margin-bottom
+
+
+    margin 50px
+
+
+position property: to decide the position of any element
+
+parent-selector child-selector{
+
+}
+
+#nav-links a{[
+    
+]}
+

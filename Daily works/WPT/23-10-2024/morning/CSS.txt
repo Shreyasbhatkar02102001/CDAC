@@ -1,0 +1,69 @@
+CSS: to style  a page
+
+Syntax:
+
+selector{
+    property-name : value;
+    property-name : value;
+    property-name : value;
+}
+
+
+h1{
+    color : Red;
+}
+
+
+- It is always recommended to put the style tag in head tag
+- because whenever a html page loads on the browser it will first load then head tag,
+  now the head tag will prepare the style to be  applied.
+- now when body starts loading then body has not to wait for style to be loaded
+
+font-size
+background-color
+border-bottom-color
+- when multiple words it will be separated by - hyphen
+
+
+font-variant:
+    it can transform into normal caps, small caps
+
+text-transform:
+    transform into upper case, lower case and capitalize
+    in capitalize: every first letter is transformed into caps
+
+
+
+Types of selectors:
+1. Tag selector: name of tag as selector
+        h1{},  p{}, form{}
+
+2. ID selector: name of ID as selector
+            <p id="p1"></p>
+
+        #p1{
+
+        }
+
+3. class selector : class of a tag as a selector
+
+4.  * : universal selector:
+                     will select all the elements
+
+
+
+order preference priority :
+    id > class >  tag > *
+
+
+Types of css (classified on the basis of where we are placing css code) :
+
+1. Internal CSS
+2. External CSS
+3. Inline CSS
+
+priority of CSS:
+inline > internal > external
+
+
+
