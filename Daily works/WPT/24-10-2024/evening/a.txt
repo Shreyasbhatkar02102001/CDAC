@@ -1,0 +1,197 @@
+type for any variable is not fiexed whule development
+
+a= 5
+b = 8.5
+
+for numeric values either is decimal or integer the type the
+
+
+
+
+
+
+str = "hello"
+'hello hello'
+
+in is there is not separate type for character values
+we can enclose strong string either in '' or ""
+
+c= true;
+data = null;
+
+
+1>
+a = 5;
+b = 4;
+console.log("Sum is "+a+b);
+
+o/p : sum is 54 (left is string therefore)
+
+2>
+a = 5;
+b = 4;
+console.log("Sum is "+(a+b));
+
+o/p : sum is 9 ( brackets )
+
+3>
+a = 3;
+b = 4;
+c = a+b;
+console.log("Sum of" +a+"and " +b+ " is "+c);
+
+4>
+a = 3;
+b = 4;
+c = a+b;
+console.log(`sum of ${a} and ${b} is ${c}`);
+
+has same output as above 
+
+
+5>
+console.log(2=="2");
+
+o/p => true
+
+
+6>
+console.log(2==="2");
+
+o/p => false
+
+7>
+console.log("abc"-2);
+
+o/p => NaN   ( not a number)
+
+8>
+console.log("4" - 2);
+
+o/p => 2
+
+9>
+console.log("4" * 2);
+
+o/p => 8
+
+-> Except '+' all other operations can work
+
+
+"4"+2 : concat
+apart from + operator
+* / % - ==  "4"-3 "4" will be converted into number by js engine
+
+
+
+10>
+console.log("4" -1+6*2);
+
+o/p => 15
+
+
+11>
+console.log("4" -1+6*2);
+
+o/p => 15
+
+
+operators:
+
+arithmetic :  + - * / %
+relational: < > <= >= == != ===
+logical: && || !
+conditional: z = condition? x:y;
+bitwise:  
+assignment: = += -= *= /= %=
+increment: ++ pre/post
+decrement: -- pre/post
+
+
+
+
+Control structures:
+
+1. sequential
+2. conditional   if else, if else if, nested if, switch case
+3, iterations   for 
+
+
+
+
+
+a = -5;
+if (a>0){
+    console.log("positive");
+}
+else{
+    console.log("negative");
+}
+
+
+roll = 122
+if (roll == 101){
+    console.log("rohan");
+}
+else if (roll == 102){
+    console.log("Mohan");
+}
+else if (roll == 103){
+    console.log("sohan");
+}
+else"{
+    console.log("Not found");
+}
+
+
+abhisek sir no : 7000221871
+
+
+for ( initialization; endpoint; inc/dec)
+
+ for(a=1; a<=5;a++){
+    console.log("Hello");
+ }
+
+
+
+
+ arr= [10,20,30,405,0,"Hello","Hi",5.6, true];
+ console.log(arr);
+ console.log(arr.length);
+ console.log(arr[2]);
+
+ for(i=0; i<arr.length;i++){
+    console.log(arr[i])
+ }
+
+
+ 2d array: collection of 1d arrays
+
+ a = [[10,20,30],[40,50],[60,70,80,90]]
+ console.log(a);
+ console.log(a.length()); 
+
+
+Must Study
+
+ programiz.com
+
+ js introduction complete
+ js functions complete
+ js objects                     
+ js type -> array, mul arr, string
+ js ES6 
+ js asynchronus 
+
+ w3school
+
+ js html DOM
+
+ introduction doc
+ html
+ forms 
+ css
+ event
+ event listener
+

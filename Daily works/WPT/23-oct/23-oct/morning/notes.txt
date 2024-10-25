@@ -1,0 +1,237 @@
+CSS: to style a page
+
+Syntax:
+
+selector{
+	property-name: value;
+	property-name: value;
+	property-name: value;
+}
+
+h1{
+	color:red;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+      h1{
+         color: red;
+      }
+   </style>
+</head>
+<body>
+   <h1>Hello world</h1>
+</body>
+</html>
+
+
+It is always recommended to put the style tag in head tag because whenever a html page loads on the browser it will first load the head tag, now the head tag will prepare the style to be applied. now when body starts loading then body has not to wait for style to be loaded 
+
+font-size
+background-color
+border-bottom-color
+
+
+Types of selectors:
+1. Tag selector: name of tag as selector 
+	h1{}  p{} form{}
+
+2. Id Selector: id of tag as a selector 
+to identify few elements uniquely
+		<p id="p1"></p>
+	#p1{
+
+	}
+3. Class selector: class of a tag as a selector
+		   to identify few elements commonly 
+
+4. Universal selector: * it will select all the tags
+
+Id selector demo:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+      #head1{
+         color: red;
+      }
+      #head2{
+         color: blue;
+      }
+      p{
+         font-size: 30px !important;
+         font-family: 'Segoe Ui';
+         font-style: italic;
+         font-weight: bold;
+         /* font-variant: small-caps; */
+         text-transform: capitalize;
+      }
+   </style>
+</head>
+<body>
+   <h1 id="head1">Hello world</h1>
+   <h1 id="head2">This is 2nd heading</h1>
+   <p>this is a paragraph.</p>
+</body>
+</html>
+
+
+class selector demo:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+      .green-font{
+         color: green;
+      }
+   </style>
+</head>
+<body>
+   <h1>Hello world</h1>
+   <h1 class="green-font">This is 2nd heading</h1>
+   <p>this is a paragraph1.</p>
+   <p>this is a paragraph2.</p>
+   <p class="green-font">this is a paragraph3.</p>
+   <label class="green-font">This is a label 1.</label>
+   <label>This is a label 2</label>
+   <h3>Heading demo 3</h3>
+   <h3 class="green-font">Heading demo 3 part 2</h3>
+
+
+</body>
+</html>
+
+
+id > class > tag > *
+
+
+school
+Home.html -> <style>
+AboutUs.html -> <style>
+Contact.html -> <style>
+Admissions.html -> <style>
+
+Types of css (classified on the basis of where we are placing css code):
+1. Internal css: written inside .html file and encapsulated in head tag
+
+2. External css: written in a separate .css file 
+
+3. Inline css: written directly inside of a tag
+
+		<h1 style="color: blue;">Hello world</h1>
+
+
+
+white & green #AED581 #7CB342
+
+style.css
+less & saas
+theme_primary_color = #AED581 
+
+button{
+	background: theme_primary_color
+}
+
+checkbox-selection{
+	background: theme_primary_color
+}
+
+1000 selectors 
+
+
+
+color: name-of-color | hexadecimal | rgb() function
+
+#3b5998
+#rrggbb
+
+rgb(r,g,b) 0-255, 0-255, 0-255
+
+255 -> lightest
+0 -> darkest
+
+div -> by default a div is not having its own fixed dimensions (width & height) it will adjust the width & height as of the content inside div 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+      #container{
+         background: yellowgreen;
+         width: 200px;
+         height: 200px;
+      }
+   </style>
+</head>
+<body>
+   <div id="container">
+      <h3>Heading text</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quod beatae et animi blanditiis culpa, labore sint unde quidem, repellendus porro similique id atque odit asperiores tempore consectetur eum suscipit.</p>
+   </div>
+</body>
+</html>
+
+
+Managing spaces for any html element:
+1. Inner : padding top, right, bottom, left
+	   padding-left
+	   padding-right
+	   padding-top
+	   padding-bottom
+	   padding: 
+
+padding:10px 20px 15px 18px; clockwise manner
+padding:10px; same value for every side
+padding:10px 20px; 10 at top & bottom 20 at right & left
+
+2. Outer : margin top, right, bottom, left
+
+position property: to decide the position of any element
+
+position: relative/absolute
+
+
+
+
+child selector
+
+parent-selector child-selector{
+}
+
+#nav-links a{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

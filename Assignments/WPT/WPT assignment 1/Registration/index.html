@@ -4,10 +4,168 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration</title>
+    <style>
+        #container{
+            width: 950px;
+            height: 650px;
+            background-color: white;
+            margin: 20px auto;
+            padding-left: 20px;
+            /* position: relative; */
+            /* float: right */
+            
+            /* text-align:  center; */
+            border-radius: 20px;
+            /* background-image: url("https://wallpapercave.com/wp/wp9883413.jpg"); */
+            /* background-size: auto auto  */
+            background-size: cover;
+            background-color: burlywood;
+        }
+        
+        body{
+            background-color: rgb(52, 71, 124);
+        }
+        
+        div{
+            margin: 5px;
+        }
+
+        #heading{
+            text-align: center;
+            margin-top: 10px;
+        }
+        span{
+            margin-right: 10px;
+        }
+    </style>
 </head>
 <body>
+    <div id="container">
     <form id="form" >
-        
+        <h2 id="heading">Student Registration</h2>
+        <div class="name">
+            <span>First Name</span> 
+            <input type="text" > (max 30 characters a-z and A-Z)
+            <!-- <table>
+                <td>First Name </td>
+                <td><input type="text"></td>
+                <td>(max 30 characters a-z and A-Z)</td>
+            </table> -->
+        </div> 
+        <div class="name">
+            <span>Last Name</span> 
+            <input type="text" > (max 30 characters a-z and A-Z)
+        </div> 
+        <div class="DOB">
+            <span>Date of Birth</span>
+            <input type="date" >
+        </div>
+        <div class="email">
+            <span>Email</span>
+            <input type="email">
+        </div>
+        <div class="phone">
+            <span>MOBILE NUMBER</span>
+            <input type="number"> ( 10 digit number )
+        </div>
+        <div class="gender">
+            Gender
+            <input type="radio" name="gender">
+            <label for="">Male</label>
+            <input type="radio" name="gender"></input>
+            <label for="">Female</label>
+        </div>
+        <div class="email">
+            <span>ADDRESS</span>
+            <input type="text">
+        </div>
+        <div class="name">
+            <span>City</span> 
+            <input type="text" > (max 30 characters a-z and A-Z)
+        </div>
+        <div class="phone">
+            <span>Pin Code</span>
+            <input type="text"> ( 10 digit number )
+        </div>
+        <div class="state">
+            <span>State</span> 
+            <input type="text" > (max 30 characters a-z and A-Z)
+        </div>
+        <div class="name">
+            <span>Country</span>
+            <select>
+                <option value="101">India</option>
+                <option value="102">Japan</option>
+                <option value="103">Australia</option>
+                <option value="104">Brazil</option>       
+            </select>
+        </div>
+        <div>
+            <span>Hobbies</span>
+            <input type="checkbox"> <label > Drawing </label>
+            <input type="checkbox"> <label > Singing </label>
+            <input type="checkbox"> <label > Dancing </label>
+            <input type="checkbox"> <label > Sketching </label>
+            <br>
+            <input type="checkbox"> <label > Others </label><input type="text">
+        </div>
+        <div class="Table">
+            <!-- <span>Qualification</span> -->
+            <table  cellspacing="0" cellpadding="10">
+                <thead>
+                    <tr>
+                        <th>Qualification</th>
+                        <th>SI No</th>
+                        <th>Examination</th>
+                        <th>Board</th>
+                        <th>Percentage</th>
+                        <th>Year of Passing</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td>1</td>
+                        <td>Class X</td>
+                        <td><input type="text"></td> 
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>2</td>
+                        <td> Class XII</td>
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>3</td>
+                        <td>Graduation</td>
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>4</td>
+                        <td>Masters</td>
+                        <td><input type="text"></td> 
+                        <td><input type="text"></td>
+                        <td><input type="text"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <span>Courses Applied For</span>
+            <input type="checkbox"> <label > BCA </label>
+            <input type="checkbox"> <label > B.COM </label>
+            <input type="checkbox"> <label > BSC </label>
+            <input type="checkbox"> <label > B.A </label>
+        </div>
     </form>
+    </div>
 </body>
 </html>
