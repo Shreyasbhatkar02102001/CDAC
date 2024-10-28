@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign in</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body{
+            background-image: url("https://img.freepik.com/free-vector/hand-drawn-olive-green-background_23-2149724861.jpg");
+            background-size: cover;
+        }
+
+        #container {
+            margin: 190px auto;
+            width: 800px;
+            height: 400px;
+            background-color: lightgray ;
+            border-radius: 20px;
+            display: flex;
+            text-align: center;
+            border-color: grey;
+            opacity: 0.8;
+        }
+
+        .left, .right {
+            flex: 1;
+            padding-bottom: 450px;
+            border-radius: 10px;
+        }
+
+        .left {
+            background-color: #fafafa;
+        }
+
+        .right {
+            /* border-radius: 10px; */
+            background-color:  rgb(9,36,40);
+        }
+
+        #go, #fb, #ld{
+            padding: 17px;
+            border-radius: 15px;
+            border: none;
+            margin-bottom: 20px;
+            margin-right: 10px;
+        }
+
+        #heading{
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .text-left{
+            margin-bottom: 10px;
+        }
+
+        input{
+            width: 60%;
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 18px;
+            border: none;
+            background-color:lightgrey;
+
+        }
+
+        #fg{
+            margin-top: 10px;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        .signin{
+            padding: 13px;
+            border-radius: 27px;
+            width: 34%;
+            border: none;
+            background-color: #cde593;
+            color: rgb(9,36,40);
+        }
+
+        .heading2{
+            margin-top: 20%;
+            font-weight: bolder;
+            font-size: 40px;
+            color: #fafafa;
+        }
+
+        .right-text{
+            font-style: italic;
+            color: #fafafa;
+        }
+
+        .signup{
+            margin-top: 30px;
+            padding: 13px;
+            border-radius: 27px;
+            width: 34%;
+            border: 2px solid rgb(9,36,40);
+            /* border: none; */
+            /* border-color:lightgrey transparent;
+            border-style: solid;
+            border-bottom-color: #fafafa; */
+            background-color:  #cde593;
+            color: rgb(9,36,40);
+        }
+        
+
+    </style>
+
+</head>
+<body>
+    <div id="container">
+        <div class="left">
+            <h2 id="heading">Sign in</h2>
+            <button id="go"><i class="fab fa-google"></i></button>
+            <button id="fb"><i class="fab fa-facebook"></i> </button>
+            <button id="ld"><i class="fab fa-linkedin"></i> </button>
+
+            <div class="text-left">
+                Or sign in using E-mail Address
+            </div>
+            
+            <input type="text" placeholder="Email">
+            <input type="password" placeholder="Password">
+
+            <div id="fg">
+                Forgot your password?
+            </div>
+            <button class="signin">
+                SIGN IN
+            </button>
+
+        </div>
+        <div class="right">
+            <h2 class="heading2">Create, <br>Account!</h2>
+            <div class="right-text">Sign up if you don't have an account.....</div>
+
+            <button class="signup">
+                SIGN UP
+            </button>
+        </div>
+    </div>
+</body>
+</html>
