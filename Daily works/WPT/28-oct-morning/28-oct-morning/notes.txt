@@ -1,0 +1,224 @@
+Promise:
+
+Steps for working with Promise:
+
+1. Create a new Promise object, then write logic into it, based on the task we have to resolve or reject the promise and its mandatory because if we don't resolve or reject then promise will remain in pending state
+
+Promise will have 3 states:
+1. Pending
+2. Resolved/fulfilled
+3. Rejected
+
+
+2. Execute the promised task 
+
+3. Handle the promise : Based on the promise state, we can take certain actions
+
+To handle the promise JS has given two functions:
+a. then()
+b. catch()
+
+
+const myPromise = new Promise((resolve,reject)=>{
+	
+	s1
+	s2
+	s3
+	s4
+	if(succeeded){
+		resolve();
+	}
+	else{
+		reject();
+	}
+	
+
+});
+
+
+
+eg:
+check if any given number is even or odd
+based on the type of number we have to perform a different 
+if number is even: fetch data from server
+if number is odd: save data on a server
+
+
+var n = 5;
+
+if(n%2==0){
+   ... statements to fetch data from server
+}
+else{
+	... statements to save data on server
+}
+
+check for even/odd
+business logic 
+
+
+var n = 8;
+
+const evenPromise = new Promise((resolve,reject)=>{
+	if(n%2 === 0){
+		resolve();
+	}
+	else{
+		reject();
+	}
+});
+
+
+To handle the promise we should call then & catch functions on Promise object 
+
+evenPromise
+.then(()=>{
+	console.log("fetching data from server");
+})
+.catch(()=>{
+	console.log("save data on a server");
+
+});
+
+
+const n = 7;
+      const evenPromise = new Promise((resolve,reject)=>{
+         if(n%2===0){
+            resolve();
+         }
+         else{
+            reject();
+         }
+      });
+      evenPromise.then(()=>{
+         console.log("No. is even & fetching data from server");
+      }).catch(()=>{
+         console.log("No. is odd & saving data on server");
+      });
+
+
+
+const n = 7;
+      const evenPromise = new Promise((resolve,reject)=>{
+         var data = [10,20,30,40];
+         if(n%2===0){
+            resolve(data);
+         }
+         else{
+            const error = new Error("No. not divisible by 2");
+            reject(error);
+         }
+      });
+      evenPromise.then((result)=>{
+         console.log(result);
+         console.log("No. is even & fetching data from server");
+      }).catch((obj)=>{
+         console.log(obj);
+         console.log("No. is odd & saving data on server");
+      });
+
+      function checkEvenPromise(n) {
+         const evenPromise = new Promise((resolve, reject) => {
+            var data = [10, 20, 30, 40];
+            if (n % 2 === 0) {
+               resolve(data);
+            }
+            else {
+               const error = new Error("No. not divisible by 2");
+               reject(error);
+            }
+         });
+         return evenPromise;
+      }
+
+      const obj = checkEvenPromise(4);
+      obj.then((result) => {
+         console.log(result);
+         console.log("No. is even & fetching data from server");
+      }).catch((obj) => {
+         console.log(obj);
+         console.log("No. is odd & saving data on server");
+      });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

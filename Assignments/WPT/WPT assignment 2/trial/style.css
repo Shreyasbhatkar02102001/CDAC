@@ -45,7 +45,7 @@ body {
 .navbar a {
     position: relative;
     font-size: 18px;
-    color: aliceblue;
+    color: #092428;
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
@@ -56,11 +56,8 @@ body {
     border-radius: 10px;
     background-color: 
     #092428;
+    color: white;
 }
-
-
-/*Home*/
-
 
 #home{
     display: flex;
@@ -71,19 +68,17 @@ body {
     align-items: center;
 }
 
-
-
 #home h1{
-    color:white;
+    color:    #373a36;
     text-align: center;
 }
 
 #home p{
-    color:white;
+    color:#051622;
+    /* color: #373a36; */
     text-align: center;
     font-size: 1.5rem;
 }
-/* Services Section */
 #services{
     margin: 34px;
     display: flex;
@@ -106,9 +101,6 @@ body {
 }
 
 
-
-/*About*/
-
 #about {
     padding: 50px 20px;
     background-color: transparent;
@@ -123,57 +115,17 @@ body {
     max-width: 800px;
 }
 
-
-
-
-
-/* Contact Section */
-#contact{
-    position: relative;
-}
-#contact::before{
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0.7;
-
-}
-#contact-box{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 34px;
-}
-#contact-box input, 
-#contact-box textarea{
-    width: 100%;
-    padding: 0.5rem;
-    border-radius: 9px;
-    font-size: 1.1rem;
-} 
-
-#contact-box form{
-    width: 40%;
-}
-
-#contact-box label{
-   color: #7c9494;
-}
-
-
-
 footer{
     background: black;
     color: white;
     padding: 9px 20px;
 }
 
-/* Utility Classes */
 .primary{
     font-size: 3.8rem;
     padding: 12px;
-    color: #7c9494;
+    /* color: #7c9494; */
+    color:#f7cd46;
 }
 
 .secondary{
@@ -183,7 +135,7 @@ footer{
 
 .btn{
     padding: 6px 20px;
-    border: 2px solid white;
+    border: 2px solid #373a36;
     background-color: 
     #092428;
     color: white;
@@ -191,6 +143,11 @@ footer{
     font-size: 1.5rem;
     border-radius: 10px;
     cursor:pointer;
+}
+
+.btn:hover {
+    background-color: #092428;
+    opacity: 0.8;
 }
 
 .center{

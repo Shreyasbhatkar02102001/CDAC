@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+
+<body>
+   <script>
+
+      function sum(a, b) {
+         return new Promise((resolve, reject) => {
+            setTimeout(() => {
+               var c = a + b;
+               if (c) {
+                  resolve(c);
+               }
+               else {
+                  reject("Error: Sum cannot be calculated");
+               }
+
+            }, 1000);
+         });
+      }
+
+      function factorial(n) {
+         return new Promise((resolve, reject) => {
+            setTimeout(() => {
+               if (n) {
+                  var fact = 1;
+                  for (let i = 1; i <= n; i++) {
+                     fact = fact * i;
+                  }
+                  resolve(fact);
+               }
+               else{
+                  reject("Error: Factorial cannot be calculated");
+               }
+            }, 3000);
+         });
+      }
+
+      function square(n) {
+         return new Promise((resolve, reject) => {
+            setTimeout(() => {
+               var sq = n * n;
+               if (sq) {
+                  resolve(sq);
+               }
+               else {
+                  reject("Error: Square cannot be calculated");
+               }
+            }, 1500);
+         });
+      }
+
+      // sum(2,3).then((sumResult)=>{
+      //    console.log("sum is",sumResult);
+      // })
+      // .catch((error)=>{
+      //    console.log(error);
+      // });
+
+      // square(null).then((sqResult)=>{
+      //    console.log(sqResult);
+      // }).catch((error)=>{
+      //    console.log(error);
+      // });
+
+      factorial(6).then((sqResult)=>{
+         console.log(sqResult);
+      }).catch((error)=>{
+         console.log(error);
+      });
+
+   </script>
+</body>
+
+</html>

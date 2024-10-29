@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #q1 {
+            color: blue;
+            font-style: italic;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p id="q1" onmouseover="myfunction()" onmouseout="out()">
+            [on mouse over here bold words of the following paragraph will be highlighted]
+        </p>
+ </div>
+    <div class="con">
+        <p id="a">
+            Lorem ipsum dolor sit amet <b>consectetur adipisicing</b> elit. Laborum eveniet incidunt ipsum, obcaecati odio nisi! <b>Aperiam beatae</b>, velit vitae pariatur ratione <b>consectetur</b> accusantium harum voluptatum <b>tenetur</b> repellendus architecto quisquam illo?
+        </p>
+        <!-- <button  onmouseover="myfunction()"  onmouseout="out()">Click here</button>
+    </div> -->
+
+    <script>
+        function myfunction() {
+            const para = document.getElementById("a");
+            const boldText = para.querySelectorAll("b, strong");
+            boldText.forEach(element => {
+                element.style.backgroundColor = "yellow"; 
+            });
+        }
+
+        function out() {
+            const para= document.getElementById("a");
+            const boldText1 = para.querySelectorAll("b, strong");
+            boldText1.forEach(element => {
+                element.style.backgroundColor = "";
+            });
+        }
+
+
+    </script>
+</body>
+</html>

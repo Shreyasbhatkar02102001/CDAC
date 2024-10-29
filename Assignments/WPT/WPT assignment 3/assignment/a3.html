@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .con {
+            width: 200px;
+            height: 100px;
+            margin: 100px auto;
+            background-color: bisque;
+            text-align: center;
+        }
+
+        #cars {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: brown;
+            color: aliceblue;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        
+    </style>
+    </head>
+    <body>
+    <div class="con">
+        <label for="cars">Choose a car:</label>
+        <select name="cars" id="cars">
+            <option value="volvo">Volvo</option>
+            <option value="saab">Saab</option>
+            <option value="mercedes">Mercedes</option>
+            <option value="audi">Audi</option>
+    </select>
+    <button type="button" onclick="myfunction()">Click me</button>
+    </div>
+    <script>
+        function myfunction() {
+            const aim = document.getElementById("cars");
+
+            aim.remove(aim.selectedIndex);
+        }
+    </script>
+</body>
+</html>

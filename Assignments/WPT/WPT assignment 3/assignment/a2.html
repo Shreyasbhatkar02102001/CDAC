@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .info {
+            width: 250px;
+            height: 300px;
+            margin : 80px auto;
+            background-color: bisque;
+            text-align: center;
+            align-items: center;
+        }
+
+        input{
+            margin: 20px;
+        }
+
+        div {
+            width: 250px;
+            height: 100px;
+            margin-top: 35px;
+            text-align: center;
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <form a class="info">
+        <input type="text" placeholder="First Name" id="a1" required>
+        <input type="text" placeholder="Last Name" id="a2" required>
+        <input type="tel" placeholder="Phone no" id="a3" required>
+        <input type="email" placeholder="email" id="a4" required>
+        <button type="button" onclick="myFunction()"> click here</button>
+        <div id="output">
+
+        </div>
+    </form>
+
+    <script>
+        function myFunction() {
+            const ans1 = document.getElementById("a1").value; 
+            const ans2 = document.getElementById("a2").value; 
+            const ans3 = document.getElementById("a3").value; 
+            const ans4 = document.getElementById("a4").value; 
+
+            document.getElementById("output").innerHTML = `
+                <p> ${ans1} <br/> ${ans2} <br/> ${ans3} <br/> ${ans4} </p>
+            `;
+
+        }
+    </script>
+</body>
+</html>
