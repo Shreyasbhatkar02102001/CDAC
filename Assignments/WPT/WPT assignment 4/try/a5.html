@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>5th</h2>
+    <div class="c1">
+        <p>Check the console for the simulated network response and processed data.</p>
+        <button onclick="initiateRequest()">Fetch and Process Data</button>
+    </div>
+
+    <script>
+        function fetchData(url, callback) {
+            console.log(`Fetching data from ${url}...`);
+            setTimeout(() => {
+                const isError = Math.random() < 0.5; 
+                if (isError) {
+                    callback("Error: Failed to fetch data");
+                } else {
+                    const response = "Simulated response data from " + url;
+                    callback(null, response);
+                }
+            }, 2000);
+        }
+
+        
+        function processData(data, callback) {
+            console.log("Processing data...");
+            setTimeout(() => {
+                const processedData = data.toUpperCase();
+                callback(processedData);
+            }, 1000); 
+        }
+
+        function initiateRequest() {
+            const url = "https://prepinsta.com/top-100-codes/";
+            fetchData(url, function(error, response) {
+                if (error) {
+                    console.error(error);
+                } else {
+                    console.log("Response received:", response);
+                    processData(response, function(processedData) {
+                        console.log("Processed Data:", processedData);
+                    });
+                }
+            });
+        }
+    </script>
+</body>
+</html>
