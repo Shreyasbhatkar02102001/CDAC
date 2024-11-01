@@ -1,0 +1,22 @@
+.custom-img-height {
+    /* height: 600px;
+    width: auto; */
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger;
+}
+
+.nav-item:hover {
+    background-color: gold;
+}

@@ -1,0 +1,66 @@
+
+priority
+
+>>> Mini-Project development  <<<
+javascript
+html-css
+
+study:
+mongoDB  =  it is required for project
+
+
+revision:
+java missied topics
+ADS
+
+Daily : 
+java interview questions        => ( what is asked in the interview)
+ADS
+DBT
+coding : one question atleast ( java - collections )
+Aptitude : Daily atleast one topic to be cover ( 10 questions )
+
+>>>>>>> told by Aditya sir
+
+read: 
+
+.  Ajax
+.  Express js
+.  Node js
+
+assignment 
+
+more focus on functionality  => make project using bootstrap
+
+.  fevicon
+.  navigation
+.  same navigation in all pages
+
+
+
+Overview : 
+
+- best time to develop mini project
+
+
+
+
+schedule :
+
+A) -  morning to lunch :  what is necessary for mini project ( bootstrap & javascript )
+B) -  afterlunch to 6.30/7.00 : interview questions and aptitude
+C) -  aftertea to dinner :  mini project implementation
+D) -  dinner to sleep : coding queston + remaining mini project development
+
+
+Tentative Timings :
+
+9 - 1/2 : A   (4-5hrs)
+2/3 - 6/7 : B  (4-5hrs)
+7/8 - 9/10 : C  (2-3hrs)
+10/11 - 1/2 : D  (2-3hrs)
+
+
+
+
+

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>1st</h2>
+    <div class="c1">
+        <input type="text" id="cp1" placeholder="Enter your string here">
+        <button onclick="mainProcessing()">Convert to Uppercase</button>
+        <p>Output: <span id="cpout"></span>
+    </div>
+
+    <h2>2nd</h2>
+    <div class="c1">
+        <p>Open the console to see the results.</p>
+        <button onclick="processArray()">Process Array
+    </div>
+
+
+    <h2>3rd</h2>
+    <div class="c1">
+        <p>Check the console for the simulated network response.</p>
+        <button onclick="initiateRequest()">Fetch Data</button>
+    </div>
+
+
+    
+
+
+
+    <script>
+        //1
+
+
+        function processData(para, callback) {
+            return callback(para);
+        }
+
+        function toUpperCase(str) {
+            return str.toUpperCase();
+        }
+
+        function mainProcessing() {
+            const para = document.getElementById("cp1").value;
+            const result = processData(para, toUpperCase);
+            document.getElementById("cpout").textContent = result;
+            console.log(result);
+        }
+
+        //2
+
+        function forEachElement(array, callback) {
+            for (let i = 0; i < array.length; i++) {
+                callback(array[i], i);
+            }
+        }
+
+        
+        function processArray() {
+            const myArray = [1, 2, 3, 4, 5];
+
+            forEachElement(myArray, function(element, index) {
+                const result = element * 2;
+                console.log(`Index: ${index}, Element: ${element}, Result: ${result}`);
+            });
+        }
+        
+        
+        //3
+        function fetchData(url, callback) {
+            console.log(`Fetching data from ${url}...`);
+            setTimeout(() => {
+                const response = "Simulated response data from " + url;
+                callback(response);
+            }, 2000); 
+        }
+
+        function initiateRequest() {
+            const url = "https://prepinsta.com/top-100-codes/";
+            fetchData(url, function(response) {
+                console.log("Response received:", response);
+            });
+        }
+
+
+        
+        
+
+      
+        
+    </script>
+</body>
+</html>

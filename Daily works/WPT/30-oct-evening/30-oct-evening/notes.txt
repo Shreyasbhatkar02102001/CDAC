@@ -1,0 +1,77 @@
+Jquery: it is library built on the top of js, jquery ease out the js development by providing predefined functions
+
+
+$(selector)
+var y = $("#heading");
+
+onclick -> click()
+onkeyup -> keyup()
+
+$(selector).event-name(()=>{
+
+});
+
+id="btn"
+
+$("#btn").click(()=>{
+	alert("Hello");
+});
+
+document -> ready event
+
+$(document).ready(()=>{
+
+});
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <button id="btn">Click</button>
+   <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+   <script>
+      $(document).ready(()=>{
+         $("#btn").click(()=>{
+            alert("Hello Jquery");
+         });
+      });
+   </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h1 id="content">This is content</h1>
+   <button id="hide-btn">Hide</button>
+   <button id="show-btn">Show</button>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+   <script>
+      $(document).ready(()=>{
+         $("#hide-btn").click(()=>{
+            $("#content").fadeOut(1000);
+         });
+         $("#show-btn").click(()=>{
+            $("#content").fadeIn(1000);
+         });
+      });
+   </script>
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+< 1 >
+
+mini - project
+
+activity - web star
+
+-> Design one whole website :
+
+. CRUD operations ( Must )
+. home 
+. Gallery
+. product
+. Sign-in/ registration
+. about us
+. contact us
+
+-> Spot examination: Ideas will be given by faculty
+
+on 4th evaluation
+
+whatever we apply we should understand
+
+
+-> examination will be on the explanation part
+
+< 2 >
+
+Total 40 marks LAB :
+
+-> based on monogDB connections within projects
+-> next 15 marks   
+-> data ten: 11th Nov 
+
+
+< 3 >
+
+mock interview 2nd filteration round
+
+-> 5th 11 am
+-> same pattern as previous
+
+
+
+
+< 4 >
+
+Group project  ( 3 people )
+
+one front-end now
+
+and 2nd backend in their respective modules
+
+
+one concept but 2 domains java and dot net
+
+*** IMP ***
+
+-> Front-end should be done in React   (  10 marks  )
+
+
+15 15 10 = 40 marks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
