@@ -52,7 +52,7 @@
               <a class="nav-link" href="about.html">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="event.html">Catalogue Listings</a>
+              <a class="nav-link" href="interface.html">Catalogue Listings</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact Us</a>
@@ -66,11 +66,16 @@
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Sign In/Sign Up
+                Welcome : 
+                <script>
+                    document.write(localStorage.getItem("name"));
+                </script>  - 
+                <script>
+                    document.write(localStorage.getItem("email"));
+                </script> 
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="signin.html">Sign In</a></li>
-                <li><a class="dropdown-item" href="signup.html">Sign Up</a></li>
+                <li><a class="dropdown-item" href="signin.html">Log Out</a></li>
               </ul>
             </li>
           </ul>
@@ -86,30 +91,68 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img
-            src="https://wallpapercave.com/wp/wp3718052.jpg"
+            src="images/Community-Events-1.png"
             class="d-block w-100"
             style="max-height: 800px"
             alt="..."
           />
           <div class="text-overlay">
-            <h1>About Us</h1>
+            <h1>
+              Imagine a world where books are shared, stories are spread, and
+              knowledge flows. NOW, LET'S MAKE IT HAPPEN.
+            </h1>
             <!-- <p>Additional text below the heading.</p> -->
           </div>
         </div>
       </div>
     </div>
 
-    <div class="container mt-3">
+    <div class="container mt-4">
       <div class="d-flex align-items-center mt-2">
         <div class="sideC col-lg-2"></div>
         <div class="midC col-lg-8">
+          <!-- first container head  -->
+          <div class="d-flex align-items-center mt-2">
+            <div class="midleft col-lg-7">
+              <h3 class="midhead">
+                Shared resources. Creative connections. Engaged community.
+              </h3>
+            </div>
+            <div class="midignore col-lg-2"></div>
+            <div class="midright col-lg-3">
+              <!-- <button class="midsignup">
+                Join us for updates and community perks!
+              </button> -->
+
+              <!-- <button type="button" class="btn btn-outline-secondary">
+                Secondary
+              </button> -->
+
+              <!-- <a href="signup.html"
+                ><button type="button" class="btn btn-success">
+                  Join us for updates and community perks!
+                </button></a
+              > -->
+            </div>
+          </div>
+
+          <!-- first container contain  -->
+          <div class="d-flex align-items-center mt-2">
+            <div class="midContentLeft col-9">
+              We believe every community has the potential to thrive. We believe
+              people hold the power and knowledge to shape their world. We
+              believe that sharing and engagement can be inspiring and fun. And
+              we’re here to help bring it all to life.
+            </div>
+            <div class="midContentright col-3"></div>
+          </div>
+
           <!-- first last content  -->
           <div class="midlastContent mt-2">
-            <p>
-              We provide innovative community engagement, planning, placemaking,
-              design, and facilitation services to towns and organizations
-              throughout India.
-            </p>
+            The Community Exchange is a collaborative initiative dedicated to
+            sparking creative engagement, thoughtful planning, placemaking, and
+            effective communication within towns, cities, and community
+            organizations across India.
           </div>
 
           <div class="d-flex align-items-center mt-4">
@@ -123,14 +166,22 @@
             <div class="row">
               <div class="col-lg-4 mb-3">
                 <div class="card">
+                  <img
+                    src="https://www.noosaregionalgallery.com.au/wp-content/uploads/2020/09/61354981_2724359847636637_8661345595891384320_n-b-1200x846.jpg"
+                    class="card-img-top"
+                    alt="..."
+                  />
                   <div class="card-body">
-                    <h5 class="card-title">We’re here to inspire.</h5>
+                    <h5 class="card-title">Community Events & Workshops</h5>
                     <p class="card-text">
-                      Every community holds the potential to thrive. Around the
-                      world, people are discovering creative ways to make their
-                      communities happier, healthier, safer, and more connected.
-                      We help bring people together, reveal new possibilities,
-                      and support communities in imagining what could be.
+                      The Community Exchange hosts engaging events and workshops
+                      designed to inspire collaboration and creativity. We
+                      provide a platform for residents to come together, learn
+                      new skills, and share ideas. Our events foster a sense of
+                      belonging and community spirit, encouraging participants
+                      to connect, explore, and contribute to the vibrant
+                      tapestry of local culture. Join us in creating memorable
+                      experiences that strengthen our community bonds!
                     </p>
                     <!-- <a href="#" class="btn btn-primary">Click me</a> -->
                   </div>
@@ -138,15 +189,21 @@
               </div>
               <div class="col-lg-4 mb-3">
                 <div class="card">
+                  <img
+                    src="https://th.bing.com/th/id/OIP.LhCL8O1Hryn22TfEgkwOnwAAAA?rs=1&pid=ImgDetMain"
+                    class="card-img-top"
+                    alt="..."
+                  />
                   <div class="card-body">
-                    <h5 class="card-title">We’re here to innovate.</h5>
+                    <h5 class="card-title">Sharing Books & Resources</h5>
                     <p class="card-text">
-                      Exciting things happen when community building is
-                      interactive, engaging, and inspiring. Our approach
-                      combines creative and traditional tools to involve people
-                      in shaping their communities. From placemaking to resource
-                      sharing, we make community development both fun and
-                      impactful.
+                      At The Community Exchange, we promote a culture of sharing
+                      books and other resources to strengthen our community. We
+                      facilitate access to diverse materials, fostering
+                      connections and knowledge exchange among residents. Our
+                      initiative encourages everyone to contribute and borrow,
+                      creating a vibrant network of learning and collaboration
+                      that enriches lives and empowers growth.
                     </p>
                     <!-- <a href="#" class="btn btn-success">Click me</a> -->
                   </div>
@@ -154,15 +211,25 @@
               </div>
               <div class="col-lg-4 mb-3">
                 <div class="card">
+                  <img
+                    src="https://static.wixstatic.com/media/51db15ac941b483581e07075ff929e18.jpg/v1/fill/w_512,h_341,al_c,q_80,usm_0.66_1.00_0.01/51db15ac941b483581e07075ff929e18.jpg"
+                    class="card-img-top"
+                    alt="..."
+                  />
                   <div class="card-body">
-                    <h5 class="card-title">We’re here to empower.</h5>
+                    <h5 class="card-title">
+                      Community Assistance & Resource Navigation
+                    </h5>
                     <p class="card-text">
-                      We understand that each community knows itself best.
-                      Instead of providing answers, we help communities uncover
-                      their own solutions. By facilitating conversations,
-                      designing strategies, and building collaboration skills,
-                      we empower people to work together and create lasting
-                      change.
+                      At The Community Exchange, we provide community assistance
+                      and resource navigation to help individuals and families
+                      in need. Our team is dedicated to connecting people with
+                      vital services, including food, housing, healthcare, and
+                      educational resources. By offering guidance and support,
+                      we empower community members to access the help they need,
+                      fostering resilience and promoting well-being for all.
+                      Together, we strive to ensure that no one in our community
+                      faces challenges alone.
                     </p>
                     <!-- <a href="#" class="btn btn-warning">Click me</a> -->
                   </div>
@@ -172,62 +239,6 @@
           </div>
 
           <!-- continue mid  -->
-
-          <div class="midwho mt-3">
-            <h3>Who We Are</h3>
-            <div class="container mt-4">
-              <div class="row">
-                <div class="col-lg-6 mb-3">
-                  <div class="card">
-                    <img
-                      src="https://th.bing.com/th/id/OIP.lpSGfNNRaS4OEnmtmPR2AwHaHA?rs=1&pid=ImgDetMain"
-                      class="card-img-top"
-                      alt="..."
-                    />
-                    <div class="card-body">
-                      <p class="card-text">
-                        My name is Shreyas Bhatkar and I'm a dedicated
-                        engineering professional with a background in Mechanical
-                        Engineering. I began my journey with a Diploma from
-                        Navjeevan Education Society Polytechnic, where I built a
-                        solid foundation in the field. I then pursued a Bachelor
-                        of Technology at Nutan College of Engineering and
-                        Research, further strengthening my understanding of
-                        engineering principles and practices. Currently, I'm
-                        enrolled at the Centre for Development of Advanced
-                        Computing (CDAC) in Mumbai, where I'm expanding my
-                        skills in advanced computing to prepare for a dynamic
-                        career in the tech industry.
-                      </p>
-                      <!-- <a href="#" class="btn btn-primary">Click me</a> -->
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-6 mb-3">
-                  <div class="card">
-                    <img
-                      src="https://www.careerindia.com/img/2021/06/cdac-1624427097.jpg"
-                      alt="..."
-                    />
-                    <div class="card-body">
-                      <p class="card-text">
-                        C-DAC Mumbai, earlier known as NCST, started operations
-                        in the Juhu campus in 1985. There are two campuses in
-                        Mumbai, at Juhu and at Kharghar. It has a rich history
-                        of cutting edge R&D in areas of Computer Graphics,
-                        Computer Networks, Language Translation, Educational
-                        Applications of AI, Resource Scheduling, etc. It was
-                        among the pioneers in bringing Internet to India through
-                        the ERNET project, and also in multi-lingual
-                        technologies.
-                      </p>
-                      <!-- <a href="#" class="btn btn-warning">Click me</a> -->
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
         <div class="sideC col-lg-2"></div>
       </div>

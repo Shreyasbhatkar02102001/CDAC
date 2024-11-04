@@ -1,6 +1,4 @@
 .custom-img-height {
-    /* height: 600px;
-    width: auto; */
     object-fit: cover;
     object-position: bottom;
 }
@@ -20,3 +18,13 @@
 .nav-item:hover {
     background-color: gold;
 }
+
+.act{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+th, td {
+    padding: 5px;
+  }

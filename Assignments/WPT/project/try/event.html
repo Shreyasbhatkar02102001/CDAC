@@ -22,7 +22,7 @@
     <!-- <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark"> -->
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.html">
           <img
             src="images/BRANDLOGO.png"
             alt="Logo"
@@ -365,9 +365,6 @@
                                   Green Infrastructure for Public Spaces: A Design Guide
                               </a>
                             </h5>
-                            <p class="mt-2 mb-2">Saturday, July 15, 2023 <br/>
-                              8:00 AM - 12:00 PM
-                          </p>
                             <p class="card-text">
                               A book focusing on sustainable landscaping and eco-friendly design for parks, streetscapes, and public plazas. This guide covers rain gardens, urban forestry, and permeable surfaces, offering actionable ideas for communities looking to incorporate green infrastructure. Available in our tools library, it’s perfect for anyone planning to integrate environmental solutions into public space projects.
                             </p>
@@ -380,7 +377,35 @@
                     </div>
                 
                     <!-- tools-end  -->
-  
+                    
+                    <div class="container mt-4">
+                      <h3>Events and Books/Items Sharing</h3>
+                      <form id="form" onsubmit="event.preventDefault(); addItem();">
+                          <input type="text" id="title" class="form-control mb-2" placeholder="Enter Title" required>
+                          <input type="text" id="description" class="form-control mb-2" placeholder="Enter Description" required>
+                          <input type="file" id="image" class="form-control mb-2" accept="image/*" required>
+                          <button type="submit" class="btn btn-primary">Add Item</button>
+                      </form>
+                      <hr>
+                      
+                      <div class="items-table mt-3">
+                          <table class="list" id="itemList">
+                              <thead>
+                                  <tr>
+                                      <th>Title</th>
+                                      <th>Description</th>
+                                      <th>Image</th>
+                                      <th>Actions</th>
+                                  </tr>
+                              </thead>
+                              <tbody>
+                                  
+                                
+                              </tbody>
+                          </table>
+                      </div>
+                  </div>
+
               </div>
             </div>
           </div>
@@ -391,6 +416,8 @@
         <!-- tools-start  -->
 
         
+
+      <script src="script.js"></script>
 
         <!-- tools-end  -->
 
@@ -413,16 +440,16 @@
 
           <!-- Right -->
           <div>
-            <a href="" class="me-4 text-reset">
+            <a href="https://en-gb.facebook.com/login.php" class="me-4 text-reset">
               <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJteCI6IjIifQ%3D%3D%22%7D" class="me-4 text-reset">
               <i class="fab fa-twitter"></i>
             </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://accounts.google.com/v3/signin/identifier?ifkv=AcMMx-dGag3DokS7zjGpslYbBumodn0Ys_YdNxiIMcuAqo__PhOIRzk8VdjkqGLuXbRGNSTiSLlI&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1259398574%3A1730654952071917&ddm=1" class="me-4 text-reset">
               <i class="fab fa-google"></i>
             </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://www.instagram.com/accounts/login/" class="me-4 text-reset">
               <i class="fab fa-instagram"></i>
             </a>
             
@@ -437,7 +464,7 @@
           style="background-color: rgba(0, 0, 0, 0.05)"
         >
           © 2024 Copyright:
-          <a class="text-reset fw-bold" href="#">TheCommunityExchange.com</a>
+          <a class="text-reset fw-bold" href="index.html">TheCommunityExchange.com</a>
         </div>
         <!-- Copyright -->
       </footer>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="fetchData()">Fetch Data</button>
+    <script>
+        function fetchData() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "https://jsonplaceholder.typicode.com/users");
+            xhr.send();
+            // read the response
+            xhr.onreadystatechange = () => {
+                if (xhr.readyState === 4 && xhr.status === 200 ) {
+                    var data = "[{id:101, name: 'John'},{id:102, name: 'Sohan'}]";
+                    var users = JSON.parse(xhr.responseText);
+                    // console.log("data");
+                    // console.log(xhr.responseText);
+                    console.log(users);
+                }
+            }
+            
+      }
+    </script>
+</body>
+</html>
