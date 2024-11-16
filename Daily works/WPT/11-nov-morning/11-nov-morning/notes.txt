@@ -1,0 +1,116 @@
+class Student{
+
+	constructor(){
+		this.id = 101;
+		this.name = "Raman";
+	}
+}
+
+
+Props:
+Function component: then props will be assigned into the function argument
+Class component: then props will become the member of the class
+
+
+Component 
+
+this.props={ heading: "", description:"" }
+
+this.props.heading
+this.props.description
+
+
+Fact about props: A component can't change/modify the value for its props and even the component can't decide the value for its props 
+
+import { Component } from "react";
+
+export class Header extends Component{
+    render(){
+        return (
+            <div>
+                <h1>{this.props.heading}</h1>
+                <p>{this.props.description}</p>
+            </div>
+        )
+    }
+}
+
+
+Props and State
+
+
+State: it is property of any component, that a component initializes itself and can change its value 
+
+State is the direct/native feature of a class component but not the direct feature of function component 
+
+So to use features of class components into the function component, react js has introduced hooks 
+
+State in a class component:
+
+Similar to props state is also a class member 
+this.props
+this.state 
+
+HTML: imperative approach  
+<button onclick="operation()"> click me </button>
+
+React js: Declarative approach
+<button onClick={this.increaseScore} ></button>
+
+
+React js will look into the differences between last render and the current render, and the elements which are having the differences those only will be updated  
+diffing algorithm
+
+React JS has its own dom, i.e. virtual DOM
+virtual DOM is faster than Actual DOM
+
+Virtual is a copy of the actual dom, and react js performs all the operations on virtual dom only 
+
+
+State into function component:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

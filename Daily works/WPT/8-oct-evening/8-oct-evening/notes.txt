@@ -1,0 +1,35 @@
+client app ->request-> login api 
+
+login api -> response {token:"eyy......"}-> client app
+
+client app -> save the token in browser memory
+
+client app -> request -> pass token in the request for secure api ->
+
+secured api ->  verify the token -> if token is verified -> proceed to the API Job 
+
+request body
+request header: meta data for the request
+token
+
+We have to pass the token in the request header of any secured api
+Authorization 
+
+Middleware:
+1. Read Authorization header
+	"Bearer ey2eh747yee......."
+2. If Authorization header is not passed in the request: 
+	respond with an error message like token is missing
+3. If Authorization header is passed in the request:
+	read the token value : 
+4. Verify the token
+	if token is valid: next()
+	if token in invalid: respond with error message like token is invalid
+	
+	
+
+
+
+
+
+

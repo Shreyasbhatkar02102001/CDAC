@@ -1,0 +1,110 @@
+http://127.0.0.1:9800/products/save
+http://127.0.0.1:9800/products/getAll
+
+
+http://135.12.15.1:9800/products/save
+http://135.12.15.1:9800/products/getAll
+http://135.12.15.1:9800/products/remove/101
+http://135.12.15.1:9800/products/update/101
+
+
+As of now, all the APIs are open for all 
+i.e. any one is this world who is having the url they can access the API
+but this should not happen ideally 
+
+In order to prevent the above behavior, we need to add authentication to the APIs
+
+Admin Registration
+
+Admin login 
+
+Now, all the secure APIs should verify first that if admin has logged in or not 
+if admin is logged in then only API should do its job 
+otherwise if admin is not logged in then respond with error message 
+
+Login API:
+1. Receive username and password from request body
+2. Match the username and password given by user in the request with the db values
+Select * from admin where username=${request.body.username} and password=${request.body.password}
+
+3. after matching into db:
+	a. username and password matched: generate a token and send it in response  login successful and user is valid
+	b. username and password didn't matched: respond with error message like invalid username or password 
+
+
+
+Secured API:
+1. first the secured api will receive the token on the request
+2. Secured API now should verify the token
+3. If token is valid then API will do its job
+   If token is invalid or there is no token in the request then respond with error message 
+
+
+Restro: Self Service
+
+Payment Counter : authentication will be done, they will give a token 
+Food Counter : customer will present the token and the employee at the food counter will verify the token, if token is valid then we will get access of the secured resource
+Food is the secured resource 
+
+
+For authentication purpose we will use JWT Token
+
+Json Web Token
+
+At the time of token generation we have to decide that what data we should contain inside a token with the help of json object
+
+To generate a token we also need a secure key
+
+var data = {
+	userId: 101
+}
+
+sign(data)
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody id="row-container">
+
+        </tbody>
+    </table>
+
+    <script>
+        async function fetchData() {
+            try {
+                const response = await fetch("http://127.0.0.1:9800/products/getAll");
+                const data = await response.json();
+                console.log(data);
+                const tbody = document.getElementById("row-container");
+                data.forEach((product)=>{
+                    const tr = document.createElement("tr");
+                    const idColumn = document.createElement("td");
+                    const nameColumn = document.createElement("td");
+                    const priceColumn = document.createElement("td");
+                    const quantityColumn = document.createElement("td");
+                    const descriptionColumn = document.createElement("td");
+
+                    idColumn.innerHTML = product.id;
+                    nameColumn.innerHTML = product.name;
+                    priceColumn.innerHTML = product.price;
+                    quantityColumn.innerHTML = product.quantity;
+                    descriptionColumn.innerHTML = product.description;
+                    tr.appendChild(idColumn);
+                    tr.appendChild(nameColumn);
+                    tr.appendChild(priceColumn);
+                    tr.appendChild(quantityColumn);
+                    tr.appendChild(descriptionColumn);
+                    tbody.appendChild(tr);
+                })
+            } catch (error) {
+                console.log(error);
+            }
+        }
+        fetchData();
+
+    </script>
+</body>
+
+</html>

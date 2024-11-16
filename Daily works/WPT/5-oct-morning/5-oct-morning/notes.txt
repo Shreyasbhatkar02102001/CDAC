@@ -1,0 +1,113 @@
+const fs = require('fs');
+fs.readFile("my-file.txt", (error, data) => {
+   if (error) {
+      console.log(error);
+   }
+   else {
+      console.log(data.toString());
+   }
+});
+
+console.log("after reading file");
+
+
+
+const fs = require('fs');
+const data = fs.readFileSync("my-file.txt");
+console.log(data.toString());
+console.log("after reading file");
+
+
+User defined module:
+1. create a separate .js file
+2. export properties from the same .js file in order to use them outside of the module
+
+syntax to export properties:
+
+exports.property_name = value
+
+exports.fetchData = ()=>{
+
+}
+
+exports.myData="Hello"
+
+
+if module is in the same folder: require('./utility.js');
+
+if module is in other sub folder in same directory: require('./folder-name/utility.js')
+
+if module is outside of the folder: require('../folder-name/module-name.js');
+
+
+const myModule = require('../my-modules/utility.js')
+
+const x = myModule.sum(4,6);
+
+myModule.square(4);
+
+
+Port Number: logical address given to a process running on server 
+ip address
+127.0.0.1:3306
+127.0.0.1:8080
+
+mysql: 3306
+ecommerce: 8080
+social media: 9090
+
+3306, 8000, 8080, 8090, 3000
+
+const http = require('http');
+
+const server = http.createServer((request,response)=>{
+    response.write("Hello from server");
+    response.end();
+});
+
+server.listen(4050,()=>{
+    console.log("Server is running on port 4050");  // Server started on port 4050
+});
+
+
+Creating an ideal node app:
+
+1. create a dedicated folder for the project
+2. In the project root folder create two files 
+   index.js/app.js/server.js -> logic for starting server
+   package.json -> metadata of the project: name of the project, author, git url, licensing, description, installed 3rd party modules (dependencies)
+
+   There are two ways to create package.json file:
+   1. create a file manually and manually write its content
+   2. use a tool(npm) to create package.json file 
+
+npm Node Package Manager
+
+1. pre-defined modules in node js 
+2. user defined modules 
+3. 3rd party modules : using npm we can install/uninstall 3rd party modules/packages
+
+npm init 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

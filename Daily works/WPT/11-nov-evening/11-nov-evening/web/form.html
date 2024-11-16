@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" id="id" placeholder="enter id">
+    <br><br>
+    <input type="text" id="name" placeholder="enter name">
+    <br><br>
+    <input type="text" id="price" placeholder="enter price">
+    <br><br>
+    <input type="text" id="quantity" placeholder="enter quantity">
+    <br><br>
+    <input type="text" id="description" placeholder="enter description">
+    <br><br>
+    <button onclick="saveProduct()">Save Product</button>
+    <h3 id="result"></h3>
+    <script>
+
+        async function saveProduct() {
+            var id = document.getElementById("id").value;
+            var name = document.getElementById("name").value;
+            var price = document.getElementById("price").value;
+            var quantity = document.getElementById("quantity").value;
+            var description = document.getElementById("description").value;
+            var product = {
+                id,
+                name,
+                price,
+                quantity,
+                description
+            }
+            try {
+                const response = await fetch("http://127.0.0.1:9800/products/save", {
+                    method: "POST",
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(product)
+                });
+                const data = await response.json();
+                document.getElementById("result").innerHTML = data.message;
+            } catch (error) {
+                console.log(error);
+            }
+
+        }
+
+    </script>
+</body>
+
+</html>
