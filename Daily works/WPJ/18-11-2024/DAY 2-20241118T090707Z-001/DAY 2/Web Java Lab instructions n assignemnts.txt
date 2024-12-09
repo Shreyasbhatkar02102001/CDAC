@@ -1,0 +1,55 @@
+Day 1
+1. import day1.2 in your new (web java workspace) .
+Edit DB password from DBUtils
+Edit mysql connector(JDBC driver) path
+
+2. We will walk through the code together n solve your queries
+
+3. Discuss n solve
+3.1 User(Voter) registration
+i/p - fn,ln,email,pwd,dob (age > 21)
+o/p - mesg (success|failed)
+
+3.2 Change password
+i/p - email , old password , new password
+o/p - message
+
+3.3 Delete user details
+i/p - voter id
+o/p - message
+
+3.4 User signin
+i/p - email , password
+o/p - in case of success : User or null.
+
+3. Reading H.W
+Go through daily sequence n revise JDBC concepts , API n implementation.
+
+Day 2
+1. Download n extract day 2 data
+2. Extract Java EE docs from "Common Java EE Help "
+Open index.html to refer to Java EE docs.
+3. Keep Java SE docs also open
+
+4. Extract n add Tomcat web server to our workspace.
+5. Create dynamic web project (day2_lab) . Test it with HTML(index.html) contents.
+6. Create n deploy the servlet using annotation
+(Understand annotation)
+7. Create n deploy the servlet using xml tags
+8.  Create 1 servlet with default (lazy) loading n another one with eager loading.
+
+9. Refer to -
+"day1-data\day1_help\jdbc help\sql\sql cmds.txt"
+Add "accounts" table with data (already supplied)
+Look for a stored function - 
+"transfer_funds_func"
+Add this in DB.
+
+10. Write a Tester(standalong main based app) n DAO layer code to execute the stored function.
+
+11. If time permits , we will discuss the DAO layer for the "online voting" also.
+
+
+
+
+ 
