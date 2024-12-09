@@ -1,0 +1,77 @@
+.Sidebar{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-top: 4rem;
+    transition: all 300ms ease;
+    color: black;
+}
+
+.logo{
+    display: flex;
+    height: 5rem;
+    font-weight: bold;
+    font-size: 22px;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    height: 4%;
+}
+
+/* will target img element inside logo  */
+.logo>img {
+    width: 3rem;
+    height: 3rem;
+}
+
+/* targeting "o" character inside span */
+.logo>span>span {
+    /* color: var(--gold); */
+    /* color: #227cd1; */
+    color: var(--pink);
+}
+
+/* menu  */
+.menu{
+    margin-top: 4rem;
+    display: flex;
+    /* becoz we want it's items in column wise */
+    flex-direction: column;  
+    gap: 2rem;
+}
+
+.menuItem{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: 2.5rem;
+    margin-left: 2rem;
+    position: relative;
+    transition: all 300ms ease;
+    font-size: 14px;
+    border-radius: 0.7rem;
+}
+
+.menuItem:hover {
+    cursor: pointer;
+}
+
+.active {
+    background-color: var(--activeItem);
+    margin-left: 0;
+}
+
+.active::before{
+    content:'';
+    width: 8px;
+    height: 100%;
+    background: var(--pink);
+    /* why 1 rem : becoz it's margin-left is 2rem and it's half 1rem minus width  */
+    margin-right: calc(1rem-8px);
+}
+
+.menu .menuItem:last-child {
+    position:absolute;
+    bottom: 2.3rem;
+    width: 100%;
+}

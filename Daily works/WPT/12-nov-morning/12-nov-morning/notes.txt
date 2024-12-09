@@ -1,0 +1,51 @@
+Home base-url -> localhost:5173/
+About localhost:5173/about
+Contact localhost:5173/contact
+
+
+Mount -> component is going to render on the browser
+Unmount -> component is getting removed from the screen
+
+React Js doesn't provides routing 
+we will use react-router-dom
+
+npm I react-router-dom
+
+<BrowserRouter> -> to enable the routing within react app, we have wrap all the components inside BrowserRouter
+<Routes> -> It is container for containing all the Route components
+<Route> -> will contain the mapping of url with the component
+
+
+Lifecycle of component:
+From the starting/mounting to unmounting phase there are sequence of methods called on any component, those functions are known as lifecycle functions
+
+
+lifecycle functions for class component :
+constructor() -> only 1 time
+render() -> 1st time it will be executed, the no. of times the state has been updated
+componentDidMount() -> it will be called just after the first render only 
+			eg: to fetch data from api call at the time of component mounting
+
+componentDidUpdate() -> it will be called whenever component is updated due to re-rendering because of the state update 
+
+componentShouldUpdate() -> before calling didUpdate, shouldUpdate() will be called 
+
+componentDidCatch() -> it will handle the errors occurring in the component, ErrorBoundary
+
+componentWillUnmount() -> it will be called just before the component is getting unmounted, so that we can perform certain cleanup task
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+html, body, #root, .full-height {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .fixed-height {
+    height: 100%;
+    position: fixed;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  

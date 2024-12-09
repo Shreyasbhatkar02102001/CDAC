@@ -1,0 +1,47 @@
+Lifecycle in function component:
+
+in function component, we have to use hooks in order to implement lifecycle
+
+
+useEffect()-> componentDidMount, componentDidUpdate, componentWillUnmount, componentShouldUpdate
+
+
+componentDidMount: 
+
+useEffect(()=>{
+
+},[]);
+
+componentDidUpdate:
+score
+products
+formData
+useEffect(()=>{
+
+},[score,products]);
+
+componentWillUnmount:
+
+useEffect(()=>{
+	return ()=>{
+		// clean up task
+	}
+},[]);
+
+
+
+note: we cannot make effect callback as async because it should return only a function 
+if we write async onto it then it will be returning a promise and that is not possible
+
+
+
+
+
+
+
+
+
+
+
+
+

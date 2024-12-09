@@ -1,0 +1,12 @@
+.MainDash{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 2rem;
+}
+
+h1{
+    margin-top: 0;
+    color: black;
+    font-weight: bold;
+}

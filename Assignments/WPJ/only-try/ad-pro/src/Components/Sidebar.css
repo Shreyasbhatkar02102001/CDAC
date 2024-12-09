@@ -1,0 +1,10 @@
+/* .sidebar {
+    width: 220px;
+}
+ */
+
+ .list-group a:hover  {
+    background-color: brown;
+    color: bisque;
+    cursor: pointer;
+ }

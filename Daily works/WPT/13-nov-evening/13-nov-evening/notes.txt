@@ -1,0 +1,105 @@
+Redux: State management tool
+
+BrowserRouter -> Layout -> AppRouter -> ROutes -> Route
+
+A -> B -> C -> D
+
+
+export function A(){
+
+	const [data,setData] = useState("My Text");
+
+	return (
+		<B myProp={data}></B>
+	)
+}
+
+export function B(props){
+	return (
+		<C myProp={props.myProp}></C>
+	)
+}
+
+export function C(props){
+	return (
+		<D></D>
+	)
+}
+
+export function D(){
+	return (
+		<h1>hello</h1>
+	)
+}
+
+
+To pass the data from one component to other by default we have to go with props drilling
+
+but redux is there to rescue
+
+How solves this problem:
+
+Redux will create a store into the project
+it will be a centralized store
+
+All the data should be contained inside of that store
+
+if any component stored the data into the redux store then other components can directly ask the redux to provide that data 
+
+Now if certain data/state is updated in the redux store 
+then all the components which are using the redux data will be re-rendered
+
+Redux has 3 major fundamental building blocks / 3 pillars:
+1. Action: the name of operation "increase_score" "decrease_Score"
+2. Reducer: a function to manipulate the redux store data based on the action fired
+3. Store : a centralized unit where redux stores the data/state
+
+
+button component -> event fired -> handler -> update the state 
+
+component-> dispatch action -> reducer -> manipulate redux store -> redux store 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
