@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+
+class Demo
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Demo"<<endl;
+	}
+};
+class Demo1: public Demo
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Demo1"<<endl;
+	}
+};
+
+int main()
+{
+	Demo1 obj;
+
+	Demo1 *ptr=&obj;		//ptr is of Derived class and Object is also of Derived class
+
+	Demo *pt=&obj;
+
+	pt->Show();
+	return 0;
+}

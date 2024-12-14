@@ -1,0 +1,14 @@
+
+
+/* .navlink :hover {
+    background-color: gold;;
+} */
+
+.navlink{
+    margin-right: 3px;
+}
+
+#navbarDropdown:hover, .navlink:hover {
+    background-color: gold;
+    border-radius: 10px;
+}

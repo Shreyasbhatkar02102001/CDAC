@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+
+
+class A
+{
+public:
+	int Num1;
+};
+
+class B: public A
+{
+
+};
+class C: public A
+{
+
+};
+
+
+class D: public B, public C
+{
+public:
+	void ShowData()
+	{
+		cout<<"Num1:"<<this->B::Num1<<endl;
+	}
+};
+
+
+
+int main()
+{
+
+	D d;
+	d.B::Num1=100;
+	d.ShowData();
+	return 0;
+}

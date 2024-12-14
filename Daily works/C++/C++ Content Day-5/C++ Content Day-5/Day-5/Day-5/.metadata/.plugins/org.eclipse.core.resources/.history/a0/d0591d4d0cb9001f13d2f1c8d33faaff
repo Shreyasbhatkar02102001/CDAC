@@ -1,0 +1,7 @@
+#ifndef MYMETHODS_H_
+#define MYMETHODS_H_
+int Method1();
+int Method1();
+int Method1();
+int Method1();
+#endif /* MYMETHODS_H_ */

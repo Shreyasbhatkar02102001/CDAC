@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+class Demo1
+{
+public:
+	int Num1;
+	void ShowData()
+	{
+		cout<<"Num1:	"<<this->Num1<<endl;
+	}
+};
+
+//Syntax class DerviedClassName: AccessModifier BaseClassName
+
+class Demo2:public Demo1		//By Default mode of inheritance is private
+{
+public:
+	int Num2;
+	void ShowPrint()
+	{
+		cout<<"Num2:	"<<this->Num2<<endl;
+	}
+};
+
+int main()
+{
+	Demo2 d;
+	d.Num1=100;
+	d.Num2=200;
+	return 0;
+}

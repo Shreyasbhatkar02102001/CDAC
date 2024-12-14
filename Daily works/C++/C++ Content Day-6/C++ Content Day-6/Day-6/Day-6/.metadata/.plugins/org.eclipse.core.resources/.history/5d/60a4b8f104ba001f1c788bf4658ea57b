@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+class Demo
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Demo"<<endl;
+	}
+};
+class Demo1: public Demo
+{
+public:
+	void Show()
+	{
+		cout<<"Am Show of Demo1"<<endl;
+	}
+};
+
+int main()
+{
+
+	Demo1 obj;
+	obj.
+	return 0;
+}

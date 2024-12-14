@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+
+
+class A
+{
+public:
+	int Num1;
+};
+
+class B: virtual A
+{
+
+};
+class C: virtual A
+{
+
+};
+
+
+class D: public B, public C
+{
+public:
+	void ShowData()
+	{
+		cout<<"Num1 :"<<this->Num1<<endl;
+	}
+};
+
+
+
+int main()
+{
+
+	D d;
+	d.Num1=100;
+	d.ShowData();
+	return 0;
+}

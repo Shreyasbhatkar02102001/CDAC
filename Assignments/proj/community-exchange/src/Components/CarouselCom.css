@@ -1,0 +1,12 @@
+.text-overlay {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger;
+}
+

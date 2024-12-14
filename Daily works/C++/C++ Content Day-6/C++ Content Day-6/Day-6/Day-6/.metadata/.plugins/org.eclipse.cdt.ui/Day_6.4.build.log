@@ -1,0 +1,5 @@
+11:56:06 **** Clean-only build of configuration Debug for project Day_6.4 ****
+rm -rf src/Demo.d Day_6.4.exe src/Demo.o 
+
+11:56:07 Build Finished. 0 errors, 0 warnings. (took 255ms)
+

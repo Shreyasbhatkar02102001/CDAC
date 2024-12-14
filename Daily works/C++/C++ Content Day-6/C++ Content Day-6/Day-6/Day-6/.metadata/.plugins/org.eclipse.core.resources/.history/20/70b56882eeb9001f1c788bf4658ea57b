@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+class Test
+{
+public:
+	virtual void AddRecord()
+	{
+		//TODO
+	}
+
+	virtual void PrintRecord()=0;		//Pure Virtual Function, Abstract Function
+};
+
+
+
+int main()
+{
+
+	Test t1;
+	return 0;
+}

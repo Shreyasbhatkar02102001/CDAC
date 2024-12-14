@@ -1,0 +1,5 @@
+16:15:31 **** Incremental Build of configuration Debug for project Day_6.11 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Demo.o" "..\\src\\Demo.cpp" 
+g++ -o Day_6.11.exe "src\\Demo.o" 
+Info: Nothing to build for Day_6.11

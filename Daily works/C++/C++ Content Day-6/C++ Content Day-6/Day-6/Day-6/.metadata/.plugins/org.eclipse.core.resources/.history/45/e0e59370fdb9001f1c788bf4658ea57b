@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+class Demo1
+{
+public:
+	int Num1;
+	void ShowData()
+	{
+		cout<<"Num1:	"<<this->Num1<<endl;
+	}
+};
+
+
+class Demo2
+{
+public:
+	int Num2;
+	void ShowPrint()
+	{
+		cout<<"Num2:	"<<this->Num2<<endl;
+	}
+};
+
+int main()
+{
+
+
+	return 0;
+}

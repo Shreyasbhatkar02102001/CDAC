@@ -1,0 +1,49 @@
+.Sidebar{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4rem;
+    /* color:  #ffffff; */
+    background-color:#343a40;
+
+}
+
+.logo{
+    display: flex;
+    height: 5rem;
+    font-weight: bold;
+    font-size: 22px;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    height: 4%;
+}
+
+/* targeting "o" character inside span */
+.logo>span>span {
+    color: whitesmoke;;
+}
+
+/* menu  */
+.menu{
+    margin-top: 4rem;
+    display: flex;
+    /* becoz we want it's items in column wise */
+    flex-direction: column;  
+    gap: 2rem;
+}
+
+.menuItem{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: 2.5rem;
+    margin-left: 2rem;
+    font-size: 14px;
+    color: white;
+}
+
+.menuItem:hover {
+    cursor: pointer;
+    color: grey;
+}
+
