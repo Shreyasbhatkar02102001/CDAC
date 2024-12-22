@@ -1,0 +1,6 @@
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\bin\Debug\Catalog.dll
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\bin\Debug\Catalog.pdb
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\obj\Debug\Catalog.dll
+D:\Ravi\TAP\TAP\MumbaiSolution\Catalog\obj\Debug\Catalog.pdb

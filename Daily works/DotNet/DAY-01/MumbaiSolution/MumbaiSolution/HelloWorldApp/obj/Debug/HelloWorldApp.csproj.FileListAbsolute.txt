@@ -1,0 +1,10 @@
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\bin\Debug\Catalog.dll
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\bin\Debug\Catalog.pdb
+D:\Ravi\TAP\TAP\MumbaiSolution\HelloWorldApp\obj\Debug\HelloWor.7B0E6E17.Up2Date

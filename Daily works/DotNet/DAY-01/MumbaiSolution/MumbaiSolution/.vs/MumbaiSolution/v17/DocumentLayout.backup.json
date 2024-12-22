@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\testapp\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\testapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\testapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D334EB-311E-4896-9641-6A1DEF922B7E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A60C43-1FEE-4004-A41A-E5875FE9F4C4}|Catalog\\Catalog.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A60C43-1FEE-4004-A41A-E5875FE9F4C4}|Catalog\\Catalog.csproj|solutionrelative:catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\helloworldapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\helloworldapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|d:\\ravi\\tap\\tap\\mumbaisolution\\helloworldapp\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF361C57-6EE3-4B6E-9D81-579BC2EE8DB5}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreManager.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\StoreManager.cs",
+              "RelativeDocumentMoniker": "TestApp\\StoreManager.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\StoreManager.cs",
+              "RelativeToolTip": "TestApp\\StoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:06:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Product.cs",
+              "RelativeDocumentMoniker": "TestApp\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Product.cs",
+              "RelativeToolTip": "TestApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:44:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Customer.cs",
+              "RelativeDocumentMoniker": "TestApp\\Customer.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Customer.cs",
+              "RelativeToolTip": "TestApp\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:43:08.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:36:36.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\Catalog\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\Catalog\\Product.cs",
+              "RelativeToolTip": "Catalog\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:58:05.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Point.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Point.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Point.cs",
+              "RelativeToolTip": "HelloWorldApp\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:46:50.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Person.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Person.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Person.cs",
+              "RelativeToolTip": "HelloWorldApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:45:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\MumbaiSolution\\HelloWorldApp\\Program.cs",
+              "RelativeToolTip": "HelloWorldApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:20:03.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
