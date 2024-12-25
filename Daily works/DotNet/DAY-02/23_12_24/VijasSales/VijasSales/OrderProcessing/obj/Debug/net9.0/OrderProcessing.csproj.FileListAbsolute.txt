@@ -1,0 +1,11 @@
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.AssemblyInfoInputs.cache
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.AssemblyInfo.cs
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\VijasSales\OrderProcessing\bin\Debug\net9.0\OrderProcessing.deps.json
+D:\tryout\CDAC\VijasSales\OrderProcessing\bin\Debug\net9.0\OrderProcessing.dll
+D:\tryout\CDAC\VijasSales\OrderProcessing\bin\Debug\net9.0\OrderProcessing.pdb
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.dll
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\refint\OrderProcessing.dll
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\OrderProcessing.pdb
+D:\tryout\CDAC\VijasSales\OrderProcessing\obj\Debug\net9.0\ref\OrderProcessing.dll

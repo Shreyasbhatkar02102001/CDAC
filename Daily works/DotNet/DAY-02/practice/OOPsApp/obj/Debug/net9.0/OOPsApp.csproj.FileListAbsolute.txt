@@ -1,0 +1,15 @@
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.sourcelink.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\bin\Debug\net9.0\OOPsApp.exe
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\bin\Debug\net9.0\OOPsApp.deps.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\bin\Debug\net9.0\OOPsApp.runtimeconfig.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\bin\Debug\net9.0\OOPsApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\bin\Debug\net9.0\OOPsApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\refint\OOPsApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\OOPsApp.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-02\practice\OOPsApp\obj\Debug\net9.0\ref\OOPsApp.dll

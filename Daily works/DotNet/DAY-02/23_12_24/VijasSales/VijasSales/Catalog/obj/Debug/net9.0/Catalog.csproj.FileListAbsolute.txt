@@ -1,0 +1,11 @@
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfoInputs.cache
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfo.cs
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\VijasSales\Catalog\bin\Debug\net9.0\Catalog.deps.json
+D:\tryout\CDAC\VijasSales\Catalog\bin\Debug\net9.0\Catalog.dll
+D:\tryout\CDAC\VijasSales\Catalog\bin\Debug\net9.0\Catalog.pdb
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.dll
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\refint\Catalog.dll
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\Catalog.pdb
+D:\tryout\CDAC\VijasSales\Catalog\obj\Debug\net9.0\ref\Catalog.dll

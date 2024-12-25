@@ -1,0 +1,14 @@
+D:\tryout\CDAC\OOPsApp\bin\Debug\net9.0\OOPsApp.exe
+D:\tryout\CDAC\OOPsApp\bin\Debug\net9.0\OOPsApp.deps.json
+D:\tryout\CDAC\OOPsApp\bin\Debug\net9.0\OOPsApp.runtimeconfig.json
+D:\tryout\CDAC\OOPsApp\bin\Debug\net9.0\OOPsApp.dll
+D:\tryout\CDAC\OOPsApp\bin\Debug\net9.0\OOPsApp.pdb
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.AssemblyInfoInputs.cache
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.AssemblyInfo.cs
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.dll
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\refint\OOPsApp.dll
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.pdb
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\OOPsApp.genruntimeconfig.cache
+D:\tryout\CDAC\OOPsApp\obj\Debug\net9.0\ref\OOPsApp.dll
