@@ -1,0 +1,25 @@
+﻿@model CRUD_basic.Models.User
+
+<h2>Delete User</h2>
+
+<form asp-action="Delete" method="post">
+    <div class="form-group mt-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="form-group mt-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <div class="form-group mt-3">
+        <label asp-for="Contact" class="form-label"></label>
+        <input asp-for="Contact" class="form-control" />
+    </div>
+
+    <div class="form-group mt-3">
+        @* <input type="submit" value="Delete" class="btn btn-primary" /> *@
+        <button type="submit" class="btn btn-danger mt-3" >Delete</button>
+    </div>
+</form>

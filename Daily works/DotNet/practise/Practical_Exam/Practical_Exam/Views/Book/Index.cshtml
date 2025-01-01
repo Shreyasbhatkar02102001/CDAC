@@ -1,0 +1,40 @@
+﻿@model List<Practical_Exam.Models.Book>
+
+<h1>All Books</h1>
+
+<p>
+	<a asp-action="Create" class="btn btn-primary" >Add</a>
+</p>
+
+<table class="table table-striped">
+	<thead>
+		@* BookId, Title, Author, Category, IsAvailable(boolean), CreatedDate, UpdatedDate *@
+		<th>BookId</th>
+		<th>Title</th>
+		<th>Author</th>
+		<th>Category</th>
+		<th>IsAvailable</th>
+		<th>CreatedDate</th>
+		<th>UpdatedDate</th>
+	</thead>
+	<tbody>
+		@foreach (var book in Model){
+			<tr>
+				<td>@book.BookId</td>
+				<td>@book.Title</td>
+				<td>@book.Author</td>
+				<td>@book.Category</td>
+				<td>@(book.IsAvailable == true ? "Available": "Not Available") </td>
+				<td>@book.CreatedDate</td>
+				<td>@book.UpdatedDate</td>
+				<td>
+					<a class="btn btn-warning" asp-route-id="Edit" >Edit</a>
+				</td>
+				<td>
+					<a class="btn btn-danger" asp-route-id="Delete">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+

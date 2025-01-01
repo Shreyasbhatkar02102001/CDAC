@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\borrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\bookrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\bookrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\iborrowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\iborrowingrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\iborrowingrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\repositories\\borrowingrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\repositories\\borrowingrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\practical_exam\\practical_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91DB148D-38E6-4256-86B4-EC6E77C0AEF2}|Practical_Exam\\Practical_Exam.csproj|solutionrelative:practical_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:05:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Practical_Exam\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:27:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Services\\BookService.cs",
+              "RelativeToolTip": "Practical_Exam\\Services\\BookService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:25:28.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BookRepositorycs.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\BookRepositorycs.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BookRepositorycs.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\BookRepositorycs.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:07:27.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\BorrowingRecord.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Models\\BorrowingRecord.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\BorrowingRecord.cs",
+              "RelativeToolTip": "Practical_Exam\\Models\\BorrowingRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:34:11.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBorrowingRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBorrowingRecordRepository.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\IBorrowingRecordRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBorrowingRecordRepository.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\IBorrowingRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:03:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBorrowerRepository.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\IBorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBorrowerRepository.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\IBorrowerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:01:15.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:58:09.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BorrowerRepository.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\BorrowerRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BorrowerRepository.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\BorrowerRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:52:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\Borrower.cs",
+              "RelativeToolTip": "Practical_Exam\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:32:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Services\\IBookService.cs",
+              "RelativeToolTip": "Practical_Exam\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:24:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Models\\Book.cs",
+              "RelativeToolTip": "Practical_Exam\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:29:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:37:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Program.cs",
+              "RelativeToolTip": "Practical_Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:50:11.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:51:27.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T11:01:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_Exam\\appsettings.json",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\appsettings.json",
+              "RelativeToolTip": "Practical_Exam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T11:09:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowingRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BorrowingRecordRepository.cs",
+              "RelativeDocumentMoniker": "Practical_Exam\\Repositories\\BorrowingRecordRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Repositories\\BorrowingRecordRepository.cs",
+              "RelativeToolTip": "Practical_Exam\\Repositories\\BorrowingRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:45.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Practical_Exam\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\Practical_Exam\\Practical_Exam\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Practical_Exam\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T11:02:30.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

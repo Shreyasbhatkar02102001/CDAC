@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\homework(ms.net_mvc)\\homework(ms.net_mvc)\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50768FA-000D-4DE8-A24F-A552D225984E}|HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC).csproj|solutionrelative:homework(ms.net_mvc)\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:42:34.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:11:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:10:09.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:20:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Program.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:18:20.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Services\\IUserService.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:42:51.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Services\\UserService.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:41:42.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:38:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HomeWork(MS.NET_MVC)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\HomeWork(MS.NET_MVC)\\HomeWork(MS.NET_MVC)\\Models\\User.cs",
+              "RelativeToolTip": "HomeWork(MS.NET_MVC)\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:02:13.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

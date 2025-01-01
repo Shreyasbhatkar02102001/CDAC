@@ -1,0 +1,42 @@
+﻿
+<h3>Product Sales of Year 2024</h3>
+<ht/>
+<table>
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Sales Price</th>
+            <th>Cost Price</th>
+            <th>Quantity Sold</th>
+            <th>Total Sales</th>
+            <th>Total Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+           
+
+            List<ProductSale> productsSales = new List<ProductSale>()
+            {
+
+                //property initializer
+
+                new ProductSale { Id = 1, Name = "Product A", SalesPrice = 100, CostPrice = 60, QuantitySold = 200 },
+                new ProductSale { Id = 2, Name = "Product B", SalesPrice = 150, CostPrice = 80, QuantitySold = 150 },
+                new ProductSale { Id = 3, Name = "Product C", SalesPrice = 200, CostPrice = 120, QuantitySold = 100 }
+             };
+
+            @foreach (ProductSale sale in productsSales)
+            {
+                <tr>
+                    <td>@sale.Name</td>
+                    <td>@sale.SalesPrice</td>
+                    <td>@sale.CostPrice</td>
+                    <td>@sale.QuantitySold</td>
+                    <td>@(sale.SalesPrice* sale.QuantitySold)</td>
+                    <td>@(sale.CostPrice* sale.QuantitySold)</td>
+                </tr>
+            }
+        }
+    </tbody>
+    </table>

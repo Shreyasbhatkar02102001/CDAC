@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tryout\\CDAC\\VijaySalesVSCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\repositories\\implementations\\connected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\connected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|solutionrelative:onlineshoppingapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|solutionrelative:onlineshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|solutionrelative:services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\repositories\\implementations\\disconnected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\disconnected\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\repositories\\implementations\\orm\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF01592-B957-4788-A8AE-F8AB68BA6A4C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\orm\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\repositories\\datarepositorydisconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\repositories\\datarepositorydisconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BCF9559-3201-47A3-BA09-1F12C837CC23}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094E1AEC-702F-47E5-8060-E4C9173CC00B}|Entities\\Entities.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094E1AEC-702F-47E5-8060-E4C9173CC00B}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|solutionrelative:onlineshoppingapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|solutionrelative:onlineshoppingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingapi\\onlineshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8743594-2124-41F2-BF71-7DFCAB8E21B7}|OnlineShoppingAPI\\OnlineShoppingAPI.csproj|solutionrelative:onlineshoppingapi\\onlineshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\repositories\\jsondatarespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\repositories\\jsondatarespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|d:\\tryout\\cdac\\vijaysalesvscode\\onlineshoppingportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:59:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:59:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:59:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataRepositoryDisconnected.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DataRepositoryDisconnected.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Repositories\\DataRepositoryDisconnected.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DataRepositoryDisconnected.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Repositories\\DataRepositoryDisconnected.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:47:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAuwN4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:45:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\Disconnected\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Disconnected\\ProductRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\Disconnected\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Disconnected\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:42:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\ORM\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ORM\\ProductRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\ORM\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ORM\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:42:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\Connected\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Connected\\ProductRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Implementations\\Connected\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Connected\\ProductRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:42:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:39:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Repositories\\IDataRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\IDataRepository.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Repositories\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:38:27.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:38:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OnlineShoppingAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:57:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Program.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Program.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:37:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingAPI\\Program.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Program.cs",
+              "RelativeToolTip": "OnlineShoppingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:36:10.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "OnlineShoppingAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:35:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:33:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repositories",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:33:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ProductService.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:32:49.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OnlineShoppingAPI",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\OnlineShoppingAPI.csproj",
+              "RelativeDocumentMoniker": "OnlineShoppingAPI\\OnlineShoppingAPI.csproj",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\OnlineShoppingAPI.csproj",
+              "RelativeToolTip": "OnlineShoppingAPI\\OnlineShoppingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:28:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JsonDataRespository.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\JsonDataRespository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Repositories\\JsonDataRespository.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\JsonDataRespository.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Repositories\\JsonDataRespository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:24:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T06:24:29.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingPortal\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:24:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\VijaySalesVSCode\\OnlineShoppingAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineShoppingAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:22:50.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

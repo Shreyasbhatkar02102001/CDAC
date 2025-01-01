@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Today Products for sale</h1>
+<hr/>
+<ol>
+    @{
+        //List<Product> products = ViewBag.Products;
+        //List<Product> products = (List< Product>)ViewData["Products"];
+        List<Product> products = ViewData["Products"] as List<Product>;
+        //List<Product> products = TempData["Products"] as List<Product>;
+
+        foreach (Product product in products)
+        {
+            <li> @product.Name    | <a href="/products/details/1"> Details </a></li>
+        }
+    }
+</ol>
+
+<a href="/products/list">Show List</a>
+
+
+
+
+
+
+ 

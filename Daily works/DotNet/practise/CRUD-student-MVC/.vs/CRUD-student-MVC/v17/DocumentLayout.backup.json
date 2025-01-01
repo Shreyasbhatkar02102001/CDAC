@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-student-mvc\\crud-student-mvc\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A5E9F-72C2-4A2E-BB0C-DEA1A71466EB}|CRUD-student-MVC\\CRUD-student-MVC.csproj|solutionrelative:crud-student-mvc\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD-student-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T18:51:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CRUD-student-MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T18:51:29.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Program.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:59:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-student-MVC\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T17:58:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "CRUD-student-MVC\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T17:55:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "CRUD-student-MVC\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:58:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUD-student-MVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T16:32:11.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:31:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Services\\Implementation\\StudentService.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Services\\Implementation\\StudentService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Services\\Implementation\\StudentService.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Services\\Implementation\\StudentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:25:22.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:24:51.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v2AAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:05:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:03:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD-student-MVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-student-MVC\\CRUD-student-MVC\\Models\\Student.cs",
+              "RelativeToolTip": "CRUD-student-MVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:00:10.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

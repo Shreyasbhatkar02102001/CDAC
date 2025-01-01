@@ -1,0 +1,37 @@
+﻿@model Practical_Exam.Models.Book
+
+<h2>Add User</h2>
+
+<form asp-action="Delete" method="post">
+
+	@* BookId, Title, Author, Category, IsAvailable(boolean), CreatedDate, UpdatedDate *@
+	<input type="hidden" asp-for="BookId" />
+	
+
+	<div class="form-group mt-3">
+		<label asp-for="Title" class="form-label"></label>
+		<input asp-for="Title" class="form-control" />
+	</div>
+
+	<div class="form-group mt-3">
+		<label asp-for="Author" class="form-label"></label>
+		<input asp-for="Author" class="form-control" />
+	</div>
+
+	<div class="form-group mt-3">
+		<label asp-for="Category" class="form-label"></label>
+		<input asp-for="Category" class="form-control" />
+	</div>
+
+	<div class="form-group mt-3">
+		<label asp-for="IsAvailable" class="form-label"></label>
+		<input asp-for="IsAvailable" class="form-control" />
+	</div>
+
+	<div class="form-group mt-3">
+		<button type="submit" class="btn btn-danger">Delete</button>
+	</div>
+
+
+
+</form>

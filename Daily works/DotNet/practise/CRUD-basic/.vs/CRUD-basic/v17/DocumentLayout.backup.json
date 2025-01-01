@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-basic\\crud-basic\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76273DCD-F88A-4A1C-B0E7-2B2CDC15D157}|CRUD-basic\\CRUD-basic.csproj|solutionrelative:crud-basic\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-basic\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-basic\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T15:03:15.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD-basic\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "CRUD-basic\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T15:00:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-basic\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "CRUD-basic\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T14:58:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-basic\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CRUD-basic\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T14:56:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CRUD-basic\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CRUD-basic\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:55:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CRUD-basic\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\CRUD-basic\\CRUD-basic\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CRUD-basic\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwF8AAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:34:46.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

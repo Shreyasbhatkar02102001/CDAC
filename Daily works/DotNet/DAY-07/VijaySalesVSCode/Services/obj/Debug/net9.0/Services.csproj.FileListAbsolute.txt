@@ -1,0 +1,17 @@
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Services.deps.json
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Services.dll
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Services.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Entities.dll
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Repositories.dll
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Entities.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Services\bin\Debug\net9.0\Repositories.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.dll
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\refint\Services.dll
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\Services.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Services\obj\Debug\net9.0\ref\Services.dll

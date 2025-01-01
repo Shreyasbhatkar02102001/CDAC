@@ -1,0 +1,15 @@
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\bin\Debug\net9.0\Entities.dll
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\bin\Debug\net9.0\Entities.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\tryout\CDAC\VijaySalesVSCode\Repositories\obj\Debug\net9.0\ref\Repositories.dll

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\onlineshoppingportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\onlineshoppingportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-05\\26_12_24\\vijaysalesvscode\\vijaysalesvscode\\onlineshoppingportal\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4407DC33-92A6-4036-96E2-D522E7BE5F26}|OnlineShoppingPortal\\OnlineShoppingPortal.csproj|solutionrelative:onlineshoppingportal\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShoppingPortal",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\OnlineShoppingPortal.csproj",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\OnlineShoppingPortal.csproj",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\OnlineShoppingPortal.csproj",
+              "RelativeToolTip": "OnlineShoppingPortal\\OnlineShoppingPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T14:02:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:55:01.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "OnlineShoppingPortal\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T13:52:28.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\List.cshtml",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Views\\Products\\List.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Products\\List.cshtml",
+              "RelativeToolTip": "OnlineShoppingPortal\\Views\\Products\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T13:52:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineShoppingPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T13:51:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Repositories\\DatabaseRepository.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwG0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:44:36.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-05\\26_12_24\\VijaySalesVSCode\\VijaySalesVSCode\\OnlineShoppingPortal\\Program.cs",
+              "RelativeToolTip": "OnlineShoppingPortal\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:52:31.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

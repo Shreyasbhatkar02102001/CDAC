@@ -1,0 +1,39 @@
+﻿@model List<CRUD_student_MVC.Models.Student>
+
+<h2>Users</h2>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Major</th>
+            <th>About</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.studentID</td>
+                <td>@student.name</td>
+                <td>@student.age</td>
+                <td>@(student.gender == '1' ? "Male" : "Female")</td>
+                <td>@student.major</td>
+                <td>@student.about</td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@student.studentID">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@student.studentID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
