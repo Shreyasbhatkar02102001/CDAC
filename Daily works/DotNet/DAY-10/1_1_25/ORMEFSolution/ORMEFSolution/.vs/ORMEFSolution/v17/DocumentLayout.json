@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\contexts\\hrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\contexts\\hrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\contexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\contexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\managers\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\managers\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\managers\\blogpostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\managers\\blogpostmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\day-10\\1_1_25\\ormefsolution\\ormefsolution\\testormapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B7CBBE-D310-49FE-88C3-736E923867F9}|TestORMApp\\TestORMApp.csproj|solutionrelative:testormapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tryout\\CDAC\\1_1_25\\ORMEFSolution\\TestORMApp\\Migrations\\20250101044200_tfl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Contexts\\BlogContext.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Contexts\\BlogContext.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Contexts\\BlogContext.cs",
+              "RelativeToolTip": "TestORMApp\\Contexts\\BlogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:33:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostManager.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Managers\\BlogPostManager.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Managers\\BlogPostManager.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Managers\\BlogPostManager.cs",
+              "RelativeToolTip": "TestORMApp\\Managers\\BlogPostManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:33:41.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "TestORMApp\\Repositories\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:31:25.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250101044200_tfl.cs",
+              "DocumentMoniker": "D:\\tryout\\CDAC\\1_1_25\\ORMEFSolution\\TestORMApp\\Migrations\\20250101044200_tfl.cs",
+              "ToolTip": "D:\\tryout\\CDAC\\1_1_25\\ORMEFSolution\\TestORMApp\\Migrations\\20250101044200_tfl.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:42:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Program.cs",
+              "RelativeToolTip": "TestORMApp\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:37:07.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRManager.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Managers\\HRManager.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Managers\\HRManager.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Managers\\HRManager.cs",
+              "RelativeToolTip": "TestORMApp\\Managers\\HRManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:33:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Contexts\\HRDBContext.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Contexts\\HRDBContext.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Contexts\\HRDBContext.cs",
+              "RelativeToolTip": "TestORMApp\\Contexts\\HRDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:28:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Employee.cs",
+              "RelativeToolTip": "TestORMApp\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:26:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Department.cs",
+              "RelativeToolTip": "TestORMApp\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:25:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Post.cs",
+              "RelativeToolTip": "TestORMApp\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:24:23.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "TestORMApp\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\DAY-10\\1_1_25\\ORMEFSolution\\ORMEFSolution\\TestORMApp\\Entities\\Blog.cs",
+              "RelativeToolTip": "TestORMApp\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:23:38.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

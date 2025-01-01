@@ -1,0 +1,685 @@
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cs
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.sourcelink.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.staticwebassets.runtime.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.exe
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.deps.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.runtimeconfig.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.pdb
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.StateManagmentApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.build.StateManagmentApp.props
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StateManagmentApp.props
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StateManagmentApp.props
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\bundle\StateManagmentApp.styles.css
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\projectbundle\StateManagmentApp.bundle.scp.css
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\refint\StateManagmentApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.pdb
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\ref\StateManagmentApp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Humanizer.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\TFLdotNET\Solutions\BloggerSolution\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateMan.099602CB.Up2Date
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.Development.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.staticwebassets.runtime.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.staticwebassets.endpoints.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.exe
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.deps.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.runtimeconfig.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.pdb
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Humanizer.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Common.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.AssemblyReference.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfoInputs.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfo.cs
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.MvcApplicationPartsAssemblyInfo.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cs
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\bundle\StateManagmentApp.styles.css
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\projectbundle\StateManagmentApp.bundle.scp.css
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.StateManagmentApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.StateManagmentApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.build.StateManagmentApp.props
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StateManagmentApp.props
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StateManagmentApp.props
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateMan.099602CB.Up2Date
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\refint\StateManagmentApp.dll
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.pdb
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.genruntimeconfig.cache
+D:\tryout\CDAC\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\ref\StateManagmentApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\appsettings.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.staticwebassets.runtime.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.staticwebassets.endpoints.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.exe
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.deps.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.runtimeconfig.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\StateManagmentApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.RazorAssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.sourcelink.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\bundle\StateManagmentApp.styles.css
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\scopedcss\projectbundle\StateManagmentApp.bundle.scp.css
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.StateManagmentApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.StateManagmentApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.build.StateManagmentApp.props
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StateManagmentApp.props
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StateManagmentApp.props
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateMan.099602CB.Up2Date
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\refint\StateManagmentApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\StateManagmentApp.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\StateManagmentApp\StateManagmentApp\obj\Debug\net8.0\ref\StateManagmentApp.dll

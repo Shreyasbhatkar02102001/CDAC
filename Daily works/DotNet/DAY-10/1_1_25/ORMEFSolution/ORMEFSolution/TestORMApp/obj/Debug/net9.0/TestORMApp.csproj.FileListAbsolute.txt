@@ -1,0 +1,292 @@
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.exe
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.deps.json
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.runtimeconfig.json
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.pdb
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Humanizer.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\MySqlConnector.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.CodeDom.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.AssemblyReference.cache
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfoInputs.cache
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfo.cs
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.CoreCompileInputs.cache
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.Up2Date
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.dll
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\refint\TestORMApp.dll
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.pdb
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.genruntimeconfig.cache
+D:\tryout\ORMEFSolution\TestORMApp\obj\Debug\net9.0\ref\TestORMApp.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.exe
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.deps.json
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.runtimeconfig.json
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.pdb
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Humanizer.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\MySqlConnector.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.CodeDom.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.AssemblyReference.cache
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfoInputs.cache
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfo.cs
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.CoreCompileInputs.cache
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.Up2Date
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\refint\TestORMApp.dll
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.pdb
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.genruntimeconfig.cache
+D:\tryout\CDAC\1_1_25\ORMEFSolution\TestORMApp\obj\Debug\net9.0\ref\TestORMApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.exe
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.deps.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.runtimeconfig.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\TestORMApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.sourcelink.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.csproj.Up2Date
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\refint\TestORMApp.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\TestORMApp.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\DAY-10\1_1_25\ORMEFSolution\ORMEFSolution\TestORMApp\obj\Debug\net9.0\ref\TestORMApp.dll
