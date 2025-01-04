@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\models\\dotnetprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\models\\dotnetprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\models\\contactu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\models\\contactu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\trial-6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\trial-6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\trial-6\\trial-6\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3D18E3-3E72-4CAD-9733-E7AA9813B965}|trial-6\\trial-6.csproj|solutionrelative:trial-6\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +50,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "trial-6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "trial-6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T18:28:02.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactUsController.cs",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Controllers\\ContactUsController.cs",
-              "RelativeDocumentMoniker": "trial-6\\Controllers\\ContactUsController.cs",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Controllers\\ContactUsController.cs",
-              "RelativeToolTip": "trial-6\\Controllers\\ContactUsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "trial-6\\Models\\SignUp.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Models\\SignUp.cs",
+              "RelativeToolTip": "trial-6\\Models\\SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:17:36.138Z",
+              "WhenOpened": "2025-01-04T15:35:26.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DotnetProjectContext.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Models\\DotnetProjectContext.cs",
               "RelativeDocumentMoniker": "trial-6\\Models\\DotnetProjectContext.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Models\\DotnetProjectContext.cs",
               "RelativeToolTip": "trial-6\\Models\\DotnetProjectContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T18:16:45.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "trial-6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "trial-6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T18:28:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Program.cs",
+              "RelativeDocumentMoniker": "trial-6\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Program.cs",
+              "RelativeToolTip": "trial-6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:15:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContactU.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Models\\ContactU.cs",
               "RelativeDocumentMoniker": "trial-6\\Models\\ContactU.cs",
@@ -94,29 +115,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Program.cs",
-              "RelativeDocumentMoniker": "trial-6\\Program.cs",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Program.cs",
-              "RelativeToolTip": "trial-6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:15:25.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\appsettings.json",
               "RelativeDocumentMoniker": "trial-6\\appsettings.json",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\appsettings.json",
               "RelativeToolTip": "trial-6\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T18:14:55.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T18:14:55.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trial-6.csproj",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\trial-6.csproj",
+              "RelativeDocumentMoniker": "trial-6\\trial-6.csproj",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\trial-6.csproj",
+              "RelativeToolTip": "trial-6\\trial-6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T14:12:03.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "trial-6\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\trial-6\\trial-6\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "trial-6\\Controllers\\ContactUsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:17:36.138Z"
             }
           ]
         }
