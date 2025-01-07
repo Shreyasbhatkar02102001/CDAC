@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gods-is-only-my-hope.props" />
+</Project>

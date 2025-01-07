@@ -1,0 +1,72 @@
+﻿@model customer_bootstrap.Models.Rating
+
+@{
+    ViewData["Title"] = "Create Rating";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Create New Rating</h1>
+    <p class="text-muted">Fill in the details below to create a new rating.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <!-- User ID -->
+                <div class="mb-3">
+                    <label asp-for="UserId" class="form-label"></label>
+                    <select asp-for="UserId" class="form-control" asp-items="ViewBag.UserId">
+                        <option value="">-- Select User --</option>
+                    </select>
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+
+                <!-- Chef ID -->
+                <div class="mb-3">
+                    <label asp-for="ChefId" class="form-label"></label>
+                    <select asp-for="ChefId" class="form-control" asp-items="ViewBag.ChefId">
+                        <option value="">-- Select Chef --</option>
+                    </select>
+                    <span asp-validation-for="ChefId" class="text-danger"></span>
+                </div>
+
+                <!-- Meal ID -->
+                <div class="mb-3">
+                    <label asp-for="MealId" class="form-label"></label>
+                    <select asp-for="MealId" class="form-control" asp-items="ViewBag.MealId">
+                        <option value="">-- Select Meal --</option>
+                    </select>
+                    <span asp-validation-for="MealId" class="text-danger"></span>
+                </div>
+
+                <!-- Rating -->
+                <div class="mb-3">
+                    <label asp-for="Rating1" class="form-label"></label>
+                    <input asp-for="Rating1" class="form-control" placeholder="Enter rating (e.g., 1 to 5)" />
+                    <span asp-validation-for="Rating1" class="text-danger"></span>
+                </div>
+
+                <!-- Review Comment -->
+                <div class="mb-3">
+                    <label asp-for="ReviewComment" class="form-label"></label>
+                    <textarea asp-for="ReviewComment" class="form-control" placeholder="Enter your review comment"></textarea>
+                    <span asp-validation-for="ReviewComment" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <input type="submit" value="Create Rating" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

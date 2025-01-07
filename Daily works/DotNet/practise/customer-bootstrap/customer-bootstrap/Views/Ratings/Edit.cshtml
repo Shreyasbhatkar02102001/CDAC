@@ -1,0 +1,78 @@
+﻿@model customer_bootstrap.Models.Rating
+
+@{
+    ViewData["Title"] = "Edit Rating";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Rating</h1>
+    <p class="text-muted">Update the details of the rating below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="RatingId" />
+
+                <!-- User ID -->
+                <div class="mb-3">
+                    <label asp-for="UserId" class="form-label"></label>
+                    <select asp-for="UserId" class="form-select" asp-items="ViewBag.UserId"></select>
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+
+                <!-- Chef ID -->
+                <div class="mb-3">
+                    <label asp-for="ChefId" class="form-label"></label>
+                    <select asp-for="ChefId" class="form-select" asp-items="ViewBag.ChefId"></select>
+                    <span asp-validation-for="ChefId" class="text-danger"></span>
+                </div>
+
+                <!-- Meal ID -->
+                <div class="mb-3">
+                    <label asp-for="MealId" class="form-label"></label>
+                    <select asp-for="MealId" class="form-select" asp-items="ViewBag.MealId"></select>
+                    <span asp-validation-for="MealId" class="text-danger"></span>
+                </div>
+
+                <!-- Rating -->
+                <div class="mb-3">
+                    <label asp-for="Rating1" class="form-label"></label>
+                    <input asp-for="Rating1" class="form-control" placeholder="Enter rating (e.g., 1 to 5)" />
+                    <span asp-validation-for="Rating1" class="text-danger"></span>
+                </div>
+
+                <!-- Review Comment -->
+                <div class="mb-3">
+                    <label asp-for="ReviewComment" class="form-label"></label>
+                    <input asp-for="ReviewComment" class="form-control" placeholder="Enter review comment" />
+                    <span asp-validation-for="ReviewComment" class="text-danger"></span>
+                </div>
+
+                <!-- Review Date -->
+                <div class="mb-3">
+                    <label asp-for="ReviewDate" class="form-label"></label>
+                    <input asp-for="ReviewDate" type="date" class="form-control" />
+                    <span asp-validation-for="ReviewDate" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,50 @@
+﻿@model gods_is_only_my_hope.Models.Feedback
+
+@{
+    ViewData["Title"] = "Edit Feedback";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Feedback</h1>
+    <p class="text-muted">Update the details of the feedback below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Chef Name -->
+                <div class="mb-3">
+                    <label asp-for="ChefName" class="form-label"></label>
+                    <input asp-for="ChefName" class="form-control" placeholder="Enter chef's name" />
+                    <span asp-validation-for="ChefName" class="text-danger"></span>
+                </div>
+
+                <!-- Feedback -->
+                <div class="mb-3">
+                    <label asp-for="Feedback1" class="form-label"></label>
+                    <textarea asp-for="Feedback1" class="form-control" placeholder="Enter your feedback" rows="4"></textarea>
+                    <span asp-validation-for="Feedback1" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

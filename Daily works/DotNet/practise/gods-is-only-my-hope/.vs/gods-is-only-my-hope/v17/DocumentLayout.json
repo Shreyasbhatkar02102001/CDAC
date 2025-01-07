@@ -1,0 +1,829 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\dietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\dietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\zerowaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\zerowaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\subscriptions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\subscriptions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\subscriptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\subscriptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\zerowastes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\zerowastes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\zerowastescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\zerowastescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\zerowastes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\zerowastes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\zerowastes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\zerowastes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\menumanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\menumanagements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\zerowastes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\zerowastes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\zerowastes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\zerowastes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\subscriptions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\subscriptions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\subscriptions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\subscriptions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\subscriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\subscriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\menumanagements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\menumanagements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\menumanagements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\menumanagements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\menumanagements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\menumanagements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\menumanagements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\menumanagements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\feedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\feedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\dietaries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\dietaries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\dietaries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\dietaries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\dietaries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\dietaries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\dietaries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\dietaries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\dietaries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\dietaries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\menumanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\menumanagementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:09:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dietary.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Dietary.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Dietary.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Dietary.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\Dietary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:00:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Feedback.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:59:24.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menumanagement.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Menumanagement.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Menumanagement.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Menumanagement.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\Menumanagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:58:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Subscription.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:58:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\User.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\User.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:57:11.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zerowaste.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Zerowaste.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Zerowaste.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Zerowaste.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\Zerowaste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:49:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:30:05.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZerowastesController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:22:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:14:04.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:33:10.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:50:01.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:28:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:34:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:38:11.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:41:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:45:02.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:31:08.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:33:39.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:35:11.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:31:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vygAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:32:17.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:20:57.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:55:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T23:34:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:07:52.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "gods-is-only-my-hope\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-05T22:51:49.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "gods-is-only-my-hope\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T22:51:03.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:44:23.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:43:44.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:42:00.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:40:24.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:39:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:39:05.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:39:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:35:12.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:34:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:33:49.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:32:57.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:29:46.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:29:28.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:28:57.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:28:27.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:27:44.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
+              "RelativeToolTip": "gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T22:26:12.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:25:13.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MenumanagementsController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:24:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:23:39.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DietariesController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\DietariesController.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\DietariesController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\DietariesController.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Controllers\\DietariesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:22:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\appsettings.json",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
+              "RelativeToolTip": "gods-is-only-my-hope\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T22:20:33.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

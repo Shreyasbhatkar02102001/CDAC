@@ -1,0 +1,75 @@
+﻿@model gods_is_only_my_hope.Models.User
+
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<div class="container mt-4">
+    <div class="text-center">
+        <!-- Profile Picture -->
+        <img src="https://th.bing.com/th/id/OIP.xo-BCC1ZKFpLL65D93eHcgHaGe?w=250&h=219&c=7&r=0&o=5&pid=1.7" alt="Profile Picture" class="rounded-circle img-thumbnail" style="width: 100px; height: 100px;" />
+        <h2 class="mt-3">Hello, Customer </h2>
+        <!-- @Model.Name -->
+        <!-- <p class="text-muted">@Model.Email</p> -->
+    </div>
+
+    <!-- Cards Section -->
+    <div class="row mt-4 g-4">
+        <!-- Update Profile Card -->
+        <div class="col-md-3">
+            <div class="card h-100 text-center shadow-sm">
+                <div class="card-body d-flex flex-column justify-content-between">
+                    <div>
+                        <img src="https://th.bing.com/th/id/OIP.xo-BCC1ZKFpLL65D93eHcgHaGe?w=250&h=219&c=7&r=0&o=5&pid=1.7" alt="Update" class="img-fluid mb-3" style="width: 100px;" />
+                        <h5 class="card-title">Update Profile</h5>
+                        <p class="card-text text-muted">Update your account details.</p>
+                    </div>
+                    @* <a href="/TempUser/Edit/@Model.UserId" class="btn btn-primary w-100">Update</a> *@
+                    <a asp-controller="Users" asp-action="Index" class="btn btn-primary w-100">Update</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- View Orders Card -->
+        <div class="col-md-3">
+            <div class="card h-100 text-center shadow-sm">
+                <div class="card-body d-flex flex-column justify-content-between">
+                    <div>
+                        <img src="https://img.freepik.com/premium-vector/order-food-online-concept-illustration_131454-585.jpg" alt="Orders" class="img-fluid mb-3" style="width: 100px;" />
+                        <h5 class="card-title">Dietary planning</h5>
+                        <p class="card-text text-muted">Display all your dietary plans.</p>
+                    </div>
+                    <a asp-controller="Dietaries" asp-action="Index" class="btn btn-primary w-100">Dietary plan</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Current Subscription Card -->
+        <div class="col-md-3">
+            <div class="card h-100 text-center shadow-sm">
+                <div class="card-body d-flex flex-column justify-content-between">
+                    <div>
+                        <img src="https://image.freepik.com/free-vector/healthy-food-illustration_24877-52317.jpg" alt="Subscription" class="img-fluid mb-3" style="width: 100px;" />
+                        <h5 class="card-title">Current Subscription</h5>
+                        <p class="card-text text-muted">Display details about the current plan.</p>
+                    </div>
+                    <a asp-controller="Subscriptions" asp-action="Index" class="btn btn-primary w-100">View Subscription</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vendors Card -->
+        <div class="col-md-3">
+            <div class="card h-100 text-center shadow-sm">
+                <div class="card-body d-flex flex-column justify-content-between">
+                    <div>
+                        <img src="https://img.freepik.com/premium-photo/indian-hindu-veg-thali-also-known-as-food-platter-is-complete-lunch-dinner-meal-closeup-selective-focus_466689-9137.jpg?w=2000" class="img-fluid mb-3" style="width: 100px;" />
+                        <h5 class="card-title">Menu</h5>
+                        <p class="card-text text-muted">Display details about menu.</p>
+                    </div>
+                    <a asp-controller="Menumanagements" asp-action="Index" class="btn btn-primary w-100">View Menu</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

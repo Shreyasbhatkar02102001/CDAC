@@ -1,0 +1,94 @@
+﻿@model customer_bootstrap.Models.Chef
+
+@{
+    ViewData["Title"] = "Edit Chef";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Chef</h1>
+    <p class="text-muted">Update the details of the chef below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="ChefId" />
+
+                <!-- Name -->
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter chef's name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Email -->
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <select asp-for="Email" class="form-control" asp-items="ViewBag.Email">
+                        <option value="">Select email</option>
+                    </select>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <!-- Bio -->
+                <div class="mb-3">
+                    <label asp-for="Bio" class="form-label"></label>
+                    <input asp-for="Bio" class="form-control" placeholder="Enter chef's bio" />
+                    <span asp-validation-for="Bio" class="text-danger"></span>
+                </div>
+
+                <!-- Profile Picture -->
+                <div class="mb-3">
+                    <label asp-for="ProfilePicture" class="form-label"></label>
+                    <input asp-for="ProfilePicture" class="form-control" placeholder="Enter profile picture URL" />
+                    <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+                </div>
+
+                <!-- Delivery Area -->
+                <div class="mb-3">
+                    <label asp-for="DeliveryArea" class="form-label"></label>
+                    <input asp-for="DeliveryArea" class="form-control" placeholder="Enter delivery area" />
+                    <span asp-validation-for="DeliveryArea" class="text-danger"></span>
+                </div>
+
+                <!-- Rating -->
+                <div class="mb-3">
+                    <label asp-for="Rating" class="form-label"></label>
+                    <input asp-for="Rating" class="form-control" placeholder="Enter rating" />
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+
+                <!-- Contact Info -->
+                <div class="mb-3">
+                    <label asp-for="ContactInfo" class="form-label"></label>
+                    <input asp-for="ContactInfo" class="form-control" placeholder="Enter contact information" />
+                    <span asp-validation-for="ContactInfo" class="text-danger"></span>
+                </div>
+
+                <!-- Created At -->
+                <div class="mb-3">
+                    <label asp-for="CreatedAt" class="form-label"></label>
+                    <input asp-for="CreatedAt" type="date" class="form-control" />
+                    <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

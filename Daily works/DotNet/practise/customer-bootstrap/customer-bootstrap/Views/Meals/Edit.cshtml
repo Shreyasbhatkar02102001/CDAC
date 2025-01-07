@@ -1,0 +1,108 @@
+﻿@model customer_bootstrap.Models.Meal
+
+@{
+    ViewData["Title"] = "Edit Meal";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Meal</h1>
+    <p class="text-muted">Update the details of the meal below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="MealId" />
+
+                <!-- ChefId -->
+                <div class="mb-3">
+                    <label asp-for="ChefId" class="form-label"></label>
+                    <select asp-for="ChefId" class="form-control" asp-items="ViewBag.ChefId">
+                        <option value="">Select Chef</option>
+                    </select>
+                    <span asp-validation-for="ChefId" class="text-danger"></span>
+                </div>
+
+                <!-- Name -->
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter meal name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Description -->
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="Enter meal description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <!-- Meal Preference -->
+                <div class="mb-3">
+                    <label asp-for="MealPreference" class="form-label"></label>
+                    <input asp-for="MealPreference" class="form-control" placeholder="Enter meal preference" />
+                    <span asp-validation-for="MealPreference" class="text-danger"></span>
+                </div>
+
+                <!-- Meal Type -->
+                <div class="mb-3">
+                    <label asp-for="MealType" class="form-label"></label>
+                    <input asp-for="MealType" class="form-control" placeholder="Enter meal type" />
+                    <span asp-validation-for="MealType" class="text-danger"></span>
+                </div>
+
+                <!-- Price -->
+                <div class="mb-3">
+                    <label asp-for="Price" class="form-label"></label>
+                    <input asp-for="Price" type="number" step="0.01" class="form-control" placeholder="Enter price" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <!-- Ingredients -->
+                <div class="mb-3">
+                    <label asp-for="Ingredients" class="form-label"></label>
+                    <input asp-for="Ingredients" class="form-control" placeholder="Enter ingredients" />
+                    <span asp-validation-for="Ingredients" class="text-danger"></span>
+                </div>
+
+                <!-- Image URL -->
+                <div class="mb-3">
+                    <label asp-for="ImageUrl" class="form-label"></label>
+                    <input asp-for="ImageUrl" class="form-control" placeholder="Enter image URL" />
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+
+                <!-- Cuisine Type -->
+                <div class="mb-3">
+                    <label asp-for="CuisineType" class="form-label"></label>
+                    <input asp-for="CuisineType" class="form-control" placeholder="Enter cuisine type" />
+                    <span asp-validation-for="CuisineType" class="text-danger"></span>
+                </div>
+
+                <!-- Dietary Tags -->
+                <div class="mb-3">
+                    <label asp-for="DietaryTags" class="form-label"></label>
+                    <input asp-for="DietaryTags" class="form-control" placeholder="Enter dietary tags" />
+                    <span asp-validation-for="DietaryTags" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

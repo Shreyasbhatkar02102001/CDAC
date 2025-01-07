@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\crud-by-gods-prayer.props" />
+</Project>

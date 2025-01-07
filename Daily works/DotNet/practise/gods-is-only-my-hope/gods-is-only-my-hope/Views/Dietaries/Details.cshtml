@@ -1,0 +1,41 @@
+﻿@model gods_is_only_my_hope.Models.Dietary
+
+@{
+    ViewData["Title"] = "Dietary Details";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Dietary Details</h1>
+    <p class="text-muted">View detailed information about the selected dietary preference.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>Dietary Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- User Name -->
+                <dt class="col-sm-4">User Name</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.UserName)</dd>
+
+                <!-- Dietary Preference -->
+                <dt class="col-sm-4">Dietary Preference</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.DietaryPreference)</dd>
+
+                <!-- Description -->
+                <dt class="col-sm-4">Description</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Description)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-between">
+        <a asp-action="Edit" asp-route-id="@Model?.DietaryId" class="btn btn-primary">
+            <i class="bi bi-pencil-square"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
+    </div>
+</div>

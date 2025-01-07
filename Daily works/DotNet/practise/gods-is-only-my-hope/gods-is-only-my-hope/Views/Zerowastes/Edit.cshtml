@@ -1,0 +1,57 @@
+﻿@model gods_is_only_my_hope.Models.Zerowaste
+
+@{
+    ViewData["Title"] = "Edit Zero Waste Donation";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Zero Waste Donation</h1>
+    <p class="text-muted">Update the details of the zero waste donation below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Donated To -->
+                <div class="mb-3">
+                    <label asp-for="DonatedTo" class="form-label"></label>
+                    <input asp-for="DonatedTo" class="form-control" placeholder="Enter recipient name or organization" />
+                    <span asp-validation-for="DonatedTo" class="text-danger"></span>
+                </div>
+
+                <!-- Name -->
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter item name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Quantity -->
+                <div class="mb-3">
+                    <label asp-for="Quantity" class="form-label"></label>
+                    <input asp-for="Quantity" type="number" class="form-control" placeholder="Enter quantity" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

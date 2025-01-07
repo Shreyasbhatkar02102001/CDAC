@@ -1,0 +1,56 @@
+﻿@model customer_bootstrap.Models.TempUser
+
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<div class="container mt-4">
+    <div class="text-center">
+        <img src="@Model.ProfilePicture" alt="Profile Picture" class="rounded-circle" style="width: 100px; height: 100px;" />
+        <h2 class="mt-2">Hello, @Model.Name</h2>
+        <p>@Model.Email</p>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <img src="/images/update_basic_details.png" alt="Basic Details" class="img-fluid" style="width: 50px;" />
+                    <h5 class="card-title mt-2">Update Basic Details</h5>
+                    <p class="card-text">Firstname, Lastname, Email, Mobile</p>
+                    <a href="/User/EditBasicDetails/@Model.UserId" class="btn btn-primary">Update</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <img src="/images/update_address.png" alt="Update Address" class="img-fluid" style="width: 50px;" />
+                    <h5 class="card-title mt-2">Update Address</h5>
+                    <p class="card-text">Edit address details here</p>
+                    <a href="/User/EditAddress/@Model.UserId" class="btn btn-primary">Update</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <img src="/images/update_profile_picture.png" alt="Profile Picture" class="img-fluid" style="width: 50px;" />
+                    <h5 class="card-title mt-2">Update Profile Picture</h5>
+                    <p class="card-text">Upload new profile picture</p>
+                    <a href="/User/UpdateProfilePicture/@Model.UserId" class="btn btn-primary">Update</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <img src="/images/change_password.png"  class="img-fluid" style="width: 50px;" />
+                    <h5 class="card-title mt-2">Change Password</h5>
+                    <p class="card-text">Change your password</p>
+                    <a href="/User/ChangePassword/@Model.UserId" class="btn btn-primary">Change</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

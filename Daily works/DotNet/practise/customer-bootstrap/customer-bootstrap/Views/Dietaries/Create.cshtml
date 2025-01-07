@@ -1,0 +1,56 @@
+﻿@model customer_bootstrap.Models.Dietary
+
+@{
+    ViewData["Title"] = "Create Dietary";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Create New Dietary</h1>
+    <p class="text-muted">Fill in the details below to create a new dietary preference.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <!-- User Name -->
+                <div class="mb-3">
+                    <label asp-for="UserName" class="form-label"></label>
+                    <input asp-for="UserName" class="form-control" placeholder="Enter user name" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+
+                <!-- Dietary Preference -->
+                <div class="mb-3">
+                    <label asp-for="DietaryPreference" class="form-label"></label>
+                    <input asp-for="DietaryPreference" class="form-control" placeholder="Enter dietary preference" />
+                    <span asp-validation-for="DietaryPreference" class="text-danger"></span>
+                </div>
+
+                <!-- Description -->
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="Enter dietary description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Create
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

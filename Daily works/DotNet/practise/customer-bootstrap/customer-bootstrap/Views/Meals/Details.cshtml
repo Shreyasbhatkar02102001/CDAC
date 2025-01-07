@@ -1,0 +1,69 @@
+﻿@model customer_bootstrap.Models.Meal
+
+@{
+    ViewData["Title"] = "Meal Details";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Meal Details</h1>
+    <p class="text-muted">View detailed information about the selected meal.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>Meal Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- Name -->
+                <dt class="col-sm-4">Name</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Name)</dd>
+
+                <!-- Description -->
+                <dt class="col-sm-4">Description</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Description)</dd>
+
+                <!-- Meal Preference -->
+                <dt class="col-sm-4">Meal Preference</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.MealPreference)</dd>
+
+                <!-- Meal Type -->
+                <dt class="col-sm-4">Meal Type</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.MealType)</dd>
+
+                <!-- Price -->
+                <dt class="col-sm-4">Price</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Price)</dd>
+
+                <!-- Ingredients -->
+                <dt class="col-sm-4">Ingredients</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Ingredients)</dd>
+
+                <!-- Image URL -->
+                <dt class="col-sm-4">Image URL</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ImageUrl)</dd>
+
+                <!-- Cuisine Type -->
+                <dt class="col-sm-4">Cuisine Type</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.CuisineType)</dd>
+
+                <!-- Dietary Tags -->
+                <dt class="col-sm-4">Dietary Tags</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.DietaryTags)</dd>
+
+                <!-- Chef -->
+                <dt class="col-sm-4">Chef</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Chef.ChefId)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-between">
+        <a asp-action="Edit" asp-route-id="@Model?.MealId" class="btn btn-primary">
+            <i class="bi bi-pencil-square"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
+    </div>
+</div>

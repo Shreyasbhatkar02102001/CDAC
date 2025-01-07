@@ -1,0 +1,48 @@
+﻿@model gods_is_only_my_hope.Models.Subscription
+
+@{
+    ViewData["Title"] = "Delete Subscription";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6 text-danger">Delete Confirmation</h1>
+    <p class="text-muted">Are you sure you want to delete this subscription? This action cannot be undone.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-danger text-white">
+            <h4>Subscription Details</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- Customer Name -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.CustomerName)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.CustomerName)</dd>
+
+                <!-- Plan -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Plan)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Plan)</dd>
+
+                <!-- Status -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Status)</dt>
+                <dd class="col-sm-8">
+                    <span class="badge @(Model.Status == "Active" ? "bg-success" : "bg-danger")">
+                        @Html.DisplayFor(model => model.Status)
+                    </span>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Delete
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Back to List
+            </a>
+        </form>
+    </div>
+</div>

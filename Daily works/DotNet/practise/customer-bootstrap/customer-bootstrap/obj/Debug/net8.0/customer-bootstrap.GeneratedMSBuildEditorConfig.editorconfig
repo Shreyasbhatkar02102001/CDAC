@@ -1,0 +1,277 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = customer_bootstrap
+build_property.RootNamespace = customer_bootstrap
+build_property.ProjectDir = C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\customer-bootstrap\customer-bootstrap\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\customer-bootstrap\customer-bootstrap
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Chefs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Chefs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Chefs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Chefs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Chefs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Dietaries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Dietaries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Dietaries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Dietaries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Dietaries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlldGFyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Meals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVhbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Meals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVhbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Meals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVhbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Meals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVhbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Meals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVhbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders-old/OrdersData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzLW9sZFxPcmRlcnNEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/PaymentConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcUGF5bWVudENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Payments/ProcessPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcUHJvY2Vzc1BheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Ratings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0aW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Ratings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0aW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Ratings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0aW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Ratings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0aW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Ratings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0aW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Subscriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Subscriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Subscriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Subscriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Subscriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/TempUsers/Prodashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcFVzZXJzXFByb2Rhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shrey/OneDrive/Attachments/Documents/GitHub/CDAC/Daily works/DotNet/practise/customer-bootstrap/customer-bootstrap/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ofbrjl5k4a

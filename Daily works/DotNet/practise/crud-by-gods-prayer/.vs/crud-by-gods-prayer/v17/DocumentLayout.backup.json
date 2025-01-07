@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|solutionrelative:crud-by-gods-prayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|solutionrelative:crud-by-gods-prayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\models\\annapurna1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75566598-87CD-49B4-A861-AD3D5F4ACB75}|crud-by-gods-prayer\\crud-by-gods-prayer.csproj|solutionrelative:crud-by-gods-prayer\\models\\annapurna1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "annapurna1Context.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\Models\\annapurna1Context.cs",
+              "RelativeDocumentMoniker": "crud-by-gods-prayer\\Models\\annapurna1Context.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\Models\\annapurna1Context.cs",
+              "RelativeToolTip": "crud-by-gods-prayer\\Models\\annapurna1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:13:17.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\appsettings.json",
+              "RelativeDocumentMoniker": "crud-by-gods-prayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\appsettings.json",
+              "RelativeToolTip": "crud-by-gods-prayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T22:12:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\Program.cs",
+              "RelativeDocumentMoniker": "crud-by-gods-prayer\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\crud-by-gods-prayer\\crud-by-gods-prayer\\Program.cs",
+              "RelativeToolTip": "crud-by-gods-prayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:12:18.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+﻿
+@model customer_bootstrap.Models.Order
+
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Create New Order</h1>
+    <p class="text-muted">Fill in the details below to create a new order.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <!-- Quantity -->
+                <div class="mb-3">
+                    <label asp-for="Quantity" class="form-label"></label>
+                    <input asp-for="Quantity" class="form-control" placeholder="Enter quantity" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <!-- Delivery Address -->
+                <div class="mb-3">
+                    <label asp-for="DeliveryAddress" class="form-label"></label>
+                    <input asp-for="DeliveryAddress" class="form-control" placeholder="Enter delivery address" />
+                    <span asp-validation-for="DeliveryAddress" class="text-danger"></span>
+                </div>
+
+                <!-- Total Amount -->
+                <div class="mb-3">
+                    <label asp-for="TotalAmount" class="form-label"></label>
+                    <input asp-for="TotalAmount" type="number" step="0.01" class="form-control" placeholder="Enter total amount" />
+                    <span asp-validation-for="TotalAmount" class="text-danger"></span>
+                </div>
+
+                <!-- Status -->
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label"></label>
+                    <select asp-for="Status" class="form-select">
+                        <option value="Pending">Pending</option>
+                        <option value="Confirmed">Confirmed</option>
+                        <option value="Delivered">Delivered</option>
+                    </select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <!-- Delivery Time Slot -->
+                <div class="mb-3">
+                    <label asp-for="DeliveryTimeSlot" class="form-label"></label>
+                    <input asp-for="DeliveryTimeSlot" class="form-control" placeholder="Enter time slot (e.g., 10:00 AM - 12:00 PM)" />
+                    <span asp-validation-for="DeliveryTimeSlot" class="text-danger"></span>
+                </div>
+
+                <!-- Payment Status -->
+                <div class="mb-3">
+                    <label asp-for="PaymentStatus" class="form-label"></label>
+                    <select asp-for="PaymentStatus" class="form-select">
+                        <option value="Paid">Paid</option>
+                        <option value="Pending">Pending</option>
+                    </select>
+                    <span asp-validation-for="PaymentStatus" class="text-danger"></span>
+                </div>
+
+                <!-- Payment Method -->
+                <div class="mb-3">
+                    <label asp-for="PaymentMethod" class="form-label"></label>
+                    <select asp-for="PaymentMethod" class="form-select">
+                        <option value="Credit Card">Credit Card</option>
+                        <option value="UPI">UPI</option>
+                        <option value="Cash on Delivery">Cash on Delivery</option>
+                    </select>
+                    <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <input type="submit" value="Create Order" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

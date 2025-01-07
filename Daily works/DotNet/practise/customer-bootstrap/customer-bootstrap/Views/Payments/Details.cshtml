@@ -1,0 +1,57 @@
+﻿@model customer_bootstrap.Models.Payment
+
+@{
+    ViewData["Title"] = "Payment Details";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Payment Details</h1>
+    <p class="text-muted">View detailed information about the selected payment.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>Payment Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- Amount Paid -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.AmountPaid)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.AmountPaid)</dd>
+
+                <!-- Payment Method -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.PaymentMethod)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.PaymentMethod)</dd>
+
+                <!-- Payment Status -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.PaymentStatus)</dt>
+                <dd class="col-sm-8">
+                    <span class="badge @(Model.PaymentStatus == "Paid" ? "bg-success" : "bg-danger")">
+                        @Html.DisplayFor(model => model.PaymentStatus)
+                    </span>
+                </dd>
+
+                <!-- Payment Date -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.PaymentDate)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.PaymentDate)</dd>
+
+                <!-- Order -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Order)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Order.OrderId)</dd>
+
+                <!-- Subscription -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Subscription)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Subscription.SubscriptionId)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-between">
+        <a asp-action="Edit" asp-route-id="@Model?.PaymentId" class="btn btn-primary">
+            <i class="bi bi-pencil-square"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
+    </div>
+</div>

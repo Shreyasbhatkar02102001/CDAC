@@ -1,0 +1,15 @@
+﻿@model customer_bootstrap.Models.Order
+
+<h2>Payment Processed Successfully!</h2>
+
+<p><strong>Order ID:</strong> @Model.OrderId</p>
+<p><strong>Meal:</strong> @Model.Meal.Name</p>
+<p><strong>Quantity:</strong> @Model.Quantity</p>
+<p><strong>Total Amount:</strong> @Model.TotalAmount</p>
+<p><strong>Status:</strong> @Model.Status</p>
+<p><strong>Delivery Address:</strong> @Model.DeliveryAddress</p>
+
+<h3>Payment Details</h3>
+<p><strong>Amount Paid:</strong> @Model.TotalAmount</p>
+<p><strong>Payment Method:</strong> @Model.PaymentMethod</p>
+<p><strong>Payment Status:</strong> @Model.PaymentStatus</p>

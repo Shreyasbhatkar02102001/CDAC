@@ -1,0 +1,68 @@
+﻿@model customer_bootstrap.Models.Chef
+
+@{
+    ViewData["Title"] = "Delete Chef";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6 text-danger">Delete Confirmation</h1>
+    <p class="text-muted">Are you sure you want to delete this chef? This action cannot be undone.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-danger text-white">
+            <h4>Chef Details</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- Name -->
+                <dt class="col-sm-4">Name</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Name)</dd>
+
+                <!-- Bio -->
+                <dt class="col-sm-4">Bio</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Bio)</dd>
+
+                <!-- Profile Picture -->
+                <dt class="col-sm-4">Profile Picture</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ProfilePicture)</dd>
+
+                <!-- Delivery Area -->
+                <dt class="col-sm-4">Delivery Area</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.DeliveryArea)</dd>
+
+                <!-- Rating -->
+                <dt class="col-sm-4">Rating</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Rating)</dd>
+
+                <!-- Contact Info -->
+                <dt class="col-sm-4">Contact Info</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ContactInfo)</dd>
+
+                <!-- Created At -->
+                <dt class="col-sm-4">Created At</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.CreatedAt)</dd>
+
+                <!-- Updated At -->
+                <dt class="col-sm-4">Updated At</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.UpdatedAt)</dd>
+
+                <!-- Email Navigation -->
+                <dt class="col-sm-4">Email</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.EmailNavigation.Email)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ChefId" />
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Delete
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Back to List
+            </a>
+        </form>
+    </div>
+</div>

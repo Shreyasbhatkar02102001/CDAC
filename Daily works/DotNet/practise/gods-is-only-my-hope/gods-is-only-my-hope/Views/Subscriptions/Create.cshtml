@@ -1,0 +1,61 @@
+﻿@model gods_is_only_my_hope.Models.Subscription
+
+@{
+    ViewData["Title"] = "Create Subscription";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Create Subscription</h1>
+    <p class="text-muted">Fill in the details below to create a new subscription.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <!-- Customer Name -->
+                <div class="mb-3">
+                    <label asp-for="CustomerName" class="form-label">Customer Name</label>
+                    <input asp-for="CustomerName" class="form-control" placeholder="Enter customer name" required />
+                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+
+                <!-- Plan -->
+                <div class="mb-3">
+                    <label asp-for="Plan" class="form-label">Plan</label>
+                    <input asp-for="Plan" class="form-control" placeholder="Enter subscription plan" required />
+                    <span asp-validation-for="Plan" class="text-danger"></span>
+                </div>
+
+                <!-- Status -->
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label">Status</label>
+                    <select asp-for="Status" class="form-select" required>
+                        <option value="">-- Select Status --</option>
+                        <option value="Active">Active</option>
+                        <option value="Inactive">Inactive</option>
+                        <option value="Pending">Pending</option>
+                    </select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <!-- Buttons -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Create Subscription
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

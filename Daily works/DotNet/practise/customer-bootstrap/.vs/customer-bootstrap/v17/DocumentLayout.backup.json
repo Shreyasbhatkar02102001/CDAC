@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\controllers\\tempuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\controllers\\tempuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\tempusers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\tempusers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\dietaries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\dietaries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\dietaries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\dietaries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\dietaries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\dietaries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\dietaries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\dietaries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\views\\dietaries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\views\\dietaries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\customer-bootstrap\\customer-bootstrap\\models\\tempuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0219F2-2788-4EC9-B927-F361952E37FC}|customer-bootstrap\\customer-bootstrap.csproj|solutionrelative:customer-bootstrap\\models\\tempuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChefsController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\ChefsController.cs",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Controllers\\ChefsController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\ChefsController.cs",
+              "RelativeToolTip": "customer-bootstrap\\Controllers\\ChefsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:44:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "customer-bootstrap\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:31:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\TempUsersController.cs",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Controllers\\TempUsersController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\TempUsersController.cs",
+              "RelativeToolTip": "customer-bootstrap\\Controllers\\TempUsersController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:31:17.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\TempUsers\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\TempUsers\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\TempUsers\\Dashboard.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\TempUsers\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:27:36.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\Dietaries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Edit.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\Dietaries\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:24:09.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Details.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\Dietaries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Details.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\Dietaries\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:23:08.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\Dietaries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Delete.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\Dietaries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:22:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Create.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\Dietaries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Create.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\Dietaries\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:17:23.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Index.cshtml",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Views\\Dietaries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Views\\Dietaries\\Index.cshtml",
+              "RelativeToolTip": "customer-bootstrap\\Views\\Dietaries\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:17:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DietariesController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\DietariesController.cs",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Controllers\\DietariesController.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Controllers\\DietariesController.cs",
+              "RelativeToolTip": "customer-bootstrap\\Controllers\\DietariesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:06:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TempUser.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Models\\TempUser.cs",
+              "RelativeDocumentMoniker": "customer-bootstrap\\Models\\TempUser.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\customer-bootstrap\\customer-bootstrap\\Models\\TempUser.cs",
+              "RelativeToolTip": "customer-bootstrap\\Models\\TempUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:21:34.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

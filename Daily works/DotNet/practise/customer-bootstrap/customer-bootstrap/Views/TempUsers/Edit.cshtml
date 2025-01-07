@@ -1,0 +1,139 @@
+﻿@* @model customer_bootstrap.Models.TempUser *@
+
+@* @{ *@
+@*     ViewData["Title"] = "Edit"; *@
+@* } *@
+
+@* <h1>Edit</h1> *@
+
+@* <h4>TempUser</h4> *@
+@* <hr /> *@
+@* <div class="row"> *@
+@*     <div class="col-md-4"> *@
+@*         <form asp-action="Edit"> *@
+@*             <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+@*             <input type="hidden" asp-for="UserId" /> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="Name" class="control-label"></label> *@
+@*                 <input asp-for="Name" class="form-control" /> *@
+@*                 <span asp-validation-for="Name" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="Email" class="control-label"></label> *@
+@*                 <input asp-for="Email" class="form-control" /> *@
+@*                 <span asp-validation-for="Email" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="PhoneNumber" class="control-label"></label> *@
+@*                 <input asp-for="PhoneNumber" class="form-control" /> *@
+@*                 <span asp-validation-for="PhoneNumber" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="DietaryPreferences" class="control-label"></label> *@
+@*                 <input asp-for="DietaryPreferences" class="form-control" /> *@
+@*                 <span asp-validation-for="DietaryPreferences" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="ProfilePicture" class="control-label"></label> *@
+@*                 <input asp-for="ProfilePicture" class="form-control" /> *@
+@*                 <span asp-validation-for="ProfilePicture" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <label asp-for="CreatedAt" class="control-label"></label> *@
+@*                 <input asp-for="CreatedAt" class="form-control" /> *@
+@*                 <span asp-validation-for="CreatedAt" class="text-danger"></span> *@
+@*             </div> *@
+@*             <div class="form-group"> *@
+@*                 <input type="submit" value="Save" class="btn btn-primary" /> *@
+@*             </div> *@
+@*         </form> *@
+@*     </div> *@
+@* </div> *@
+
+@* <div> *@
+@*     <a asp-action="Index">Back to List</a> *@
+@* </div> *@
+
+@* @section Scripts { *@
+@*     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");} *@
+@* } *@
+
+
+@model customer_bootstrap.Models.TempUser
+
+@{
+    ViewData["Title"] = "Edit Temp User";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Edit Temp User</h1>
+    <p class="text-muted">Update the details of the temporary user below.</p>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="UserId" />
+
+                <!-- Name -->
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Email -->
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" placeholder="Enter email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <!-- Phone Number -->
+                <div class="mb-3">
+                    <label asp-for="PhoneNumber" class="form-label"></label>
+                    <input asp-for="PhoneNumber" class="form-control" placeholder="Enter phone number" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+
+                <!-- Dietary Preferences -->
+                <div class="mb-3">
+                    <label asp-for="DietaryPreferences" class="form-label"></label>
+                    <input asp-for="DietaryPreferences" class="form-control" placeholder="Enter dietary preferences" />
+                    <span asp-validation-for="DietaryPreferences" class="text-danger"></span>
+                </div>
+
+                <!-- Profile Picture -->
+                <div class="mb-3">
+                    <label asp-for="ProfilePicture" class="form-label"></label>
+                    <input asp-for="ProfilePicture" class="form-control" placeholder="Enter profile picture URL" />
+                    <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+                </div>
+
+                <!-- Created At -->
+                <div class="mb-3">
+                    <label asp-for="CreatedAt" class="form-label"></label>
+                    <input asp-for="CreatedAt" type="date" class="form-control" />
+                    <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                </div>
+
+                <!-- Save Button -->
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,45 @@
+﻿@model gods_is_only_my_hope.Models.Subscription
+
+@{
+    ViewData["Title"] = "Subscription Details";
+}
+
+<div class="container mt-4">
+    <h1 class="display-6">Subscription Details</h1>
+    <p class="text-muted">View detailed information about the selected subscription.</p>
+    <hr />
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>Subscription Information</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <!-- Customer Name -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.CustomerName)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.CustomerName)</dd>
+
+                <!-- Plan -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Plan)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.Plan)</dd>
+
+                <!-- Status -->
+                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Status)</dt>
+                <dd class="col-sm-8">
+                    <span class="badge @(Model.Status == "Active" ? "bg-success" : "bg-danger")">
+                        @Html.DisplayFor(model => model.Status)
+                    </span>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-between">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">
+            <i class="bi bi-pencil-square"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
+    </div>
+</div>
