@@ -1,0 +1,15 @@
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\bin\Debug\net9.0\MathEngine.exe
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\bin\Debug\net9.0\MathEngine.deps.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\bin\Debug\net9.0\MathEngine.runtimeconfig.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\bin\Debug\net9.0\MathEngine.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\bin\Debug\net9.0\MathEngine.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.sourcelink.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\refint\MathEngine.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\MathEngine.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\MathEngine\MathEngine\obj\Debug\net9.0\ref\MathEngine.dll
