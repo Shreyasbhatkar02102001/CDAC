@@ -1,0 +1,15 @@
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\bin\Debug\net9.0\LabExamMath.exe
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\bin\Debug\net9.0\LabExamMath.deps.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\bin\Debug\net9.0\LabExamMath.runtimeconfig.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\bin\Debug\net9.0\LabExamMath.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\bin\Debug\net9.0\LabExamMath.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.sourcelink.json
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\refint\LabExamMath.dll
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.pdb
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\LabExamMath.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Attachments\Documents\GitHub\CDAC\Daily works\DotNet\practise\LabExamMath\LabExamMath\obj\Debug\net9.0\ref\LabExamMath.dll
