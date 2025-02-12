@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gods-is-only-my-hope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68402353053c4fbb12fc620a0381248a2bcb8f32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f7e0c48586f3d646c4774bd86ce6d564f37d795")]
 [assembly: System.Reflection.AssemblyProductAttribute("gods-is-only-my-hope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gods-is-only-my-hope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

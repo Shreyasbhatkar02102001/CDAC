@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\models\\dietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\models\\dietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -197,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\controllers\\dietariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|c:\\users\\shrey\\onedrive\\attachments\\documents\\github\\cdac\\daily works\\dotnet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{11DFB10A-E3E9-4C79-A320-44E951787162}|gods-is-only-my-hope\\gods-is-only-my-hope.csproj|solutionrelative:gods-is-only-my-hope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -210,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -222,19 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:09:52.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dietary.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Dietary.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Dietary.cs",
@@ -242,12 +230,11 @@
               "RelativeToolTip": "gods-is-only-my-hope\\Models\\Dietary.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:00:00.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T00:00:00.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Feedback.cs",
@@ -259,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Menumanagement.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Menumanagement.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Menumanagement.cs",
@@ -271,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Subscription.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Subscription.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Subscription.cs",
@@ -283,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\User.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\User.cs",
@@ -295,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Zerowaste.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\Zerowaste.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\Zerowaste.cs",
@@ -307,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Edit.cshtml",
@@ -319,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ZerowastesController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\ZerowastesController.cs",
@@ -331,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\UsersController.cs",
@@ -343,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Index.cshtml",
@@ -355,7 +342,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:20:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\appsettings.json",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
+              "RelativeToolTip": "gods-is-only-my-hope\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T22:20:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "gods-is-only-my-hope\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:09:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Shared\\_Layout.cshtml",
@@ -367,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Index.cshtml",
@@ -379,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Details.cshtml",
@@ -391,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Index.cshtml",
@@ -403,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Create.cshtml",
@@ -415,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Edit.cshtml",
@@ -427,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Create.cshtml",
@@ -439,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Create.cshtml",
@@ -451,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Edit.cshtml",
@@ -463,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Delete.cshtml",
@@ -475,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Users\\Details.cshtml",
@@ -487,19 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
-              "RelativeDocumentMoniker": "gods-is-only-my-hope\\Program.cs",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Program.cs",
-              "RelativeToolTip": "gods-is-only-my-hope\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T22:20:57.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Home\\dashboard.cshtml",
@@ -511,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Zerowastes\\Delete.cshtml",
@@ -523,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\HomeController.cs",
@@ -535,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\wwwroot\\js\\script.js",
@@ -547,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\wwwroot\\css\\style.css",
@@ -559,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Details.cshtml",
@@ -571,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Delete.cshtml",
@@ -583,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Subscriptions\\Index.cshtml",
@@ -595,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Details.cshtml",
@@ -607,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Delete.cshtml",
@@ -619,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Create.cshtml",
@@ -631,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Menumanagements\\Edit.cshtml",
@@ -643,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Edit.cshtml",
@@ -655,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Details.cshtml",
@@ -667,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Delete.cshtml",
@@ -679,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Create.cshtml",
@@ -691,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Feedbacks\\Index.cshtml",
@@ -703,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Edit.cshtml",
@@ -715,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Details.cshtml",
@@ -727,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Delete.cshtml",
@@ -739,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Create.cshtml",
@@ -751,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Views\\Dietaries\\Index.cshtml",
@@ -763,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "SubscriptionsController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\SubscriptionsController.cs",
@@ -775,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "MenumanagementsController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\MenumanagementsController.cs",
@@ -787,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "FeedbacksController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\FeedbacksController.cs",
@@ -799,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "DietariesController.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\Controllers\\DietariesController.cs",
               "RelativeDocumentMoniker": "gods-is-only-my-hope\\Controllers\\DietariesController.cs",
@@ -808,18 +821,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T22:22:42.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
-              "RelativeDocumentMoniker": "gods-is-only-my-hope\\appsettings.json",
-              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Attachments\\Documents\\GitHub\\CDAC\\Daily works\\DotNet\\practise\\gods-is-only-my-hope\\gods-is-only-my-hope\\appsettings.json",
-              "RelativeToolTip": "gods-is-only-my-hope\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T22:20:33.41Z"
             }
           ]
         }
