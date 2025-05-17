@@ -1,0 +1,30 @@
+My project name is Annapurna : Food ordering service
+
+Annapurna is a platform tailored to address the needs of Indian society by empowering local housewives to earn income through their cooking skills. For example, a homemaker in a small community can use her traditional recipes to prepare healthy, home-cooked meals for busy professionals or students nearby. This not only provides her with financial independence but also ensures that people have access to nutritious, affordable meals. By offering subscription-based meal plans, Annapurna caters to the convenience of customers while supporting local talent. The platform bridges the gap between talented home cooks and their local communities, creating a win-win situation for both.
+
+we have used different tech stack like for the frontend we have used react.js along with react bootstrap components to ensure we have responsive website; for the backend we have use the springboot and for the database we have MySQL . In our project we have used 8 tables in our project
+
+Home : 
+	contact_us	-> 	Enquiry details in admin panel
+	logins		->	all the login/registered details are stored here  
+	
+Customers : 
+	customers	->   Customer details include12 their address, email, mobile, name
+	orders   	 ->  after payment user can see their orders in this table
+	customer_plans 	->   Current Subcription details like start date and end date
+
+vendors : 
+	vendors			-> 	Vendor details like address, mobile, name, is_blocked, 											is_verified
+	subscription_plans	-> 	subscription plan details 
+	tiffin 			-> 	each food item from the subscription is available here 
+	
+for the Security purpose we have used JWT Authentication and Authorization with spring security and for the payment we have used Razor gateway which provide testing mode for developer. And for frontend to backend routing we have used axios . we have different Dashboards like admin, customer, vendor.
+
+admin		-> 	admin manages enquiries sent from the contact_us page, vendor verification (who have registered for the first time in our system), vendor approved after the verification , block vendor  ( who are approved already by the admin)
+
+customer 	->	customer is able to update their details, can place their orders, view placed orders, can see their current active subscriptions , can visit vendors subscription plans 
+
+vendor 		-> 	vendor is able to update their details, can add new subscriptions, disable the subscription plans if required, can is all enabled / active subscriptions list 
+
+
+and managing the user by storing the token in session storage 
